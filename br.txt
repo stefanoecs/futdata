@@ -1,0 +1,3465 @@
+Rodada 38
+07.12. 16:00
+
+Botafogo
+
+Atlético-MG
+0
+ - 
+0
+(0 - 0)
+07.12. 16:00
+
+Coritiba
+
+Bahia
+3
+ - 
+2
+(1 - 2)
+07.12. 16:00
+
+Cruzeiro
+
+Fluminense
+2
+ - 
+1
+(1 - 1)
+07.12. 16:00
+
+Goiás
+
+Chapecoense
+4
+ - 
+2
+(2 - 1)
+07.12. 16:00
+
+Grêmio
+
+Flamengo
+1
+ - 
+1
+(0 - 1)
+07.12. 16:00
+
+Palmeiras
+
+Athletico-PR
+1
+ - 
+1
+(1 - 1)
+07.12. 16:00
+
+Sport
+
+São Paulo
+1
+ - 
+0
+(1 - 0)
+07.12. 16:00
+
+Vitória
+
+Santos
+0
+ - 
+1
+(0 - 0)
+06.12. 15:30
+
+Corinthians
+
+Criciúma
+2
+ - 
+1
+(1 - 0)
+06.12. 15:30
+
+Figueirense
+
+Internacional
+1
+ - 
+2
+(0 - 0)
+Rodada 37
+30.11. 18:30
+
+Athletico-PR
+
+Goiás
+1
+ - 
+0
+(0 - 0)
+30.11. 18:30
+
+Atlético-MG
+
+Coritiba
+1
+ - 
+2
+(0 - 1)
+30.11. 18:30
+
+Bahia
+
+Grêmio
+1
+ - 
+0
+(1 - 0)
+30.11. 16:00
+
+Chapecoense
+
+Cruzeiro
+1
+ - 
+1
+(1 - 0)
+30.11. 16:00
+
+Fluminense
+
+Corinthians
+5
+ - 
+2
+(1 - 1)
+30.11. 16:00
+
+Santos
+
+Botafogo
+2
+ - 
+0
+(0 - 0)
+30.11. 16:00
+
+São Paulo
+
+Figueirense
+1
+ - 
+1
+(0 - 0)
+29.11. 20:00
+
+Flamengo
+
+Vitória
+4
+ - 
+0
+(1 - 0)
+29.11. 18:30
+
+Criciúma
+
+Sport
+2
+ - 
+2
+(0 - 1)
+29.11. 18:30
+
+Internacional
+
+Palmeiras
+3
+ - 
+1
+(1 - 1)
+Rodada 36
+23.11. 18:30
+
+Chapecoense
+
+Botafogo
+2
+ - 
+0
+(0 - 0)
+23.11. 18:30
+
+Corinthians
+
+Grêmio
+1
+ - 
+0
+(0 - 0)
+23.11. 18:30
+
+Coritiba
+
+Palmeiras
+2
+ - 
+0
+(0 - 0)
+23.11. 16:00
+
+Cruzeiro
+
+Goiás
+2
+ - 
+1
+(1 - 1)
+23.11. 16:00
+
+Figueirense
+
+Vitória
+2
+ - 
+0
+(1 - 0)
+23.11. 16:00
+
+Flamengo
+
+Criciúma
+1
+ - 
+1
+(1 - 0)
+23.11. 16:00
+
+Santos
+
+São Paulo
+0
+ - 
+1
+(0 - 0)
+23.11. 16:00
+
+Sport
+
+Fluminense
+2
+ - 
+2
+(2 - 1)
+22.11. 20:00
+
+Bahia
+
+Athletico-PR
+1
+ - 
+2
+(0 - 0)
+22.11. 18:30
+
+Internacional
+
+Atlético-MG
+2
+ - 
+1
+(1 - 1)
+Rodada 35
+20.11. 20:50
+
+Grêmio
+
+Cruzeiro
+1
+ - 
+2
+(1 - 0)
+20.11. 18:30
+
+Fluminense
+
+Chapecoense
+1
+ - 
+4
+(0 - 0)
+19.11. 21:00
+
+Atlético-MG
+
+Flamengo
+4
+ - 
+0
+(2 - 0)
+19.11. 21:00
+
+Palmeiras
+
+Sport
+0
+ - 
+2
+(0 - 0)
+19.11. 20:00
+
+Criciúma
+
+Bahia
+0
+ - 
+1
+(0 - 0)
+19.11. 20:00
+
+Goiás
+
+Corinthians
+0
+ - 
+1
+(0 - 1)
+19.11. 20:00
+
+Vitória
+
+Coritiba
+1
+ - 
+1
+(1 - 1)
+19.11. 18:30
+
+Athletico-PR
+
+Santos
+1
+ - 
+1
+(0 - 1)
+19.11. 18:30
+
+Botafogo
+
+Figueirense
+0
+ - 
+1
+(0 - 0)
+Rodada 34
+16.11. 18:30
+
+Atlético-MG
+
+Figueirense
+1
+ - 
+1
+(0 - 1)
+16.11. 18:30
+
+Chapecoense
+
+Vitória
+0
+ - 
+1
+(0 - 0)
+16.11. 18:30
+
+São Paulo
+
+Palmeiras
+2
+ - 
+0
+(1 - 0)
+16.11. 16:00
+
+Athletico-PR
+
+Sport
+0
+ - 
+1
+(0 - 0)
+16.11. 16:00
+
+Bahia
+
+Corinthians
+1
+ - 
+2
+(0 - 1)
+16.11. 16:00
+
+Flamengo
+
+Coritiba
+3
+ - 
+2
+(1 - 0)
+16.11. 16:00
+
+Internacional
+
+Goiás
+1
+ - 
+0
+(0 - 0)
+16.11. 16:00
+
+Santos
+
+Cruzeiro
+0
+ - 
+1
+(0 - 0)
+15.11. 18:30
+
+Criciúma
+
+Grêmio
+0
+ - 
+3
+(0 - 2)
+15.11. 18:30
+
+Fluminense
+
+Botafogo
+1
+ - 
+0
+(0 - 0)
+Rodada 35
+12.11. 21:00
+
+São Paulo
+
+Internacional
+1
+ - 
+1
+(0 - 1)
+Rodada 33
+09.11. 18:30
+
+Corinthians
+
+Santos
+1
+ - 
+0
+(1 - 0)
+09.11. 18:30
+
+Cruzeiro
+
+Criciúma
+3
+ - 
+1
+(0 - 1)
+09.11. 18:30
+
+Goiás
+
+Bahia
+3
+ - 
+0
+(0 - 0)
+09.11. 16:00
+
+Figueirense
+
+Chapecoense
+1
+ - 
+0
+(0 - 0)
+09.11. 16:00
+
+Grêmio
+
+Internacional
+4
+ - 
+1
+(1 - 0)
+09.11. 16:00
+
+Sport
+
+Flamengo
+2
+ - 
+2
+(0 - 2)
+09.11. 16:00
+
+Vitória
+
+São Paulo
+1
+ - 
+2
+(0 - 1)
+08.11. 20:00
+
+Botafogo
+
+Athletico-PR
+0
+ - 
+2
+(0 - 1)
+08.11. 18:30
+
+Coritiba
+
+Fluminense
+1
+ - 
+0
+(1 - 0)
+08.11. 18:30
+
+Palmeiras
+
+Atlético-MG
+0
+ - 
+2
+(0 - 1)
+Rodada 32
+02.11. 19:00
+
+Bahia
+
+Palmeiras
+0
+ - 
+1
+(0 - 1)
+02.11. 18:30
+
+Athletico-PR
+
+Atlético-MG
+1
+ - 
+0
+(1 - 0)
+02.11. 18:30
+
+Flamengo
+
+Chapecoense
+3
+ - 
+0
+(0 - 0)
+02.11. 16:00
+
+Criciúma
+
+São Paulo
+1
+ - 
+2
+(0 - 1)
+02.11. 16:00
+
+Cruzeiro
+
+Botafogo
+2
+ - 
+1
+(2 - 0)
+02.11. 16:00
+
+Santos
+
+Internacional
+1
+ - 
+2
+(0 - 1)
+02.11. 16:00
+
+Sport
+
+Figueirense
+1
+ - 
+0
+(0 - 0)
+01.11. 20:00
+
+Corinthians
+
+Coritiba
+2
+ - 
+2
+(0 - 2)
+01.11. 18:30
+
+Goiás
+
+Fluminense
+0
+ - 
+2
+(0 - 1)
+01.11. 18:30
+
+Grêmio
+
+Vitória
+1
+ - 
+0
+(1 - 0)
+Rodada 31
+27.10. 19:30
+
+São Paulo
+
+Goiás
+3
+ - 
+0
+(2 - 0)
+25.10. 20:00
+
+Botafogo
+
+Flamengo
+2
+ - 
+1
+(1 - 0)
+25.10. 20:00
+
+Internacional
+
+Bahia
+2
+ - 
+0
+(2 - 0)
+25.10. 17:30
+
+Atlético-MG
+
+Sport
+3
+ - 
+2
+(1 - 1)
+25.10. 17:30
+
+Chapecoense
+
+Santos
+1
+ - 
+1
+(0 - 1)
+25.10. 17:30
+
+Coritiba
+
+Grêmio
+1
+ - 
+1
+(1 - 0)
+25.10. 17:30
+
+Vitória
+
+Criciúma
+3
+ - 
+1
+(0 - 0)
+25.10. 15:20
+
+Figueirense
+
+Cruzeiro
+1
+ - 
+1
+(0 - 1)
+25.10. 15:20
+
+Fluminense
+
+Athletico-PR
+2
+ - 
+1
+(0 - 0)
+25.10. 15:20
+
+Palmeiras
+
+Corinthians
+1
+ - 
+1
+(1 - 0)
+Rodada 30
+22.10. 21:30
+
+Sport
+
+Goiás
+0
+ - 
+1
+(0 - 0)
+22.10. 21:00
+
+Chapecoense
+
+São Paulo
+0
+ - 
+0
+(0 - 0)
+22.10. 21:00
+
+Santos
+
+Fluminense
+0
+ - 
+1
+(0 - 0)
+22.10. 20:00
+
+Coritiba
+
+Botafogo
+2
+ - 
+0
+(1 - 0)
+22.10. 20:00
+
+Grêmio
+
+Figueirense
+1
+ - 
+0
+(1 - 0)
+22.10. 18:30
+
+Corinthians
+
+Vitória
+2
+ - 
+1
+(1 - 0)
+22.10. 18:30
+
+Criciúma
+
+Athletico-PR
+0
+ - 
+1
+(0 - 0)
+22.10. 18:30
+
+Cruzeiro
+
+Palmeiras
+1
+ - 
+1
+(0 - 0)
+22.10. 18:30
+
+Flamengo
+
+Internacional
+2
+ - 
+0
+(0 - 0)
+21.10. 20:50
+
+Bahia
+
+Atlético-MG
+1
+ - 
+1
+(0 - 0)
+Rodada 29
+19.10. 17:30
+
+Botafogo
+
+Sport
+1
+ - 
+1
+(0 - 1)
+19.10. 17:30
+
+Vitória
+
+Cruzeiro
+0
+ - 
+1
+(0 - 0)
+19.10. 15:00
+
+Athletico-PR
+
+Flamengo
+2
+ - 
+1
+(2 - 1)
+19.10. 15:00
+
+Figueirense
+
+Coritiba
+4
+ - 
+0
+(1 - 0)
+19.10. 15:00
+
+Internacional
+
+Corinthians
+1
+ - 
+2
+(0 - 2)
+19.10. 15:00
+
+Palmeiras
+
+Santos
+1
+ - 
+3
+(0 - 2)
+18.10. 21:00
+
+Atlético-MG
+
+Chapecoense
+1
+ - 
+0
+(1 - 0)
+18.10. 18:30
+
+Fluminense
+
+Criciúma
+4
+ - 
+2
+(1 - 1)
+18.10. 18:30
+
+Goiás
+
+Grêmio
+0
+ - 
+0
+(0 - 0)
+18.10. 18:30
+
+São Paulo
+
+Bahia
+2
+ - 
+1
+(1 - 0)
+Rodada 28
+12.10. 18:30
+
+Athletico-PR
+
+Figueirense
+3
+ - 
+0
+(0 - 0)
+12.10. 18:30
+
+Criciúma
+
+Santos
+3
+ - 
+0
+(2 - 0)
+12.10. 18:30
+
+Sport
+
+Vitória
+1
+ - 
+2
+(1 - 2)
+12.10. 16:00
+
+Atlético-MG
+
+São Paulo
+1
+ - 
+0
+(0 - 0)
+12.10. 16:00
+
+Bahia
+
+Chapecoense
+0
+ - 
+1
+(0 - 1)
+12.10. 16:00
+
+Flamengo
+
+Cruzeiro
+3
+ - 
+0
+(1 - 0)
+12.10. 16:00
+
+Internacional
+
+Fluminense
+2
+ - 
+1
+(0 - 0)
+11.10. 21:00
+
+Palmeiras
+
+Grêmio
+2
+ - 
+1
+(0 - 0)
+Rodada 9
+11.10. 18:30
+
+Botafogo
+
+Corinthians
+1
+ - 
+0
+(1 - 0)
+Rodada 28
+11.10. 18:30
+
+Goiás
+
+Coritiba
+3
+ - 
+0
+(2 - 0)
+Rodada 27
+09.10. 20:30
+
+Chapecoense
+
+Internacional
+5
+ - 
+0
+(2 - 0)
+09.10. 19:30
+
+Fluminense
+
+Atlético-MG
+0
+ - 
+0
+(0 - 0)
+09.10. 19:30
+
+Santos
+
+Bahia
+1
+ - 
+0
+(1 - 0)
+08.10. 22:00
+
+Cruzeiro
+
+Corinthians
+0
+ - 
+1
+(0 - 0)
+08.10. 22:00
+
+Figueirense
+
+Flamengo
+1
+ - 
+2
+(0 - 1)
+08.10. 22:00
+
+Grêmio
+
+Sport
+2
+ - 
+0
+(1 - 0)
+08.10. 21:00
+
+Vitória
+
+Goiás
+2
+ - 
+2
+(2 - 0)
+08.10. 19:30
+
+Botafogo
+
+Palmeiras
+0
+ - 
+1
+(0 - 0)
+08.10. 19:30
+
+Coritiba
+
+Criciúma
+1
+ - 
+0
+(1 - 0)
+08.10. 19:30
+
+São Paulo
+
+Athletico-PR
+1
+ - 
+0
+(1 - 0)
+Rodada 26
+04.10. 21:00
+
+Goiás
+
+Figueirense
+1
+ - 
+0
+(1 - 0)
+04.10. 18:30
+
+Corinthians
+
+Sport
+3
+ - 
+0
+(1 - 0)
+04.10. 18:30
+
+Criciúma
+
+Atlético-MG
+3
+ - 
+1
+(2 - 1)
+04.10. 18:30
+
+Cruzeiro
+
+Internacional
+2
+ - 
+1
+(2 - 0)
+04.10. 16:20
+
+Coritiba
+
+Athletico-PR
+1
+ - 
+0
+(0 - 0)
+04.10. 16:20
+
+Flamengo
+
+Santos
+0
+ - 
+1
+(0 - 1)
+04.10. 16:20
+
+Fluminense
+
+Bahia
+1
+ - 
+1
+(1 - 0)
+04.10. 16:20
+
+Grêmio
+
+São Paulo
+0
+ - 
+1
+(0 - 0)
+04.10. 16:20
+
+Vitória
+
+Botafogo
+2
+ - 
+1
+(0 - 0)
+02.10. 19:30
+
+Palmeiras
+
+Chapecoense
+4
+ - 
+2
+(0 - 1)
+Rodada 25
+28.09. 18:30
+
+Figueirense
+
+Palmeiras
+3
+ - 
+1
+(0 - 1)
+28.09. 18:30
+
+Internacional
+
+Coritiba
+4
+ - 
+2
+(3 - 1)
+28.09. 18:30
+
+Santos
+
+Goiás
+2
+ - 
+0
+(1 - 0)
+28.09. 16:00
+
+Athletico-PR
+
+Corinthians
+1
+ - 
+0
+(1 - 0)
+28.09. 16:00
+
+Atlético-MG
+
+Vitória
+2
+ - 
+0
+(0 - 0)
+28.09. 16:00
+
+Bahia
+
+Flamengo
+2
+ - 
+1
+(1 - 0)
+28.09. 16:00
+
+Botafogo
+
+Grêmio
+0
+ - 
+2
+(0 - 0)
+27.09. 21:00
+
+São Paulo
+
+Fluminense
+1
+ - 
+3
+(0 - 0)
+27.09. 18:30
+
+Chapecoense
+
+Criciúma
+1
+ - 
+1
+(1 - 0)
+27.09. 18:30
+
+Sport
+
+Cruzeiro
+0
+ - 
+0
+(0 - 0)
+Rodada 24
+25.09. 20:30
+
+Atlético-MG
+
+Santos
+3
+ - 
+2
+(2 - 0)
+25.09. 19:30
+
+Botafogo
+
+Goiás
+1
+ - 
+0
+(0 - 0)
+25.09. 19:30
+
+Palmeiras
+
+Vitória
+2
+ - 
+0
+(1 - 0)
+24.09. 22:00
+
+Figueirense
+
+Corinthians
+1
+ - 
+0
+(0 - 0)
+24.09. 22:00
+
+Fluminense
+
+Grêmio
+0
+ - 
+0
+(0 - 0)
+24.09. 22:00
+
+São Paulo
+
+Flamengo
+2
+ - 
+2
+(1 - 1)
+24.09. 21:00
+
+Bahia
+
+Sport
+1
+ - 
+0
+(0 - 0)
+24.09. 21:00
+
+Chapecoense
+
+Athletico-PR
+3
+ - 
+0
+(1 - 0)
+24.09. 19:30
+
+Coritiba
+
+Cruzeiro
+1
+ - 
+2
+(0 - 2)
+24.09. 19:30
+
+Internacional
+
+Criciúma
+3
+ - 
+0
+(1 - 0)
+Rodada 23
+21.09. 18:30
+
+Goiás
+
+Palmeiras
+6
+ - 
+0
+(4 - 0)
+21.09. 18:30
+
+Grêmio
+
+Chapecoense
+1
+ - 
+0
+(1 - 0)
+21.09. 18:30
+
+Santos
+
+Figueirense
+3
+ - 
+1
+(1 - 1)
+21.09. 16:00
+
+Corinthians
+
+São Paulo
+3
+ - 
+2
+(1 - 2)
+21.09. 16:00
+
+Cruzeiro
+
+Atlético-MG
+2
+ - 
+3
+(1 - 2)
+21.09. 16:00
+
+Flamengo
+
+Fluminense
+1
+ - 
+1
+(1 - 1)
+21.09. 16:00
+
+Sport
+
+Coritiba
+1
+ - 
+0
+(0 - 0)
+21.09. 16:00
+
+Vitória
+
+Bahia
+2
+ - 
+1
+(1 - 1)
+20.09. 21:00
+
+Criciúma
+
+Botafogo
+1
+ - 
+1
+(0 - 1)
+20.09. 18:30
+
+Athletico-PR
+
+Internacional
+0
+ - 
+1
+(0 - 0)
+Rodada 22
+18.09. 20:30
+
+Grêmio
+
+Santos
+0
+ - 
+0
+(0 - 0)
+18.09. 19:30
+
+Corinthians
+
+Chapecoense
+1
+ - 
+1
+(1 - 0)
+18.09. 19:30
+
+Goiás
+
+Atlético-MG
+2
+ - 
+3
+(0 - 3)
+17.09. 22:00
+
+Botafogo
+
+Bahia
+2
+ - 
+3
+(2 - 1)
+17.09. 22:00
+
+Coritiba
+
+São Paulo
+3
+ - 
+1
+(0 - 1)
+17.09. 22:00
+
+Palmeiras
+
+Flamengo
+2
+ - 
+2
+(0 - 2)
+17.09. 21:00
+
+Figueirense
+
+Criciúma
+1
+ - 
+1
+(0 - 1)
+17.09. 21:00
+
+Sport
+
+Internacional
+0
+ - 
+0
+(0 - 0)
+17.09. 19:30
+
+Cruzeiro
+
+Athletico-PR
+2
+ - 
+0
+(1 - 0)
+17.09. 19:30
+
+Vitória
+
+Fluminense
+3
+ - 
+1
+(0 - 1)
+Rodada 21
+14.09. 18:30
+
+Athletico-PR
+
+Vitória
+2
+ - 
+0
+(1 - 0)
+14.09. 18:30
+
+Atlético-MG
+
+Grêmio
+0
+ - 
+0
+(0 - 0)
+14.09. 18:30
+
+Criciúma
+
+Goiás
+1
+ - 
+0
+(0 - 0)
+14.09. 16:00
+
+Bahia
+
+Figueirense
+3
+ - 
+0
+(2 - 0)
+14.09. 16:00
+
+Flamengo
+
+Corinthians
+1
+ - 
+0
+(0 - 0)
+14.09. 16:00
+
+Internacional
+
+Botafogo
+2
+ - 
+0
+(1 - 0)
+14.09. 16:00
+
+São Paulo
+
+Cruzeiro
+2
+ - 
+0
+(1 - 0)
+13.09. 21:00
+
+Santos
+
+Coritiba
+2
+ - 
+1
+(2 - 0)
+13.09. 18:30
+
+Chapecoense
+
+Sport
+3
+ - 
+1
+(1 - 0)
+13.09. 18:30
+
+Fluminense
+
+Palmeiras
+3
+ - 
+0
+(2 - 0)
+Rodada 20
+11.09. 20:30
+
+Cruzeiro
+
+Bahia
+2
+ - 
+1
+(0 - 1)
+11.09. 19:30
+
+Corinthians
+
+Atlético-MG
+1
+ - 
+0
+(1 - 0)
+10.09. 22:00
+
+Botafogo
+
+São Paulo
+2
+ - 
+4
+(2 - 3)
+10.09. 22:00
+
+Goiás
+
+Flamengo
+1
+ - 
+0
+(0 - 0)
+10.09. 22:00
+
+Vitória
+
+Internacional
+2
+ - 
+0
+(1 - 0)
+10.09. 21:00
+
+Coritiba
+
+Chapecoense
+3
+ - 
+0
+(2 - 0)
+10.09. 21:00
+
+Sport
+
+Santos
+3
+ - 
+1
+(1 - 1)
+10.09. 19:30
+
+Figueirense
+
+Fluminense
+1
+ - 
+1
+(1 - 0)
+10.09. 19:30
+
+Grêmio
+
+Athletico-PR
+1
+ - 
+0
+(0 - 0)
+10.09. 19:30
+
+Palmeiras
+
+Criciúma
+1
+ - 
+0
+(0 - 0)
+Rodada 19
+07.09. 18:30
+
+Athletico-PR
+
+Palmeiras
+1
+ - 
+1
+(1 - 0)
+07.09. 18:30
+
+Bahia
+
+Coritiba
+0
+ - 
+0
+(0 - 0)
+07.09. 18:30
+
+Internacional
+
+Figueirense
+2
+ - 
+3
+(2 - 0)
+07.09. 16:00
+
+Atlético-MG
+
+Botafogo
+1
+ - 
+0
+(0 - 0)
+07.09. 16:00
+
+Criciúma
+
+Corinthians
+0
+ - 
+0
+(0 - 0)
+07.09. 16:00
+
+Fluminense
+
+Cruzeiro
+3
+ - 
+3
+(2 - 2)
+07.09. 16:00
+
+São Paulo
+
+Sport
+2
+ - 
+0
+(2 - 0)
+06.09. 21:00
+
+Chapecoense
+
+Goiás
+0
+ - 
+0
+(0 - 0)
+06.09. 18:30
+
+Flamengo
+
+Grêmio
+0
+ - 
+1
+(0 - 0)
+06.09. 18:30
+
+Santos
+
+Vitória
+3
+ - 
+1
+(0 - 0)
+Rodada 18
+31.08. 18:30
+
+Goiás
+
+Athletico-PR
+3
+ - 
+1
+(2 - 0)
+31.08. 18:30
+
+Grêmio
+
+Bahia
+1
+ - 
+0
+(0 - 0)
+31.08. 18:30
+
+Vitória
+
+Flamengo
+1
+ - 
+2
+(1 - 1)
+31.08. 16:00
+
+Botafogo
+
+Santos
+1
+ - 
+0
+(0 - 0)
+31.08. 16:00
+
+Corinthians
+
+Fluminense
+1
+ - 
+1
+(0 - 1)
+31.08. 16:00
+
+Coritiba
+
+Atlético-MG
+0
+ - 
+0
+(0 - 0)
+31.08. 16:00
+
+Figueirense
+
+São Paulo
+1
+ - 
+1
+(0 - 0)
+31.08. 16:00
+
+Sport
+
+Criciúma
+2
+ - 
+0
+(0 - 0)
+30.08. 18:30
+
+Cruzeiro
+
+Chapecoense
+4
+ - 
+2
+(0 - 1)
+30.08. 18:30
+
+Palmeiras
+
+Internacional
+0
+ - 
+1
+(0 - 1)
+Rodada 17
+24.08. 18:30
+
+Athletico-PR
+
+Bahia
+0
+ - 
+0
+(0 - 0)
+24.08. 18:30
+
+Goiás
+
+Cruzeiro
+0
+ - 
+1
+(0 - 1)
+24.08. 16:00
+
+Criciúma
+
+Flamengo
+0
+ - 
+2
+(0 - 0)
+24.08. 16:00
+
+Fluminense
+
+Sport
+4
+ - 
+0
+(2 - 0)
+24.08. 16:00
+
+Grêmio
+
+Corinthians
+2
+ - 
+1
+(0 - 0)
+24.08. 16:00
+
+São Paulo
+
+Santos
+2
+ - 
+1
+(1 - 0)
+24.08. 16:00
+
+Vitória
+
+Figueirense
+0
+ - 
+1
+(0 - 0)
+23.08. 21:00
+
+Palmeiras
+
+Coritiba
+1
+ - 
+0
+(1 - 0)
+23.08. 18:30
+
+Atlético-MG
+
+Internacional
+1
+ - 
+0
+(0 - 0)
+23.08. 18:30
+
+Botafogo
+
+Chapecoense
+1
+ - 
+0
+(1 - 0)
+Rodada 16
+21.08. 20:30
+
+Cruzeiro
+
+Grêmio
+1
+ - 
+0
+(0 - 0)
+21.08. 19:30
+
+Corinthians
+
+Goiás
+5
+ - 
+2
+(1 - 1)
+20.08. 22:00
+
+Chapecoense
+
+Fluminense
+1
+ - 
+0
+(0 - 0)
+20.08. 22:00
+
+Flamengo
+
+Atlético-MG
+2
+ - 
+1
+(0 - 1)
+20.08. 22:00
+
+Internacional
+
+São Paulo
+0
+ - 
+1
+(0 - 1)
+20.08. 21:00
+
+Bahia
+
+Criciúma
+0
+ - 
+0
+(0 - 0)
+20.08. 21:00
+
+Coritiba
+
+Vitória
+2
+ - 
+0
+(1 - 0)
+20.08. 19:30
+
+Figueirense
+
+Botafogo
+1
+ - 
+0
+(1 - 0)
+20.08. 19:30
+
+Santos
+
+Athletico-PR
+2
+ - 
+0
+(1 - 0)
+20.08. 19:30
+
+Sport
+
+Palmeiras
+2
+ - 
+1
+(2 - 1)
+Rodada 15
+17.08. 18:30
+
+Botafogo
+
+Fluminense
+2
+ - 
+0
+(0 - 0)
+17.08. 18:30
+
+Figueirense
+
+Atlético-MG
+2
+ - 
+2
+(1 - 1)
+17.08. 18:30
+
+Sport
+
+Athletico-PR
+1
+ - 
+1
+(1 - 1)
+17.08. 16:00
+
+Coritiba
+
+Flamengo
+0
+ - 
+1
+(0 - 1)
+17.08. 16:00
+
+Cruzeiro
+
+Santos
+3
+ - 
+0
+(1 - 0)
+17.08. 16:00
+
+Grêmio
+
+Criciúma
+2
+ - 
+0
+(1 - 0)
+17.08. 16:00
+
+Palmeiras
+
+São Paulo
+1
+ - 
+2
+(0 - 0)
+17.08. 16:00
+
+Vitória
+
+Chapecoense
+0
+ - 
+0
+(0 - 0)
+16.08. 21:00
+
+Corinthians
+
+Bahia
+1
+ - 
+1
+(1 - 1)
+16.08. 18:30
+
+Goiás
+
+Internacional
+0
+ - 
+1
+(0 - 0)
+Rodada 14
+10.08. 18:30
+
+Atlético-MG
+
+Palmeiras
+2
+ - 
+1
+(1 - 0)
+10.08. 18:30
+
+Chapecoense
+
+Figueirense
+0
+ - 
+1
+(0 - 0)
+10.08. 18:30
+
+São Paulo
+
+Vitória
+3
+ - 
+1
+(3 - 1)
+10.08. 16:00
+
+Athletico-PR
+
+Botafogo
+2
+ - 
+0
+(1 - 0)
+10.08. 16:00
+
+Flamengo
+
+Sport
+1
+ - 
+0
+(0 - 0)
+10.08. 16:00
+
+Internacional
+
+Grêmio
+2
+ - 
+0
+(0 - 0)
+10.08. 16:00
+
+Santos
+
+Corinthians
+0
+ - 
+1
+(0 - 0)
+09.08. 21:00
+
+Fluminense
+
+Coritiba
+1
+ - 
+1
+(1 - 0)
+09.08. 18:30
+
+Bahia
+
+Goiás
+1
+ - 
+0
+(1 - 0)
+09.08. 18:30
+
+Criciúma
+
+Cruzeiro
+0
+ - 
+0
+(0 - 0)
+Rodada 10
+06.08. 21:00
+
+Chapecoense
+
+Atlético-MG
+1
+ - 
+1
+(1 - 0)
+Rodada 13
+03.08. 18:30
+
+Atlético-MG
+
+Athletico-PR
+3
+ - 
+1
+(1 - 0)
+03.08. 18:30
+
+Fluminense
+
+Goiás
+2
+ - 
+0
+(2 - 0)
+03.08. 18:30
+
+Internacional
+
+Santos
+1
+ - 
+0
+(0 - 0)
+03.08. 16:00
+
+Chapecoense
+
+Flamengo
+1
+ - 
+0
+(1 - 0)
+03.08. 16:00
+
+Coritiba
+
+Corinthians
+0
+ - 
+0
+(0 - 0)
+03.08. 16:00
+
+Figueirense
+
+Sport
+3
+ - 
+0
+(1 - 0)
+03.08. 16:00
+
+Palmeiras
+
+Bahia
+1
+ - 
+1
+(0 - 0)
+02.08. 21:00
+
+Vitória
+
+Grêmio
+2
+ - 
+1
+(0 - 1)
+02.08. 18:30
+
+Botafogo
+
+Cruzeiro
+1
+ - 
+1
+(1 - 0)
+02.08. 18:30
+
+São Paulo
+
+Criciúma
+1
+ - 
+1
+(0 - 0)
+Rodada 12
+27.07. 18:30
+
+Flamengo
+
+Botafogo
+1
+ - 
+0
+(1 - 0)
+27.07. 18:30
+
+Grêmio
+
+Coritiba
+2
+ - 
+3
+(0 - 0)
+27.07. 16:00
+
+Athletico-PR
+
+Fluminense
+0
+ - 
+3
+(0 - 2)
+27.07. 16:00
+
+Corinthians
+
+Palmeiras
+2
+ - 
+0
+(0 - 0)
+27.07. 16:00
+
+Goiás
+
+São Paulo
+2
+ - 
+1
+(1 - 0)
+27.07. 16:00
+
+Sport
+
+Atlético-MG
+2
+ - 
+1
+(0 - 0)
+26.07. 21:00
+
+Bahia
+
+Internacional
+0
+ - 
+1
+(0 - 0)
+26.07. 18:30
+
+Criciúma
+
+Vitória
+1
+ - 
+3
+(0 - 1)
+26.07. 18:30
+
+Cruzeiro
+
+Figueirense
+5
+ - 
+0
+(1 - 0)
+26.07. 18:30
+
+Santos
+
+Chapecoense
+3
+ - 
+0
+(1 - 0)
+Rodada 11
+20.07. 18:30
+
+Athletico-PR
+
+Criciúma
+2
+ - 
+0
+(0 - 0)
+20.07. 18:30
+
+Fluminense
+
+Santos
+1
+ - 
+0
+(0 - 0)
+20.07. 18:30
+
+Goiás
+
+Sport
+0
+ - 
+0
+(0 - 0)
+20.07. 16:00
+
+Internacional
+
+Flamengo
+4
+ - 
+0
+(2 - 0)
+20.07. 16:00
+
+Palmeiras
+
+Cruzeiro
+1
+ - 
+2
+(0 - 2)
+20.07. 16:00
+
+Vitória
+
+Corinthians
+0
+ - 
+0
+(0 - 0)
+19.07. 21:00
+
+Botafogo
+
+Coritiba
+1
+ - 
+0
+(1 - 0)
+19.07. 18:30
+
+Atlético-MG
+
+Bahia
+1
+ - 
+1
+(0 - 1)
+19.07. 18:30
+
+Figueirense
+
+Grêmio
+0
+ - 
+1
+(0 - 1)
+19.07. 18:30
+
+São Paulo
+
+Chapecoense
+0
+ - 
+1
+(0 - 0)
+Rodada 10
+17.07. 21:00
+
+Cruzeiro
+
+Vitória
+3
+ - 
+1
+(0 - 0)
+17.07. 19:30
+
+Corinthians
+
+Internacional
+2
+ - 
+1
+(2 - 0)
+17.07. 19:30
+
+Santos
+
+Palmeiras
+2
+ - 
+0
+(1 - 0)
+16.07. 22:00
+
+Bahia
+
+São Paulo
+0
+ - 
+2
+(0 - 2)
+16.07. 22:00
+
+Criciúma
+
+Fluminense
+3
+ - 
+2
+(1 - 0)
+16.07. 22:00
+
+Flamengo
+
+Athletico-PR
+1
+ - 
+2
+(1 - 1)
+16.07. 19:30
+
+Coritiba
+
+Figueirense
+0
+ - 
+2
+(0 - 1)
+16.07. 19:30
+
+Grêmio
+
+Goiás
+0
+ - 
+0
+(0 - 0)
+16.07. 19:30
+
+Sport
+
+Botafogo
+1
+ - 
+0
+(1 - 0)
+Rodada 5
+04.06. 21:00
+
+Sport
+
+Bahia
+1
+ - 
+0
+(0 - 0)
+Rodada 9
+01.06. 18:30
+
+Figueirense
+
+Athletico-PR
+1
+ - 
+3
+(0 - 1)
+01.06. 18:30
+
+Fluminense
+
+Internacional
+1
+ - 
+1
+(1 - 1)
+01.06. 18:30
+
+Santos
+
+Criciúma
+2
+ - 
+0
+(2 - 0)
+01.06. 16:00
+
+Chapecoense
+
+Bahia
+2
+ - 
+1
+(0 - 0)
+Rodada 28
+01.06. 16:00
+
+Corinthians
+
+Botafogo
+1
+ - 
+1
+(1 - 0)
+Rodada 9
+01.06. 16:00
+
+Cruzeiro
+
+Flamengo
+3
+ - 
+0
+(3 - 0)
+01.06. 16:00
+
+Grêmio
+
+Palmeiras
+0
+ - 
+0
+(0 - 0)
+31.05. 21:00
+
+Vitória
+
+Sport
+0
+ - 
+1
+(0 - 0)
+31.05. 18:30
+
+Coritiba
+
+Goiás
+3
+ - 
+0
+(3 - 0)
+31.05. 18:30
+
+São Paulo
+
+Atlético-MG
+2
+ - 
+1
+(1 - 0)
+Rodada 8
+29.05. 21:00
+
+Bahia
+
+Santos
+0
+ - 
+2
+(0 - 0)
+29.05. 19:30
+
+Flamengo
+
+Figueirense
+1
+ - 
+1
+(1 - 1)
+28.05. 22:00
+
+Athletico-PR
+
+São Paulo
+2
+ - 
+2
+(1 - 0)
+28.05. 22:00
+
+Atlético-MG
+
+Fluminense
+2
+ - 
+0
+(0 - 0)
+28.05. 22:00
+
+Corinthians
+
+Cruzeiro
+1
+ - 
+0
+(0 - 0)
+28.05. 21:00
+
+Goiás
+
+Vitória
+0
+ - 
+0
+(0 - 0)
+28.05. 21:00
+
+Internacional
+
+Chapecoense
+2
+ - 
+0
+(1 - 0)
+28.05. 19:30
+
+Criciúma
+
+Coritiba
+1
+ - 
+0
+(0 - 0)
+28.05. 19:30
+
+Palmeiras
+
+Botafogo
+0
+ - 
+2
+(0 - 0)
+28.05. 19:30
+
+Sport
+
+Grêmio
+0
+ - 
+0
+(0 - 0)
+Rodada 7
+25.05. 18:30
+
+Atlético-MG
+
+Criciúma
+0
+ - 
+0
+(0 - 0)
+25.05. 18:30
+
+Botafogo
+
+Vitória
+1
+ - 
+1
+(1 - 0)
+25.05. 18:30
+
+Chapecoense
+
+Palmeiras
+2
+ - 
+0
+(1 - 0)
+25.05. 18:30
+
+Internacional
+
+Cruzeiro
+1
+ - 
+3
+(1 - 1)
+25.05. 16:00
+
+Athletico-PR
+
+Coritiba
+2
+ - 
+0
+(0 - 0)
+25.05. 16:00
+
+Figueirense
+
+Goiás
+0
+ - 
+1
+(0 - 1)
+25.05. 16:00
+
+Santos
+
+Flamengo
+0
+ - 
+0
+(0 - 0)
+25.05. 16:00
+
+Sport
+
+Corinthians
+1
+ - 
+4
+(1 - 2)
+24.05. 21:00
+
+São Paulo
+
+Grêmio
+1
+ - 
+0
+(0 - 0)
+24.05. 18:30
+
+Bahia
+
+Fluminense
+0
+ - 
+1
+(0 - 1)
+Rodada 6
+22.05. 21:00
+
+Vitória
+
+Atlético-MG
+2
+ - 
+3
+(0 - 2)
+22.05. 19:30
+
+Goiás
+
+Santos
+2
+ - 
+2
+(1 - 2)
+22.05. 19:30
+
+Palmeiras
+
+Figueirense
+1
+ - 
+0
+(1 - 0)
+21.05. 22:00
+
+Corinthians
+
+Athletico-PR
+1
+ - 
+1
+(0 - 0)
+21.05. 22:00
+
+Fluminense
+
+São Paulo
+5
+ - 
+2
+(1 - 2)
+21.05. 22:00
+
+Grêmio
+
+Botafogo
+2
+ - 
+1
+(1 - 1)
+21.05. 21:00
+
+Criciúma
+
+Chapecoense
+1
+ - 
+0
+(1 - 0)
+21.05. 21:00
+
+Cruzeiro
+
+Sport
+2
+ - 
+0
+(0 - 0)
+21.05. 19:30
+
+Coritiba
+
+Internacional
+1
+ - 
+1
+(0 - 1)
+21.05. 19:30
+
+Flamengo
+
+Bahia
+1
+ - 
+1
+(1 - 0)
+Rodada 5
+18.05. 18:30
+
+Criciúma
+
+Internacional
+0
+ - 
+0
+(0 - 0)
+18.05. 18:30
+
+Santos
+
+Atlético-MG
+1
+ - 
+2
+(1 - 0)
+18.05. 18:30
+
+Vitória
+
+Palmeiras
+0
+ - 
+1
+(0 - 0)
+18.05. 16:00
+
+Athletico-PR
+
+Chapecoense
+1
+ - 
+1
+(0 - 0)
+18.05. 16:00
+
+Corinthians
+
+Figueirense
+0
+ - 
+1
+(0 - 0)
+18.05. 16:00
+
+Flamengo
+
+São Paulo
+0
+ - 
+2
+(0 - 1)
+18.05. 16:00
+
+Grêmio
+
+Fluminense
+1
+ - 
+0
+(1 - 0)
+17.05. 18:30
+
+Cruzeiro
+
+Coritiba
+3
+ - 
+2
+(2 - 1)
+14.05. 22:00
+
+Goiás
+
+Botafogo
+2
+ - 
+0
+(0 - 0)
+Rodada 4
+11.05. 18:30
+
+Bahia
+
+Vitória
+1
+ - 
+1
+(0 - 1)
+11.05. 18:30
+
+Coritiba
+
+Sport
+0
+ - 
+1
+(0 - 0)
+11.05. 18:30
+
+Figueirense
+
+Santos
+0
+ - 
+2
+(0 - 1)
+11.05. 16:00
+
+Atlético-MG
+
+Cruzeiro
+2
+ - 
+1
+(0 - 1)
+11.05. 16:00
+
+Chapecoense
+
+Grêmio
+1
+ - 
+2
+(0 - 1)
+11.05. 16:00
+
+Fluminense
+
+Flamengo
+2
+ - 
+0
+(1 - 0)
+11.05. 16:00
+
+São Paulo
+
+Corinthians
+1
+ - 
+1
+(0 - 0)
+10.05. 21:00
+
+Botafogo
+
+Criciúma
+6
+ - 
+0
+(1 - 0)
+10.05. 18:30
+
+Internacional
+
+Athletico-PR
+2
+ - 
+1
+(0 - 0)
+10.05. 18:30
+
+Palmeiras
+
+Goiás
+2
+ - 
+0
+(2 - 0)
+Rodada 3
+04.05. 18:30
+
+Atlético-MG
+
+Goiás
+0
+ - 
+1
+(0 - 0)
+04.05. 18:30
+
+Chapecoense
+
+Corinthians
+0
+ - 
+1
+(0 - 0)
+04.05. 16:00
+
+Bahia
+
+Botafogo
+1
+ - 
+0
+(0 - 0)
+04.05. 16:00
+
+Criciúma
+
+Figueirense
+1
+ - 
+0
+(1 - 0)
+04.05. 16:00
+
+Flamengo
+
+Palmeiras
+4
+ - 
+2
+(1 - 2)
+04.05. 16:00
+
+Internacional
+
+Sport
+2
+ - 
+1
+(2 - 0)
+03.05. 21:00
+
+Fluminense
+
+Vitória
+1
+ - 
+2
+(0 - 0)
+03.05. 18:30
+
+Athletico-PR
+
+Cruzeiro
+2
+ - 
+3
+(2 - 1)
+03.05. 18:30
+
+Santos
+
+Grêmio
+0
+ - 
+0
+(0 - 0)
+03.05. 18:30
+
+São Paulo
+
+Coritiba
+2
+ - 
+2
+(1 - 1)
+Rodada 2
+27.04. 18:30
+
+Figueirense
+
+Bahia
+0
+ - 
+2
+(0 - 1)
+27.04. 18:30
+
+Goiás
+
+Criciúma
+1
+ - 
+0
+(0 - 0)
+27.04. 18:30
+
+Grêmio
+
+Atlético-MG
+2
+ - 
+1
+(2 - 0)
+27.04. 18:30
+
+Sport
+
+Chapecoense
+2
+ - 
+1
+(2 - 1)
+27.04. 16:00
+
+Botafogo
+
+Internacional
+2
+ - 
+2
+(0 - 2)
+27.04. 16:00
+
+Corinthians
+
+Flamengo
+2
+ - 
+0
+(1 - 0)
+27.04. 16:00
+
+Cruzeiro
+
+São Paulo
+1
+ - 
+1
+(0 - 0)
+27.04. 16:00
+
+Vitória
+
+Athletico-PR
+2
+ - 
+2
+(2 - 0)
+26.04. 21:00
+
+Palmeiras
+
+Fluminense
+0
+ - 
+1
+(0 - 1)
+26.04. 18:30
+
+Coritiba
+
+Santos
+0
+ - 
+0
+(0 - 0)
+Rodada 1
+20.04. 18:30
+
+Criciúma
+
+Palmeiras
+1
+ - 
+2
+(1 - 0)
+20.04. 18:30
+
+Flamengo
+
+Goiás
+0
+ - 
+0
+(0 - 0)
+20.04. 18:30
+
+Santos
+
+Sport
+1
+ - 
+1
+(0 - 0)
+20.04. 16:00
+
+Athletico-PR
+
+Grêmio
+1
+ - 
+0
+(1 - 0)
+20.04. 16:00
+
+Atlético-MG
+
+Corinthians
+0
+ - 
+0
+(0 - 0)
+20.04. 16:00
+
+Bahia
+
+Cruzeiro
+1
+ - 
+2
+(0 - 0)
+20.04. 16:00
+
+São Paulo
+
+Botafogo
+3
+ - 
+0
+(2 - 0)
+19.04. 21:00
+
+Chapecoense
+
+Coritiba
+0
+ - 
+0
+(0 - 0)
+19.04. 18:30
+
+Fluminense
+
+Figueirense
+3
+ - 
+0
+(2 - 0)
+19.04. 18:30
+
+Internacional
+
+Vitória
+1
+ - 
+0
+(1 - 0)

@@ -1,0 +1,380 @@
+38 25.02 Athletico-PR Sport 1 0 2 0
+38 25.02 Atlético-GO Coritiba 3 0 3 1
+38 25.02 Atlético-MG Palmeiras 0 0 2 0
+38 25.02 Bahia Santos 1 0 2 0
+38 25.02 Ceará Botafogo 1 0 2 1
+38 25.02 Fluminense Fortaleza 1 0 2 0
+38 25.02 Internacional Corinthians 0 0 0 0
+38 25.02 Bragantino Grêmio 0 0 1 0
+38 25.02 São Paulo Flamengo 1 0 2 1
+38 25.02 Vasco Goiás 1 2 3 2
+37 22.02 Botafogo São Paulo 0 0 1 0
+37 22.02 Palmeiras Atlético-GO 1 1 1 1
+37 21.02 Goiás Bragantino 0 0 0 0
+37 21.02 Grêmio Athletico-PR 0 0 1 0
+37 21.02 Santos Fluminense 0 1 1 1
+37 21.02 Corinthians Vasco 0 0 0 0
+37 21.02 Flamengo Internacional 1 1 2 1
+37 21.02 Sport Atlético-MG 1 1 2 3
+37 20.02 Fortaleza Bahia 0 1 0 4
+37 20.02 Coritiba Ceará 0 0 0 2
+34 19.02 São Paulo Palmeiras 0 0 1 1
+35 17.02 Coritiba Palmeiras 0 0 1 0
+33 17.02 Santos Corinthians 0 0 1 0
+36 15.02 Sport Bragantino 0 0 0 0
+36 15.02 Ceará Fluminense 0 1 1 3
+36 14.02 Grêmio São Paulo 1 0 1 2
+36 14.02 Athletico-PR Atlético-GO 0 0 2 1
+36 14.02 Palmeiras Fortaleza 3 0 3 0
+36 14.02 Flamengo Corinthians 1 1 2 1
+36 14.02 Vasco Internacional 0 1 0 2
+36 13.02 Atlético-MG Bahia 1 0 1 1
+36 13.02 Santos Coritiba 1 0 2 0
+36 13.02 Goiás Botafogo 1 0 2 0
+35 10.02 Corinthians Athletico-PR 2 2 3 3
+35 10.02 Fluminense Atlético-MG 0 0 0 0
+35 10.02 São Paulo Ceará 0 0 1 1
+35 10.02 Fortaleza Vasco 2 0 3 0
+35 10.02 Internacional Sport 1 2 1 2
+35 08.02 Botafogo Grêmio 0 2 2 5
+35 07.02 Bragantino Flamengo 0 1 1 1
+35 06.02 Atlético-GO Santos 1 0 1 1
+35 06.02 Bahia Goiás 2 1 3 3
+34 05.02 Botafogo Sport 0 1 0 1
+34 04.02 Athletico-PR Internacional 0 0 0 0
+34 04.02 Flamengo Vasco 1 0 2 0
+34 04.02 Fortaleza Coritiba 2 1 3 1
+34 03.02 Bahia Fluminense 0 1 0 1
+34 03.02 Corinthians Ceará 2 1 2 1
+34 03.02 Goiás Atlético-MG 1 0 1 0
+34 03.02 Bragantino Atlético-GO 0 0 2 0
+34 03.02 Grêmio Santos 1 1 3 3
+33 02.02 Palmeiras Botafogo 1 0 1 1
+33 01.02 Sport Flamengo 0 2 0 3
+33 31.01 Fluminense Goiás 3 0 3 0
+33 31.01 Internacional Bragantino 1 1 2 1
+33 31.01 Atlético-MG Fortaleza 0 0 2 0
+33 31.01 Atlético-GO São Paulo 1 1 2 1
+33 31.01 Ceará Athletico-PR 0 0 0 2
+33 31.01 Coritiba Grêmio 0 1 1 1
+33 31.01 Vasco Bahia 0 0 0 0
+23 28.01 Grêmio Flamengo 1 0 2 4
+30 28.01 Bahia Corinthians 2 0 2 1
+28 26.01 Atlético-MG Santos 2 0 2 0
+1 26.01 Palmeiras Vasco 1 1 1 1
+32 25.01 Corinthians Bragantino 0 2 0 2
+32 24.01 Fluminense Botafogo 0 0 2 0
+32 24.01 Atlético-GO Fortaleza 1 0 2 0
+32 24.01 Santos Goiás 2 0 3 4
+32 24.01 Sport Bahia 0 0 2 0
+32 24.01 Athletico-PR Flamengo 1 1 2 1
+32 24.01 Ceará Palmeiras 2 1 2 1
+32 24.01 Internacional Grêmio 0 0 2 1
+32 23.01 Vasco Atlético-MG 2 0 3 2
+32 23.01 São Paulo Coritiba 0 0 1 1
+31 21.01 Corinthians Sport 1 0 3 0
+31 21.01 Flamengo Palmeiras 1 0 2 0
+31 21.01 Fortaleza Santos 0 0 2 0
+31 21.01 Goiás Ceará 0 2 0 4
+31 20.01 Bragantino Vasco 1 0 4 1
+31 20.01 São Paulo Internacional 1 2 1 5
+31 20.01 Coritiba Fluminense 2 0 3 3
+31 20.01 Grêmio Atlético-MG 0 1 1 1
+31 20.01 Bahia Athletico-PR 0 0 1 0
+31 20.01 Botafogo Atlético-GO 0 0 1 3
+30 18.01 Goiás Flamengo 0 1 0 3
+28 18.01 Palmeiras Corinthians 2 0 4 0
+30 17.01 Ceará Bragantino 0 0 1 2
+30 17.01 Internacional Fortaleza 2 1 4 2
+30 17.01 Atlético-MG Atlético-GO 2 0 3 1
+30 17.01 Athletico-PR São Paulo 1 0 1 1
+30 17.01 Santos Botafogo 1 1 2 1
+30 16.01 Vasco Coritiba 0 1 0 1
+30 16.01 Fluminense Sport 0 0 1 0
+30 15.01 Palmeiras Grêmio 1 0 1 1
+29 13.01 Corinthians Fluminense 1 0 5 0
+29 11.01 Bragantino Atlético-MG 1 0 2 2
+29 10.01 Vasco Botafogo 1 0 3 0
+29 10.01 Atlético-GO Bahia 1 0 1 1
+29 10.01 Internacional Goiás 1 0 1 0
+29 10.01 Flamengo Ceará 0 1 0 2
+29 10.01 São Paulo Santos 0 0 0 1
+29 09.01 Fortaleza Grêmio 0 0 0 0
+29 09.01 Coritiba Athletico-PR 0 0 0 0
+29 09.01 Sport Palmeiras 0 1 0 1
+28 07.01 Atlético-GO Vasco 0 0 0 0
+28 07.01 Ceará Internacional 0 0 0 2
+28 06.01 Flamengo Fluminense 1 0 1 2
+28 06.01 Bragantino São Paulo 4 1 4 2
+28 06.01 Coritiba Goiás 0 2 1 2
+28 06.01 Sport Fortaleza 1 0 1 0
+28 06.01 Botafogo Athletico-PR 0 1 0 2
+28 06.01 Grêmio Bahia 1 0 2 1
+27 27.12 Grêmio Atlético-GO 1 0 2 1
+27 27.12 Athletico-PR Vasco 2 0 3 0
+27 27.12 Palmeiras Bragantino 1 0 1 0
+27 27.12 Santos Ceará 1 1 1 1
+27 27.12 Bahia Internacional 0 1 1 2
+27 27.12 Botafogo Corinthians 0 1 0 2
+27 26.12 Fluminense São Paulo 0 1 1 2
+27 26.12 Fortaleza Flamengo 0 0 0 0
+27 26.12 Goiás Sport 1 0 1 0
+27 26.12 Atlético-MG Coritiba 0 0 2 0
+26 21.12 Corinthians Goiás 1 1 2 1
+26 20.12 Fortaleza Ceará 0 0 0 2
+26 20.12 Flamengo Bahia 2 0 4 3
+26 20.12 Bragantino Athletico-PR 0 1 0 1
+26 20.12 Vasco Santos 1 0 1 0
+26 19.12 Coritiba Botafogo 1 0 1 2
+26 19.12 Internacional Palmeiras 1 0 2 0
+26 19.12 Sport Grêmio 1 0 1 1
+26 16.12 Atlético-GO Fluminense 1 0 2 1
+26 16.12 São Paulo Atlético-MG 1 0 3 0
+25 13.12 Vasco Fluminense 0 1 1 1
+25 13.12 Corinthians São Paulo 1 0 1 0
+25 13.12 Sport Coritiba 1 0 1 0
+25 13.12 Flamengo Santos 1 0 4 1
+25 12.12 Ceará Atlético-GO 0 0 1 2
+25 12.12 Goiás Grêmio 0 0 0 0
+25 12.12 Internacional Botafogo 1 1 2 1
+25 12.12 Palmeiras Bahia 3 0 3 0
+25 12.12 Athletico-PR Atlético-MG 0 1 0 1
+25 12.12 Bragantino Fortaleza 1 1 2 1
+18 09.12 São Paulo Botafogo 3 0 4 0
+24 07.12 Atlético-GO Goiás 0 1 0 1
+24 06.12 Atlético-MG Internacional 1 1 2 2
+24 06.12 Grêmio Vasco 1 0 4 0
+24 06.12 São Paulo Sport 1 0 1 0
+24 05.12 Coritiba Bragantino 0 0 0 0
+24 05.12 Bahia Ceará 0 0 0 2
+24 05.12 Fluminense Athletico-PR 1 1 3 1
+24 05.12 Botafogo Flamengo 0 0 0 1
+24 05.12 Santos Palmeiras 1 0 2 2
+1 03.12 Goiás São Paulo 0 1 0 3
+24 02.12 Fortaleza Corinthians 0 0 0 0
+23 30.11 Fluminense Bragantino 0 0 0 0
+6 30.11 Grêmio Goiás 1 0 2 1
+23 30.11 Vasco Ceará 0 2 1 4
+23 28.11 Atlético-GO Internacional 0 0 0 0
+23 28.11 Bahia São Paulo 0 0 1 3
+23 28.11 Palmeiras Athletico-PR 2 0 3 0
+23 28.11 Santos Sport 2 2 4 2
+23 26.11 Fortaleza Goiás 0 1 1 1
+23 25.11 Atlético-MG Botafogo 1 0 2 1
+23 25.11 Coritiba Corinthians 0 1 0 1
+16 25.11 Ceará São Paulo 0 1 1 1
+22 23.11 Sport Atlético-GO 0 0 0 1
+22 22.11 Corinthians Grêmio 0 0 0 0
+22 22.11 Botafogo Fortaleza 0 0 1 2
+22 22.11 Internacional Fluminense 1 0 1 2
+22 22.11 Ceará Atlético-MG 0 1 2 2
+22 22.11 São Paulo Vasco 1 1 1 1
+22 21.11 Goiás Palmeiras 0 0 1 0
+22 21.11 Athletico-PR Santos 0 0 1 0
+22 21.11 Flamengo Coritiba 2 0 3 1
+22 20.11 Bragantino Bahia 3 0 4 0
+16 19.11 Vasco Fortaleza 0 0 0 0
+6 18.11 Atlético-MG Athletico-PR 0 2 0 2
+21 16.11 Botafogo Bragantino 1 1 1 2
+21 16.11 Coritiba Bahia 1 1 1 2
+21 14.11 Flamengo Atlético-GO 1 0 1 1
+21 14.11 Palmeiras Fluminense 0 0 2 0
+21 14.11 Corinthians Atlético-MG 1 0 1 2
+21 14.11 Fortaleza São Paulo 1 1 2 3
+21 14.11 Grêmio Ceará 3 1 4 2
+21 14.11 Goiás Athletico-PR 0 1 0 1
+21 14.11 Santos Internacional 0 0 2 0
+21 14.11 Sport Vasco 0 1 0 2
+18 11.11 Bahia Fortaleza 1 0 2 1
+20 08.11 Ceará Sport 0 0 0 0
+20 08.11 Fluminense Grêmio 0 1 0 1
+20 08.11 Atlético-MG Flamengo 2 0 4 0
+20 08.11 Bahia Botafogo 0 0 1 0
+20 08.11 Bragantino Santos 0 0 1 1
+20 08.11 Internacional Coritiba 1 0 2 2
+20 08.11 Vasco Palmeiras 0 0 0 1
+20 07.11 Atlético-GO Corinthians 1 0 1 1
+20 07.11 São Paulo Goiás 1 1 2 1
+20 07.11 Athletico-PR Fortaleza 0 1 2 1
+19 02.11 Grêmio Bragantino 0 0 2 1
+19 02.11 Palmeiras Atlético-MG 1 0 3 0
+19 01.11 Goiás Vasco 0 1 1 1
+19 01.11 Santos Bahia 3 1 3 1
+19 01.11 Flamengo São Paulo 1 2 1 4
+19 01.11 Sport Athletico-PR 0 0 1 0
+19 31.10 Fortaleza Fluminense 0 0 0 1
+19 31.10 Corinthians Internacional 1 0 1 0
+19 31.10 Coritiba Atlético-GO 1 0 1 0
+19 31.10 Botafogo Ceará 2 1 2 2
+18 25.10 Athletico-PR Grêmio 1 0 1 2
+18 25.10 Internacional Flamengo 2 1 2 2
+18 25.10 Atlético-GO Palmeiras 0 1 0 3
+18 25.10 Fluminense Santos 1 1 3 1
+18 24.10 Atlético-MG Sport 0 0 0 0
+18 24.10 Ceará Coritiba 1 1 2 1
+18 24.10 Bragantino Goiás 1 0 2 0
+18 21.10 Vasco Corinthians 0 1 1 2
+17 19.10 Bahia Atlético-MG 0 1 3 1
+17 19.10 Botafogo Goiás 0 0 0 0
+17 18.10 Fortaleza Palmeiras 2 0 2 0
+17 18.10 Bragantino Sport 0 0 2 0
+17 18.10 Internacional Vasco 2 0 2 0
+17 18.10 Corinthians Flamengo 0 1 1 5
+17 17.10 São Paulo Grêmio 0 0 0 0
+17 17.10 Atlético-GO Athletico-PR 1 0 1 1
+17 17.10 Coritiba Santos 0 2 1 2
+17 17.10 Fluminense Ceará 1 1 2 2
+16 16.10 Goiás Bahia 0 0 1 1
+16 15.10 Flamengo Bragantino 0 0 1 1
+16 14.10 Athletico-PR Corinthians 0 0 0 1
+16 14.10 Atlético-MG Fluminense 0 1 1 1
+16 14.10 Sport Internacional 1 2 3 5
+16 14.10 Santos Atlético-GO 0 0 0 1
+16 14.10 Grêmio Botafogo 1 1 3 1
+16 14.10 Palmeiras Coritiba 1 2 1 3
+11 13.10 Flamengo Goiás 1 1 2 1
+15 11.10 Ceará Corinthians 1 1 2 1
+15 11.10 Internacional Athletico-PR 2 1 2 1
+15 11.10 Atlético-GO Bragantino 1 1 2 1
+15 11.10 Sport Botafogo 0 2 1 2
+15 11.10 Fluminense Bahia 0 0 1 0
+15 11.10 Santos Grêmio 1 0 2 1
+15 10.10 Atlético-MG Goiás 2 0 3 0
+15 10.10 Coritiba Fortaleza 0 0 0 0
+15 10.10 Palmeiras São Paulo 0 0 0 2
+15 10.10 Vasco Flamengo 1 0 1 2
+14 08.10 Bragantino Internacional 0 2 0 2
+14 08.10 Athletico-PR Ceará 0 0 0 0
+14 07.10 Botafogo Palmeiras 0 0 2 1
+14 07.10 Fortaleza Atlético-MG 1 1 2 1
+14 07.10 Goiás Fluminense 1 1 2 4
+14 07.10 São Paulo Atlético-GO 1 0 3 0
+14 07.10 Bahia Vasco 3 0 3 0
+14 07.10 Flamengo Sport 0 0 3 0
+14 07.10 Grêmio Coritiba 2 0 2 1
+14 07.10 Corinthians Santos 1 1 1 1
+13 04.10 Atlético-MG Vasco 4 1 4 1
+13 04.10 Bahia Sport 0 1 1 2
+13 04.10 Fortaleza Atlético-GO 0 0 0 0
+13 04.10 Goiás Santos 1 1 2 3
+13 04.10 Coritiba São Paulo 1 0 1 1
+13 04.10 Flamengo Athletico-PR 0 0 3 1
+13 04.10 Botafogo Fluminense 0 1 1 1
+13 03.10 Bragantino Corinthians 0 0 0 0
+13 03.10 Palmeiras Ceará 1 1 2 1
+13 03.10 Grêmio Internacional 0 0 1 1
+1 30.09 Botafogo Bahia 0 1 1 2
+1 30.09 Corinthians Atlético-GO 0 0 0 0
+12 28.09 Fluminense Coritiba 1 0 4 0
+12 27.09 Santos Fortaleza 1 0 1 1
+12 27.09 Atlético-GO Botafogo 0 1 1 1
+12 27.09 Ceará Goiás 0 1 2 2
+12 27.09 Palmeiras Flamengo 0 0 1 1
+12 27.09 Vasco Bragantino 0 0 1 1
+12 26.09 Atlético-MG Grêmio 1 0 3 1
+12 26.09 Athletico-PR Bahia 0 0 1 0
+12 26.09 Internacional São Paulo 1 1 1 1
+12 23.09 Sport Corinthians 1 0 1 0
+11 20.09 Sport Fluminense 1 0 1 0
+11 20.09 Botafogo Santos 0 0 0 0
+11 20.09 Coritiba Vasco 0 0 1 0
+11 20.09 Grêmio Palmeiras 0 0 1 1
+11 19.09 Atlético-GO Atlético-MG 1 0 3 4
+11 19.09 Fortaleza Internacional 0 0 1 0
+11 19.09 Bragantino Ceará 3 1 4 2
+11 16.09 Corinthians Bahia 2 1 3 2
+10 13.09 Botafogo Vasco 0 1 2 3
+10 13.09 Palmeiras Sport 2 1 2 2
+10 13.09 Atlético-MG Bragantino 1 0 2 1
+10 13.09 Bahia Atlético-GO 0 1 0 1
+10 13.09 Ceará Flamengo 0 0 2 0
+10 13.09 Goiás Internacional 1 0 1 0
+10 13.09 Fluminense Corinthians 1 0 2 1
+10 13.09 Grêmio Fortaleza 0 1 1 1
+10 12.09 Santos São Paulo 1 2 2 2
+10 12.09 Athletico-PR Coritiba 1 0 1 0
+9 10.09 Vasco Atlético-GO 0 0 1 2
+9 10.09 Bahia Grêmio 0 1 0 2
+9 10.09 Corinthians Palmeiras 0 1 0 2
+9 10.09 Internacional Ceará 1 0 2 0
+9 09.09 Fluminense Flamengo 0 2 1 2
+9 09.09 Santos Atlético-MG 2 1 3 1
+9 09.09 São Paulo Bragantino 0 0 1 1
+9 09.09 Fortaleza Sport 0 0 1 0
+9 09.09 Goiás Coritiba 1 2 3 3
+9 09.09 Athletico-PR Botafogo 0 0 1 1
+8 06.09 Coritiba Atlético-MG 0 1 0 1
+8 06.09 Sport Goiás 0 0 2 1
+8 06.09 Atlético-GO Grêmio 1 1 1 1
+8 06.09 Vasco Athletico-PR 1 0 1 0
+8 06.09 Internacional Bahia 1 1 2 2
+8 06.09 São Paulo Fluminense 0 1 3 1
+8 06.09 Bragantino Palmeiras 0 0 1 2
+8 05.09 Ceará Santos 0 1 0 1
+8 05.09 Corinthians Botafogo 1 1 2 2
+8 05.09 Flamengo Fortaleza 1 1 2 1
+7 03.09 Atlético-MG São Paulo 2 0 3 0
+7 03.09 Grêmio Sport 0 1 1 2
+7 02.09 Palmeiras Internacional 0 0 1 1
+7 02.09 Santos Vasco 1 1 2 2
+7 02.09 Athletico-PR Bragantino 1 1 1 1
+7 02.09 Bahia Flamengo 2 3 3 5
+7 02.09 Botafogo Coritiba 0 0 0 0
+7 02.09 Fluminense Atlético-GO 1 0 1 1
+7 02.09 Goiás Corinthians 0 1 1 2
+7 02.09 Ceará Fortaleza 1 0 1 0
+6 30.08 Atlético-GO Ceará 0 0 0 2
+6 30.08 Coritiba Sport 0 0 1 0
+6 30.08 Santos Flamengo 0 1 0 1
+6 30.08 São Paulo Corinthians 1 1 2 1
+6 29.08 Fortaleza Bragantino 1 0 3 0
+6 29.08 Bahia Palmeiras 0 0 1 1
+6 29.08 Fluminense Vasco 1 0 2 1
+6 29.08 Botafogo Internacional 0 2 0 2
+5 26.08 Corinthians Fortaleza 0 0 1 1
+11 26.08 São Paulo Athletico-PR 0 0 1 0
+5 23.08 Ceará Bahia 1 0 2 0
+5 23.08 Sport São Paulo 0 1 0 1
+5 23.08 Palmeiras Santos 1 0 2 1
+5 23.08 Bragantino Coritiba 1 1 1 2
+5 23.08 Vasco Grêmio 0 0 0 0
+5 23.08 Flamengo Botafogo 0 0 1 1
+5 22.08 Goiás Atlético-GO 1 0 2 0
+5 22.08 Internacional Atlético-MG 1 0 1 0
+5 22.08 Athletico-PR Fluminense 0 1 0 1
+4 20.08 Ceará Vasco 0 0 0 3
+4 20.08 São Paulo Bahia 0 1 1 1
+4 20.08 Sport Santos 0 0 0 1
+4 19.08 Botafogo Atlético-MG 1 0 2 1
+4 19.08 Corinthians Coritiba 1 1 3 1
+4 19.08 Goiás Fortaleza 0 1 1 3
+4 19.08 Internacional Atlético-GO 0 0 3 0
+4 19.08 Athletico-PR Palmeiras 0 0 0 1
+4 19.08 Flamengo Grêmio 0 1 1 1
+4 19.08 Bragantino Fluminense 1 1 2 1
+3 16.08 Santos Athletico-PR 2 0 3 1
+3 16.08 Fortaleza Botafogo 0 0 0 0
+3 16.08 Atlético-GO Sport 1 0 1 1
+3 16.08 Fluminense Internacional 1 1 2 1
+3 16.08 Bahia Bragantino 1 0 2 1
+3 16.08 Vasco São Paulo 0 0 2 1
+3 16.08 Atlético-MG Ceará 0 0 2 0
+3 15.08 Palmeiras Goiás 1 1 1 1
+3 15.08 Coritiba Flamengo 0 1 0 1
+3 15.08 Grêmio Corinthians 0 0 0 0
+2 13.08 Vasco Sport 2 0 2 0
+2 13.08 Internacional Santos 0 0 2 0
+2 13.08 São Paulo Fortaleza 1 0 1 0
+2 12.08 Ceará Grêmio 1 0 1 1
+2 12.08 Fluminense Palmeiras 1 1 1 1
+2 12.08 Atlético-GO Flamengo 2 0 3 0
+2 12.08 Bahia Coritiba 1 0 1 0
+2 12.08 Athletico-PR Goiás 1 1 2 1
+2 12.08 Atlético-MG Corinthians 0 2 3 2
+2 12.08 Bragantino Botafogo 1 0 1 1
+1 09.08 Grêmio Fluminense 1 0 1 0
+1 09.08 Flamengo Atlético-MG 0 1 0 1
+1 09.08 Santos Bragantino 0 0 1 1
+1 08.08 Sport Ceará 3 1 3 2
+1 08.08 Coritiba Internacional 0 0 0 1
+1 08.08 Fortaleza Athletico-PR 0 2 0 2
