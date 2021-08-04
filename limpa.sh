@@ -57,13 +57,11 @@ do
   	temp=${line%")"}
   	placar_h=($(echo ${temp#"("}))
   	ind_g=6
-  	echo "$rodada $data $casa $fora ${placar_h[0]} ${placar_h[2]} $golcasa $golfora"
+  	echo "$rodada,$data,$casa,$fora,${placar_h[0]},${placar_h[2]},$golcasa,$golfora"
   	
    
   fi
-  
-  
-  #data=($(awk '/\:/ { print $0 }' $line))
+
 done < $1
 
-#jogo=($(echo $line | tr "," " "))
+
