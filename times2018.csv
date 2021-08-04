@@ -1,1 +1,1 @@
-America_MG,Atletico-MG,Atletico-PR,Bahia,Botafogo_RJ,Ceara,Chapecoense-SC,Corinthians,Cruzeiro,Flamengo_RJ,Fluminense,Gremio,Internacional,Palmeiras,Parana,Santos,Sao_Paulo,Sport_Recife,Vasco,Vitoria
+INSERT INTO times VALUES(NULL,2018,'America-MG','Atletico-MG','Atletico-PR','Bahia','Botafogo','Ceara','Chapecoense','Corinthians','Cruzeiro','Flamengo','Fluminense','Gremio','Internacional','Palmeiras','Parana','Santos','Sao Paulo','Sport','Vasco','Vitoria');

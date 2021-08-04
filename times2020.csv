@@ -1,1 +1,1 @@
-Athletico-PR,Atletico_GO,Atletico-MG,Bahia,Botafogo_RJ,Bragantino,Ceara,Corinthians,Coritiba,Flamengo_RJ,Fluminense,Fortaleza,Goias,Gremio,Internacional,Palmeiras,Santos,Sao_Paulo,Sport_Recife,Vasco
+INSERT INTO times VALUES(NULL,2020,'Athletico-PR','Atletico-GO','Atletico-MG','Bahia','Botafogo','Bragantino','Ceara','Corinthians','Coritiba','Flamengo','Fluminense','Fortaleza','Goias','Gremio','Internacional','Palmeiras','Santos','Sao Paulo','Sport','Vasco');

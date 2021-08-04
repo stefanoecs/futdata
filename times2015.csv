@@ -1,1 +1,1 @@
-Atletico-MG,Atletico-PR,Avai,Chapecoense-SC,Corinthians,Coritiba,Cruzeiro,Figueirense,Flamengo_RJ,Fluminense,Goias,Gremio,Internacional,Joinville,Palmeiras,Ponte_Preta,Santos,Sao_Paulo,Sport_Recife,Vasco
+INSERT INTO times VALUES(NULL,2015,'Atletico-MG','Atletico-PR','Avai','Chapecoense','Corinthians','Coritiba','Cruzeiro','Figueirense','Flamengo','Fluminense','Goias','Gremio','Internacional','Joinville','Palmeiras','Ponte Preta','Santos','Sao Paulo','Sport','Vasco');
