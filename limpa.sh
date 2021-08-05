@@ -5,7 +5,8 @@ do
   
   jogo=($(echo $line))
   ## Se tiver a palavra Rodada pega o numero da rodada
-  if [ "${jogo[0]}" = "Rodada" ]
+  #if [ "${jogo[0]}" = "Rodada" ]
+  if [ "${jogo[0]}" = "Round" ]
   then
   	rodada=${jogo[1]}
   	continue

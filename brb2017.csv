@@ -1,0 +1,380 @@
+38,25.11,America MG,CRB,0,0,1,0
+38,25.11,Ceara,ABC,0,0,1,0
+38,25.11,Internacional,Guarani,2,0,2,0
+38,25.11,Luverdense,Nautico,1,0,3,0
+38,25.11,Oeste,Goias,0,0,1,1
+38,25.11,Parana,Boa,0,0,1,1
+38,25.11,Vila Nova FC,Londrina,0,1,0,1
+38,24.11,Figueirense,Paysandu PA,1,0,1,0
+38,24.11,Brasil de Pelotas,Criciuma,0,2,3,2
+38,21.11,Santa Cruz,Juventude,2,0,5,2
+37,18.11,Criciuma,Ceara,0,0,1,1
+37,18.11,ABC,Oeste,1,0,2,0
+37,18.11,Boa,Brasil de Pelotas,0,0,2,1
+37,18.11,CRB,Parana,0,0,0,1
+37,18.11,Nautico,Vila Nova FC,0,0,1,2
+37,18.11,Paysandu PA,Santa Cruz,2,0,4,2
+37,18.11,Goias,Internacional,0,0,0,2
+37,18.11,Londrina,America MG,0,0,0,0
+37,17.11,Juventude,Figueirense,0,0,0,0
+37,17.11,Guarani,Luverdense,0,0,0,0
+36,14.11,America MG,Juventude,0,0,1,0
+36,14.11,Ceara,Paysandu PA,1,0,2,0
+36,14.11,CRB,Goias,2,0,2,1
+36,14.11,Luverdense,Boa,0,1,0,1
+36,14.11,Santa Cruz,Parana,0,0,0,0
+36,14.11,Brasil de Pelotas,ABC,1,0,3,0
+36,14.11,Oeste,Internacional,0,0,0,0
+36,14.11,Vila Nova FC,Figueirense,1,1,1,1
+36,14.11,Criciuma,Nautico,0,0,0,0
+36,14.11,Londrina,Guarani,1,0,1,0
+35,11.11,Guarani,CRB,1,1,2,1
+35,11.11,Paysandu PA,Brasil de Pelotas,1,1,2,3
+35,11.11,Boa,Santa Cruz,1,1,4,2
+35,11.11,Figueirense,America MG,1,2,1,2
+35,11.11,Goias,Ceara,0,0,0,0
+35,11.11,Nautico,Londrina,0,1,1,2
+35,11.11,Internacional,Vila Nova FC,1,0,1,1
+35,10.11,ABC,Criciuma,0,1,3,1
+35,10.11,Parana,Luverdense,1,0,2,0
+35,10.11,Juventude,Oeste,0,0,0,0
+34,07.11,Ceara,Guarani,1,1,2,2
+34,07.11,CRB,Juventude,1,0,2,0
+34,07.11,Brasil de Pelotas,Parana,0,0,2,0
+34,07.11,Londrina,Goias,0,0,2,0
+34,07.11,Nautico,Paysandu PA,1,1,1,3
+34,07.11,Oeste,Figueirense,0,0,1,1
+34,07.11,America MG,ABC,1,0,2,0
+34,07.11,Criciuma,Boa,1,0,2,0
+34,07.11,Vila Nova FC,Santa Cruz,1,0,1,1
+34,06.11,Luverdense,Internacional,1,1,2,2
+33,04.11,Boa,Londrina,0,1,0,1
+33,04.11,Guarani,America MG,0,1,0,1
+33,04.11,Santa Cruz,Nautico,1,1,2,3
+33,04.11,Figueirense,Brasil de Pelotas,1,0,2,0
+33,03.11,ABC,Luverdense,0,1,0,1
+33,03.11,Paysandu PA,Vila Nova FC,1,1,1,1
+33,03.11,Internacional,CRB,0,0,0,0
+33,03.11,Juventude,Ceara,0,0,1,0
+33,31.10,Parana,Oeste,1,0,1,2
+33,31.10,Goias,Criciuma,0,0,1,1
+32,28.10,Goias,Guarani,1,0,1,1
+32,28.10,ABC,Londrina,1,0,3,0
+32,28.10,Internacional,Ceara,0,0,0,1
+32,28.10,Santa Cruz,Luverdense,0,0,0,0
+32,28.10,Boa,America MG,0,0,2,2
+32,27.10,Paysandu PA,Criciuma,1,0,1,0
+32,27.10,Oeste,Brasil de Pelotas,0,0,1,0
+32,27.10,Figueirense,CRB,1,0,3,1
+32,24.10,Parana,Vila Nova FC,0,0,1,0
+32,24.10,Juventude,Nautico,0,0,0,0
+31,21.10,Luverdense,Goias,1,2,1,2
+31,21.10,America MG,Parana,0,1,1,1
+31,21.10,Brasil de Pelotas,Santa Cruz,0,1,1,1
+31,21.10,Londrina,Paysandu PA,2,0,2,0
+31,21.10,Vila Nova FC,Oeste,0,0,0,0
+31,21.10,Criciuma,Internacional,1,2,2,3
+31,20.10,Ceara,Figueirense,1,1,2,2
+31,20.10,CRB,Boa,1,1,1,1
+31,20.10,Nautico,ABC,0,1,1,2
+31,20.10,Guarani,Juventude,1,0,2,0
+30,17.10,CRB,Nautico,1,1,2,2
+30,17.10,Goias,Juventude,0,0,1,0
+30,17.10,Luverdense,Paysandu PA,1,1,1,1
+30,17.10,Brasil de Pelotas,America MG,0,0,0,0
+30,17.10,Ceara,Parana,1,0,1,0
+30,17.10,Criciuma,Vila Nova FC,0,1,0,1
+30,17.10,Santa Cruz,Oeste,0,1,2,2
+30,17.10,Boa,Internacional,0,0,0,0
+30,17.10,Guarani,ABC,1,1,1,1
+30,17.10,Londrina,Figueirense,1,0,1,0
+29,14.10,Nautico,Guarani,1,0,2,0
+29,14.10,Oeste,Ceara,0,0,0,1
+29,14.10,ABC,Boa,0,0,1,0
+29,14.10,America MG,Luverdense,2,1,2,1
+29,14.10,Figueirense,Santa Cruz,2,0,2,1
+29,14.10,Vila Nova FC,Goias,0,0,0,0
+29,13.10,Juventude,Londrina,0,1,0,2
+29,13.10,Parana,Criciuma,1,1,2,1
+29,13.10,Paysandu PA,CRB,0,0,0,0
+29,09.10,Internacional,Brasil de Pelotas,1,0,1,0
+28,07.10,Luverdense,Figueirense,1,0,3,0
+28,07.10,Santa Cruz,America MG,0,0,0,1
+28,07.10,Criciuma,Londrina,1,1,2,1
+28,07.10,Oeste,Guarani,1,0,3,0
+28,06.10,Goias,Nautico,1,0,2,0
+28,06.10,CRB,ABC,1,0,1,0
+28,06.10,Boa,Paysandu PA,1,0,1,2
+28,03.10,Brasil de Pelotas,Juventude,0,0,1,0
+28,03.10,Parana,Internacional,1,0,1,0
+28,03.10,Ceara,Vila Nova FC,1,0,2,0
+27,01.10,America MG,Oeste,0,0,1,2
+27,30.09,Guarani,Criciuma,0,0,0,0
+27,30.09,Luverdense,Ceara,0,1,0,1
+27,30.09,Internacional,Santa Cruz,1,0,2,0
+27,30.09,Nautico,Boa,1,0,2,0
+27,30.09,Vila Nova FC,Brasil de Pelotas,0,1,1,1
+27,29.09,Juventude,Paysandu PA,0,0,1,0
+27,29.09,ABC,Goias,0,0,0,1
+27,29.09,Londrina,CRB,1,0,4,1
+27,29.09,Figueirense,Parana,1,0,1,0
+26,27.09,Internacional,America MG,1,1,2,1
+26,26.09,ABC,Juventude,0,1,1,1
+26,26.09,Paysandu PA,Guarani,1,1,2,1
+26,26.09,Boa,Goias,0,0,2,0
+26,26.09,Oeste,Londrina,1,1,4,1
+26,26.09,Parana,Nautico,0,0,3,0
+26,26.09,Vila Nova FC,CRB,2,0,3,0
+26,26.09,Brasil de Pelotas,Luverdense,0,0,0,1
+26,26.09,Criciuma,Figueirense,1,0,1,1
+26,26.09,Santa Cruz,Ceara,0,0,0,0
+25,23.09,Ceara,Brasil de Pelotas,0,1,2,1
+25,23.09,CRB,Criciuma,1,1,1,2
+25,23.09,Figueirense,ABC,1,0,2,0
+25,23.09,Goias,Paysandu PA,0,0,2,1
+25,23.09,Nautico,Internacional,0,0,0,1
+25,22.09,Londrina,Santa Cruz,0,0,1,1
+25,22.09,Luverdense,Oeste,0,0,0,0
+25,22.09,Juventude,Boa,0,0,0,0
+25,19.09,Guarani,Parana,0,3,0,4
+25,19.09,America MG,Vila Nova FC,1,0,1,0
+24,16.09,Parana,Londrina,1,1,2,1
+24,16.09,Brasil de Pelotas,CRB,1,0,2,0
+24,16.09,Internacional,Figueirense,1,0,3,0
+24,16.09,Oeste,Nautico,0,0,1,0
+24,16.09,Paysandu PA,ABC,1,0,2,0
+24,16.09,Vila Nova FC,Luverdense,1,0,2,1
+24,15.09,Ceara,America MG,1,0,1,1
+24,15.09,Santa Cruz,Goias,1,0,3,0
+24,12.09,Criciuma,Juventude,0,1,1,2
+24,12.09,Boa,Guarani,1,0,2,2
+23,09.09,ABC,Santa Cruz,0,0,0,0
+23,09.09,CRB,Oeste,0,1,0,1
+23,09.09,Criciuma,Luverdense,0,0,2,1
+23,09.09,Juventude,Internacional,1,1,2,1
+23,09.09,Londrina,Ceara,2,1,3,2
+23,08.09,Paysandu PA,America MG,0,1,0,1
+23,08.09,Boa,Figueirense,0,1,1,1
+23,06.09,Nautico,Brasil de Pelotas,0,0,1,0
+23,06.09,Goias,Parana,0,1,0,1
+23,04.09,Guarani,Vila Nova FC,0,0,0,0
+22,26.08,Figueirense,Guarani,1,0,2,1
+22,26.08,Luverdense,Londrina,0,0,1,0
+22,26.08,Oeste,Boa,3,1,4,1
+22,26.08,Santa Cruz,CRB,1,0,1,2
+22,26.08,Vila Nova FC,ABC,1,0,2,0
+22,25.08,Internacional,Paysandu PA,2,1,3,2
+22,25.08,Parana,Juventude,0,0,2,0
+22,25.08,Ceara,Nautico,1,0,1,0
+22,22.08,America MG,Criciuma,0,0,0,0
+22,22.08,Brasil de Pelotas,Goias,1,1,2,1
+21,19.08,Paysandu PA,Parana,0,0,0,0
+21,19.08,ABC,Internacional,0,2,0,3
+21,19.08,Boa,Ceara,1,0,4,1
+21,19.08,CRB,Luverdense,2,1,2,2
+21,19.08,Guarani,Santa Cruz,2,0,2,0
+21,18.08,Goias,America MG,1,1,1,1
+21,18.08,Criciuma,Oeste,0,0,1,1
+21,18.08,Juventude,Vila Nova FC,0,0,1,0
+21,15.08,Nautico,Figueirense,2,0,2,0
+21,15.08,Londrina,Brasil de Pelotas,2,1,4,1
+20,12.08,Figueirense,Goias,0,0,1,1
+20,12.08,Oeste,Paysandu PA,0,2,1,3
+20,12.08,Ceara,CRB,0,0,1,0
+20,12.08,Internacional,Londrina,0,0,3,1
+20,12.08,Parana,ABC,1,0,1,0
+20,11.08,America MG,Nautico,1,0,1,0
+20,11.08,Vila Nova FC,Boa,0,0,1,0
+20,11.08,Brasil de Pelotas,Guarani,0,0,1,0
+20,08.08,Luverdense,Juventude,1,0,1,0
+20,08.08,Santa Cruz,Criciuma,1,0,1,2
+19,07.08,Londrina,Vila Nova FC,0,0,0,1
+19,05.08,Boa,Parana,1,0,2,1
+19,05.08,Paysandu PA,Figueirense,0,1,0,1
+19,05.08,ABC,Ceara,0,0,0,1
+19,05.08,Guarani,Internacional,0,1,0,2
+19,05.08,Juventude,Santa Cruz,0,0,2,1
+19,04.08,CRB,America MG,2,0,2,1
+19,04.08,Goias,Oeste,0,1,0,2
+19,04.08,Nautico,Luverdense,0,0,1,0
+19,04.08,Criciuma,Brasil de Pelotas,0,1,1,2
+18,01.08,Ceara,Criciuma,3,0,3,1
+18,01.08,Internacional,Goias,0,0,3,0
+18,01.08,Luverdense,Guarani,0,0,1,0
+18,01.08,America MG,Londrina,1,1,3,2
+18,01.08,Oeste,ABC,0,0,1,1
+18,01.08,Santa Cruz,Paysandu PA,1,0,1,2
+18,01.08,Vila Nova FC,Nautico,0,1,0,1
+18,01.08,Brasil de Pelotas,Boa,0,0,0,0
+18,01.08,Figueirense,Juventude,1,0,2,2
+18,01.08,Parana,CRB,1,1,4,1
+17,29.07,Boa,Luverdense,0,0,1,0
+17,29.07,Nautico,Criciuma,0,1,1,2
+17,29.07,Figueirense,Vila Nova FC,0,0,0,1
+17,29.07,Goias,CRB,2,0,3,0
+17,29.07,Guarani,Londrina,2,1,2,3
+17,29.07,Parana,Santa Cruz,2,0,4,0
+17,28.07,Paysandu PA,Ceara,0,1,1,2
+17,28.07,Juventude,America MG,0,1,0,1
+17,25.07,Internacional,Oeste,1,0,2,0
+17,25.07,ABC,Brasil de Pelotas,1,0,1,0
+16,22.07,Brasil de Pelotas,Paysandu PA,1,0,2,1
+16,22.07,CRB,Guarani,0,0,1,1
+16,22.07,Oeste,Juventude,2,0,3,0
+16,22.07,Criciuma,ABC,1,0,2,1
+16,22.07,Londrina,Nautico,0,0,0,0
+16,22.07,Vila Nova FC,Internacional,0,0,2,1
+16,21.07,Ceara,Goias,0,0,0,1
+16,21.07,Luverdense,Parana,1,0,1,1
+16,21.07,Santa Cruz,Boa,1,0,1,1
+16,21.07,America MG,Figueirense,3,0,4,2
+15,18.07,Boa,Criciuma,1,0,2,0
+15,18.07,Internacional,Luverdense,0,0,1,0
+15,18.07,ABC,America MG,0,0,0,1
+15,18.07,Goias,Londrina,0,0,0,1
+15,18.07,Guarani,Ceara,2,1,2,2
+15,18.07,Santa Cruz,Vila Nova FC,0,0,1,0
+15,18.07,Figueirense,Oeste,0,0,0,0
+15,18.07,Juventude,CRB,1,1,1,1
+15,18.07,Parana,Brasil de Pelotas,1,1,4,1
+15,18.07,Paysandu PA,Nautico,0,0,1,0
+14,15.07,Luverdense,ABC,0,0,1,0
+14,15.07,Ceara,Juventude,2,0,2,0
+14,15.07,Londrina,Boa,1,1,2,2
+14,15.07,America MG,Guarani,0,0,0,0
+14,15.07,CRB,Internacional,1,0,2,0
+14,15.07,Nautico,Santa Cruz,0,0,0,0
+14,15.07,Vila Nova FC,Paysandu PA,1,0,1,2
+14,14.07,Criciuma,Goias,0,0,1,0
+14,14.07,Oeste,Parana,2,0,2,0
+14,14.07,Brasil de Pelotas,Figueirense,1,2,1,2
+13,11.07,CRB,Figueirense,2,0,2,1
+13,11.07,Luverdense,Santa Cruz,1,0,2,2
+13,11.07,Nautico,Juventude,1,0,1,1
+13,11.07,America MG,Boa,1,0,2,0
+13,11.07,Ceara,Internacional,0,2,0,2
+13,11.07,Guarani,Goias,0,0,1,0
+13,11.07,Vila Nova FC,Parana,2,0,3,2
+13,11.07,Brasil de Pelotas,Oeste,1,1,3,1
+13,11.07,Criciuma,Paysandu PA,0,0,1,1
+13,11.07,Londrina,ABC,3,1,3,1
+12,08.07,Boa,CRB,0,0,0,0
+12,08.07,Juventude,Guarani,1,0,2,0
+12,08.07,Oeste,Vila Nova FC,1,0,2,2
+12,08.07,Figueirense,Ceara,0,1,0,2
+12,08.07,Internacional,Criciuma,0,1,1,1
+12,07.07,Parana,America MG,0,1,1,1
+12,07.07,Goias,Luverdense,1,0,3,1
+12,07.07,Santa Cruz,Brasil de Pelotas,2,0,3,0
+12,04.07,ABC,Nautico,0,0,0,1
+12,04.07,Paysandu PA,Londrina,0,1,1,2
+11,01.07,ABC,Guarani,0,0,0,1
+11,01.07,America MG,Brasil de Pelotas,1,0,3,0
+11,01.07,Internacional,Boa,0,0,0,1
+11,01.07,Oeste,Santa Cruz,1,0,2,0
+11,01.07,Parana,Ceara,0,0,1,0
+11,30.06,Nautico,CRB,0,0,0,1
+11,30.06,Vila Nova FC,Criciuma,0,0,0,0
+11,30.06,Paysandu PA,Luverdense,1,0,1,1
+11,27.06,Figueirense,Londrina,1,0,3,1
+11,27.06,Juventude,Goias,2,0,3,0
+10,24.06,Guarani,Nautico,2,1,2,1
+10,24.06,Brasil de Pelotas,Internacional,0,1,0,1
+10,24.06,Ceara,Oeste,3,0,3,0
+10,24.06,Goias,Vila Nova FC,0,2,0,2
+10,24.06,Londrina,Juventude,0,0,2,2
+10,24.06,Santa Cruz,Figueirense,0,1,1,1
+10,23.06,Criciuma,Parana,1,0,2,1
+10,23.06,Luverdense,America MG,0,2,0,3
+10,23.06,Boa,ABC,1,1,2,1
+10,23.06,CRB,Paysandu PA,0,1,2,1
+9,20.06,Guarani,Oeste,0,0,0,0
+9,20.06,Internacional,Parana,0,0,0,0
+9,20.06,Vila Nova FC,Ceara,1,0,1,1
+9,20.06,ABC,CRB,0,1,1,3
+9,20.06,Figueirense,Luverdense,2,3,2,3
+9,20.06,Londrina,Criciuma,0,0,0,1
+9,20.06,Paysandu PA,Boa,0,0,0,0
+9,20.06,America MG,Santa Cruz,0,0,1,0
+9,20.06,Juventude,Brasil de Pelotas,0,1,1,2
+9,20.06,Nautico,Goias,1,1,2,3
+8,17.06,Oeste,America MG,0,0,0,0
+8,17.06,Brasil de Pelotas,Vila Nova FC,1,0,3,0
+8,17.06,Boa,Nautico,2,1,2,1
+8,17.06,CRB,Londrina,0,3,0,3
+8,17.06,Paysandu PA,Juventude,0,0,0,0
+8,17.06,Santa Cruz,Internacional,0,0,0,0
+8,16.06,Goias,ABC,1,1,1,2
+8,16.06,Ceara,Luverdense,1,0,1,1
+8,16.06,Parana,Figueirense,0,0,1,0
+8,16.06,Criciuma,Guarani,2,1,3,2
+7,13.06,America MG,Internacional,0,1,1,1
+7,13.06,Ceara,Santa Cruz,1,0,1,3
+7,13.06,Luverdense,Brasil de Pelotas,0,0,4,0
+7,13.06,CRB,Vila Nova FC,0,1,1,2
+7,13.06,Figueirense,Criciuma,0,1,2,2
+7,13.06,Goias,Boa,3,1,4,1
+7,13.06,Juventude,ABC,3,0,3,0
+7,13.06,Guarani,Paysandu PA,1,0,2,0
+7,13.06,Londrina,Oeste,1,0,1,1
+7,13.06,Nautico,Parana,1,1,1,2
+6,10.06,Oeste,Luverdense,0,0,0,0
+6,10.06,ABC,Figueirense,1,2,2,2
+6,10.06,Boa,Juventude,0,0,0,2
+6,10.06,Brasil de Pelotas,Ceara,0,1,2,3
+6,10.06,Internacional,Nautico,1,1,4,2
+6,10.06,Parana,Guarani,0,0,0,1
+6,09.06,Paysandu PA,Goias,0,0,0,1
+6,09.06,Santa Cruz,Londrina,0,1,1,3
+6,09.06,Vila Nova FC,America MG,1,0,2,0
+6,09.06,Criciuma,CRB,1,0,1,0
+5,06.06,America MG,Ceara,1,0,1,0
+5,06.06,CRB,Brasil de Pelotas,0,0,0,1
+5,06.06,Luverdense,Vila Nova FC,0,0,1,1
+5,06.06,Figueirense,Internacional,1,1,1,2
+5,06.06,Goias,Santa Cruz,1,1,2,1
+5,06.06,Londrina,Parana,0,1,1,1
+5,06.06,Nautico,Oeste,0,0,1,1
+5,06.06,ABC,Paysandu PA,2,1,2,1
+5,06.06,Guarani,Boa,1,0,2,1
+5,06.06,Juventude,Criciuma,0,0,1,0
+4,03.06,Internacional,Juventude,0,0,1,1
+4,03.06,Luverdense,Criciuma,0,0,0,0
+4,03.06,Santa Cruz,ABC,1,1,2,1
+4,03.06,Vila Nova FC,Guarani,2,0,3,1
+4,02.06,Ceara,Londrina,0,0,1,0
+4,02.06,Oeste,CRB,1,0,2,0
+4,02.06,America MG,Paysandu PA,0,1,0,2
+4,30.05,Brasil de Pelotas,Nautico,1,0,2,0
+4,30.05,Figueirense,Boa,0,2,0,2
+3,27.05,Juventude,Parana,0,0,2,1
+3,27.05,ABC,Vila Nova FC,1,0,1,0
+3,27.05,Londrina,Luverdense,1,0,3,1
+3,27.05,Nautico,Ceara,0,0,0,2
+3,27.05,Paysandu PA,Internacional,0,0,1,0
+3,26.05,Goias,Brasil de Pelotas,1,1,1,1
+3,26.05,Boa,Oeste,1,0,1,1
+3,26.05,Criciuma,America MG,0,0,1,3
+3,23.05,Guarani,Figueirense,1,0,2,0
+3,23.05,CRB,Santa Cruz,0,0,1,0
+2,20.05,Internacional,ABC,1,0,1,1
+2,20.05,Figueirense,Nautico,2,0,3,0
+2,20.05,Luverdense,CRB,1,1,1,1
+2,20.05,Oeste,Criciuma,0,0,1,0
+2,20.05,Santa Cruz,Guarani,1,0,2,1
+2,19.05,America MG,Goias,0,0,1,1
+2,19.05,Vila Nova FC,Juventude,0,0,0,0
+2,19.05,Parana,Paysandu PA,0,0,0,0
+2,16.05,Ceara,Boa,0,0,0,0
+4,16.05,Parana,Goias,1,0,2,0
+2,16.05,Brasil de Pelotas,Londrina,1,0,1,1
+1,13.05,Paysandu PA,Oeste,0,0,2,0
+1,13.05,Goias,Figueirense,0,1,0,1
+1,13.05,ABC,Parana,0,0,0,0
+1,13.05,Boa,Vila Nova FC,0,1,0,1
+1,13.05,Criciuma,Santa Cruz,1,0,1,2
+1,13.05,Londrina,Internacional,0,2,0,3
+1,12.05,Nautico,America MG,0,0,0,0
+1,12.05,Guarani,Brasil de Pelotas,1,0,2,0
+1,12.05,Juventude,Luverdense,0,0,2,1
+1,12.05,CRB,Ceara,1,0,1,0

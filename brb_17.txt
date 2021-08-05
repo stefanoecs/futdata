@@ -1,0 +1,2700 @@
+Round 38
+25.11. 16:30
+America MG
+CRB
+1
+ - 
+0
+(0 - 0)
+25.11. 16:30
+Ceara
+ABC
+1
+ - 
+0
+(0 - 0)
+25.11. 16:30
+Internacional
+Guarani
+2
+ - 
+0
+(2 - 0)
+25.11. 16:30
+Luverdense
+Nautico
+3
+ - 
+0
+(1 - 0)
+25.11. 16:30
+Oeste
+Goias
+1
+ - 
+1
+(0 - 0)
+25.11. 16:30
+Parana
+Boa
+1
+ - 
+1
+(0 - 0)
+25.11. 16:30
+Vila Nova FC
+Londrina
+0
+ - 
+1
+(0 - 1)
+24.11. 20:30
+Figueirense
+Paysandu PA
+1
+ - 
+0
+(1 - 0)
+24.11. 18:15
+Brasil de Pelotas
+Criciuma
+3
+ - 
+2
+(0 - 2)
+21.11. 19:00
+Santa Cruz
+Juventude
+5
+ - 
+2
+(2 - 0)
+Round 37
+18.11. 18:30
+Criciuma
+Ceara
+1
+ - 
+1
+(0 - 0)
+18.11. 16:30
+ABC
+Oeste
+2
+ - 
+0
+(1 - 0)
+18.11. 16:30
+Boa
+Brasil de Pelotas
+2
+ - 
+1
+(0 - 0)
+18.11. 16:30
+CRB
+Parana
+0
+ - 
+1
+(0 - 0)
+18.11. 16:30
+Nautico
+Vila Nova FC
+1
+ - 
+2
+(0 - 0)
+18.11. 16:30
+Paysandu PA
+Santa Cruz
+4
+ - 
+2
+(2 - 0)
+18.11. 16:00
+Goias
+Internacional
+0
+ - 
+2
+(0 - 0)
+18.11. 16:00
+Londrina
+America MG
+0
+ - 
+0
+(0 - 0)
+17.11. 20:30
+Juventude
+Figueirense
+0
+ - 
+0
+(0 - 0)
+17.11. 18:15
+Guarani
+Luverdense
+0
+ - 
+0
+(0 - 0)
+Round 36
+14.11. 20:30
+America MG
+Juventude
+1
+ - 
+0
+(0 - 0)
+14.11. 20:30
+Ceara
+Paysandu PA
+2
+ - 
+0
+(1 - 0)
+14.11. 20:30
+CRB
+Goias
+2
+ - 
+1
+(2 - 0)
+14.11. 20:30
+Luverdense
+Boa
+0
+ - 
+1
+(0 - 1)
+14.11. 20:30
+Santa Cruz
+Parana
+0
+ - 
+0
+(0 - 0)
+14.11. 19:30
+Brasil de Pelotas
+ABC
+3
+ - 
+0
+(1 - 0)
+14.11. 19:30
+Oeste
+Internacional
+0
+ - 
+0
+(0 - 0)
+14.11. 19:30
+Vila Nova FC
+Figueirense
+1
+ - 
+1
+(1 - 1)
+14.11. 18:15
+Criciuma
+Nautico
+0
+ - 
+0
+(0 - 0)
+14.11. 18:15
+Londrina
+Guarani
+1
+ - 
+0
+(1 - 0)
+Round 35
+11.11. 18:00
+Guarani
+CRB
+2
+ - 
+1
+(1 - 1)
+11.11. 18:00
+Paysandu PA
+Brasil de Pelotas
+2
+ - 
+3
+(1 - 1)
+11.11. 16:30
+Boa
+Santa Cruz
+4
+ - 
+2
+(1 - 1)
+11.11. 16:30
+Figueirense
+America MG
+1
+ - 
+2
+(1 - 2)
+11.11. 16:30
+Goias
+Ceara
+0
+ - 
+0
+(0 - 0)
+11.11. 16:30
+Nautico
+Londrina
+1
+ - 
+2
+(0 - 1)
+11.11. 15:30
+Internacional
+Vila Nova FC
+1
+ - 
+1
+(1 - 0)
+10.11. 20:30
+ABC
+Criciuma
+3
+ - 
+1
+(0 - 1)
+10.11. 20:30
+Parana
+Luverdense
+2
+ - 
+0
+(1 - 0)
+10.11. 18:15
+Juventude
+Oeste
+0
+ - 
+0
+(0 - 0)
+Round 34
+07.11. 20:30
+Ceara
+Guarani
+2
+ - 
+2
+(1 - 1)
+07.11. 20:30
+CRB
+Juventude
+2
+ - 
+0
+(1 - 0)
+07.11. 19:30
+Brasil de Pelotas
+Parana
+2
+ - 
+0
+(0 - 0)
+07.11. 19:30
+Londrina
+Goias
+2
+ - 
+0
+(0 - 0)
+07.11. 19:30
+Nautico
+Paysandu PA
+1
+ - 
+3
+(1 - 1)
+07.11. 19:30
+Oeste
+Figueirense
+1
+ - 
+1
+(0 - 0)
+07.11. 18:15
+America MG
+ABC
+2
+ - 
+0
+(1 - 0)
+07.11. 18:15
+Criciuma
+Boa
+2
+ - 
+0
+(1 - 0)
+07.11. 18:15
+Vila Nova FC
+Santa Cruz
+1
+ - 
+1
+(1 - 0)
+06.11. 19:00
+Luverdense
+Internacional
+2
+ - 
+2
+(1 - 1)
+Round 33
+04.11. 16:30
+Boa
+Londrina
+0
+ - 
+1
+(0 - 1)
+04.11. 16:30
+Guarani
+America MG
+0
+ - 
+1
+(0 - 1)
+04.11. 16:30
+Santa Cruz
+Nautico
+2
+ - 
+3
+(1 - 1)
+04.11. 15:30
+Figueirense
+Brasil de Pelotas
+2
+ - 
+0
+(1 - 0)
+03.11. 20:30
+ABC
+Luverdense
+0
+ - 
+1
+(0 - 1)
+03.11. 20:30
+Paysandu PA
+Vila Nova FC
+1
+ - 
+1
+(1 - 1)
+03.11. 18:15
+Internacional
+CRB
+0
+ - 
+0
+(0 - 0)
+03.11. 18:15
+Juventude
+Ceara
+1
+ - 
+0
+(0 - 0)
+31.10. 20:30
+Parana
+Oeste
+1
+ - 
+2
+(1 - 0)
+31.10. 18:30
+Goias
+Criciuma
+1
+ - 
+1
+(0 - 0)
+Round 32
+28.10. 18:00
+Goias
+Guarani
+1
+ - 
+1
+(1 - 0)
+28.10. 16:30
+ABC
+Londrina
+3
+ - 
+0
+(1 - 0)
+28.10. 16:30
+Internacional
+Ceara
+0
+ - 
+1
+(0 - 0)
+28.10. 16:30
+Santa Cruz
+Luverdense
+0
+ - 
+0
+(0 - 0)
+28.10. 15:30
+Boa
+America MG
+2
+ - 
+2
+(0 - 0)
+27.10. 20:30
+Paysandu PA
+Criciuma
+1
+ - 
+0
+(1 - 0)
+27.10. 19:30
+Oeste
+Brasil de Pelotas
+1
+ - 
+0
+(0 - 0)
+27.10. 18:15
+Figueirense
+CRB
+3
+ - 
+1
+(1 - 0)
+24.10. 20:30
+Parana
+Vila Nova FC
+1
+ - 
+0
+(0 - 0)
+24.10. 18:15
+Juventude
+Nautico
+0
+ - 
+0
+(0 - 0)
+Round 31
+21.10. 20:00
+Luverdense
+Goias
+1
+ - 
+2
+(1 - 2)
+21.10. 18:00
+America MG
+Parana
+1
+ - 
+1
+(0 - 1)
+21.10. 16:30
+Brasil de Pelotas
+Santa Cruz
+1
+ - 
+1
+(0 - 1)
+21.10. 16:30
+Londrina
+Paysandu PA
+2
+ - 
+0
+(2 - 0)
+21.10. 16:30
+Vila Nova FC
+Oeste
+0
+ - 
+0
+(0 - 0)
+21.10. 15:30
+Criciuma
+Internacional
+2
+ - 
+3
+(1 - 2)
+20.10. 20:30
+Ceara
+Figueirense
+2
+ - 
+2
+(1 - 1)
+20.10. 19:30
+CRB
+Boa
+1
+ - 
+1
+(1 - 1)
+20.10. 19:30
+Nautico
+ABC
+1
+ - 
+2
+(0 - 1)
+20.10. 18:15
+Guarani
+Juventude
+2
+ - 
+0
+(1 - 0)
+Round 30
+17.10. 20:30
+CRB
+Nautico
+2
+ - 
+2
+(1 - 1)
+17.10. 20:30
+Goias
+Juventude
+1
+ - 
+0
+(0 - 0)
+17.10. 20:30
+Luverdense
+Paysandu PA
+1
+ - 
+1
+(1 - 1)
+17.10. 19:30
+Brasil de Pelotas
+America MG
+0
+ - 
+0
+(0 - 0)
+17.10. 19:30
+Ceara
+Parana
+1
+ - 
+0
+(1 - 0)
+17.10. 19:30
+Criciuma
+Vila Nova FC
+0
+ - 
+1
+(0 - 1)
+17.10. 19:30
+Santa Cruz
+Oeste
+2
+ - 
+2
+(0 - 1)
+17.10. 18:15
+Boa
+Internacional
+0
+ - 
+0
+(0 - 0)
+17.10. 18:15
+Guarani
+ABC
+1
+ - 
+1
+(1 - 1)
+17.10. 18:15
+Londrina
+Figueirense
+1
+ - 
+0
+(1 - 0)
+Round 29
+14.10. 19:00
+Nautico
+Guarani
+2
+ - 
+0
+(1 - 0)
+14.10. 19:00
+Oeste
+Ceara
+0
+ - 
+1
+(0 - 0)
+14.10. 16:30
+ABC
+Boa
+1
+ - 
+0
+(0 - 0)
+14.10. 16:30
+America MG
+Luverdense
+2
+ - 
+1
+(2 - 1)
+14.10. 16:30
+Figueirense
+Santa Cruz
+2
+ - 
+1
+(2 - 0)
+14.10. 16:30
+Vila Nova FC
+Goias
+0
+ - 
+0
+(0 - 0)
+13.10. 21:30
+Juventude
+Londrina
+0
+ - 
+2
+(0 - 1)
+13.10. 20:30
+Parana
+Criciuma
+2
+ - 
+1
+(1 - 1)
+13.10. 19:15
+Paysandu PA
+CRB
+0
+ - 
+0
+(0 - 0)
+09.10. 20:00
+Internacional
+Brasil de Pelotas
+1
+ - 
+0
+(1 - 0)
+Round 28
+07.10. 19:00
+Luverdense
+Figueirense
+3
+ - 
+0
+(1 - 0)
+07.10. 19:00
+Santa Cruz
+America MG
+0
+ - 
+1
+(0 - 0)
+07.10. 16:30
+Criciuma
+Londrina
+2
+ - 
+1
+(1 - 1)
+07.10. 16:30
+Oeste
+Guarani
+3
+ - 
+0
+(1 - 0)
+06.10. 21:30
+Goias
+Nautico
+2
+ - 
+0
+(1 - 0)
+06.10. 20:30
+CRB
+ABC
+1
+ - 
+0
+(1 - 0)
+06.10. 19:15
+Boa
+Paysandu PA
+1
+ - 
+2
+(1 - 0)
+03.10. 21:30
+Brasil de Pelotas
+Juventude
+1
+ - 
+0
+(0 - 0)
+03.10. 20:30
+Parana
+Internacional
+1
+ - 
+0
+(1 - 0)
+03.10. 19:15
+Ceara
+Vila Nova FC
+2
+ - 
+0
+(1 - 0)
+Round 27
+01.10. 11:00
+America MG
+Oeste
+1
+ - 
+2
+(0 - 0)
+30.09. 19:00
+Guarani
+Criciuma
+0
+ - 
+0
+(0 - 0)
+30.09. 19:00
+Luverdense
+Ceara
+0
+ - 
+1
+(0 - 1)
+30.09. 16:30
+Internacional
+Santa Cruz
+2
+ - 
+0
+(1 - 0)
+30.09. 16:30
+Nautico
+Boa
+2
+ - 
+0
+(1 - 0)
+30.09. 16:30
+Vila Nova FC
+Brasil de Pelotas
+1
+ - 
+1
+(0 - 1)
+29.09. 21:30
+Juventude
+Paysandu PA
+1
+ - 
+0
+(0 - 0)
+29.09. 20:30
+ABC
+Goias
+0
+ - 
+1
+(0 - 0)
+29.09. 20:30
+Londrina
+CRB
+4
+ - 
+1
+(1 - 0)
+29.09. 19:15
+Figueirense
+Parana
+1
+ - 
+0
+(1 - 0)
+Round 26
+27.09. 19:30
+Internacional
+America MG
+2
+ - 
+1
+(1 - 1)
+26.09. 21:30
+ABC
+Juventude
+1
+ - 
+1
+(0 - 1)
+26.09. 21:30
+Paysandu PA
+Guarani
+2
+ - 
+1
+(1 - 1)
+26.09. 20:30
+Boa
+Goias
+2
+ - 
+0
+(0 - 0)
+26.09. 20:30
+Oeste
+Londrina
+4
+ - 
+1
+(1 - 1)
+26.09. 20:30
+Parana
+Nautico
+3
+ - 
+0
+(0 - 0)
+26.09. 20:30
+Vila Nova FC
+CRB
+3
+ - 
+0
+(2 - 0)
+26.09. 19:15
+Brasil de Pelotas
+Luverdense
+0
+ - 
+1
+(0 - 0)
+26.09. 19:15
+Criciuma
+Figueirense
+1
+ - 
+1
+(1 - 0)
+26.09. 19:15
+Santa Cruz
+Ceara
+0
+ - 
+0
+(0 - 0)
+Round 25
+23.09. 19:00
+Ceara
+Brasil de Pelotas
+2
+ - 
+1
+(0 - 1)
+23.09. 16:30
+CRB
+Criciuma
+1
+ - 
+2
+(1 - 1)
+23.09. 16:30
+Figueirense
+ABC
+2
+ - 
+0
+(1 - 0)
+23.09. 16:30
+Goias
+Paysandu PA
+2
+ - 
+1
+(0 - 0)
+23.09. 16:30
+Nautico
+Internacional
+0
+ - 
+1
+(0 - 0)
+22.09. 21:30
+Londrina
+Santa Cruz
+1
+ - 
+1
+(0 - 0)
+22.09. 21:30
+Luverdense
+Oeste
+0
+ - 
+0
+(0 - 0)
+22.09. 19:15
+Juventude
+Boa
+0
+ - 
+0
+(0 - 0)
+19.09. 21:30
+Guarani
+Parana
+0
+ - 
+4
+(0 - 3)
+19.09. 19:15
+America MG
+Vila Nova FC
+1
+ - 
+0
+(1 - 0)
+Round 24
+16.09. 19:00
+Parana
+Londrina
+2
+ - 
+1
+(1 - 1)
+16.09. 16:30
+Brasil de Pelotas
+CRB
+2
+ - 
+0
+(1 - 0)
+16.09. 16:30
+Internacional
+Figueirense
+3
+ - 
+0
+(1 - 0)
+16.09. 16:30
+Oeste
+Nautico
+1
+ - 
+0
+(0 - 0)
+16.09. 16:30
+Paysandu PA
+ABC
+2
+ - 
+0
+(1 - 0)
+16.09. 16:30
+Vila Nova FC
+Luverdense
+2
+ - 
+1
+(1 - 0)
+15.09. 21:30
+Ceara
+America MG
+1
+ - 
+1
+(1 - 0)
+15.09. 19:15
+Santa Cruz
+Goias
+3
+ - 
+0
+(1 - 0)
+12.09. 21:30
+Criciuma
+Juventude
+1
+ - 
+2
+(0 - 1)
+12.09. 19:15
+Boa
+Guarani
+2
+ - 
+2
+(1 - 0)
+Round 23
+09.09. 19:00
+ABC
+Santa Cruz
+0
+ - 
+0
+(0 - 0)
+09.09. 19:00
+CRB
+Oeste
+0
+ - 
+1
+(0 - 1)
+09.09. 16:30
+Criciuma
+Luverdense
+2
+ - 
+1
+(0 - 0)
+09.09. 16:30
+Juventude
+Internacional
+2
+ - 
+1
+(1 - 1)
+09.09. 16:30
+Londrina
+Ceara
+3
+ - 
+2
+(2 - 1)
+08.09. 21:30
+Paysandu PA
+America MG
+0
+ - 
+1
+(0 - 1)
+08.09. 19:15
+Boa
+Figueirense
+1
+ - 
+1
+(0 - 1)
+06.09. 21:45
+Nautico
+Brasil de Pelotas
+1
+ - 
+0
+(0 - 0)
+06.09. 19:30
+Goias
+Parana
+0
+ - 
+1
+(0 - 1)
+04.09. 20:00
+Guarani
+Vila Nova FC
+0
+ - 
+0
+(0 - 0)
+Round 22
+26.08. 19:00
+Figueirense
+Guarani
+2
+ - 
+1
+(1 - 0)
+26.08. 19:00
+Luverdense
+Londrina
+1
+ - 
+0
+(0 - 0)
+26.08. 16:30
+Oeste
+Boa
+4
+ - 
+1
+(3 - 1)
+26.08. 16:30
+Santa Cruz
+CRB
+1
+ - 
+2
+(1 - 0)
+26.08. 16:30
+Vila Nova FC
+ABC
+2
+ - 
+0
+(1 - 0)
+25.08. 21:30
+Internacional
+Paysandu PA
+3
+ - 
+2
+(2 - 1)
+25.08. 20:30
+Parana
+Juventude
+2
+ - 
+0
+(0 - 0)
+25.08. 19:15
+Ceara
+Nautico
+1
+ - 
+0
+(1 - 0)
+22.08. 21:30
+America MG
+Criciuma
+0
+ - 
+0
+(0 - 0)
+22.08. 19:15
+Brasil de Pelotas
+Goias
+2
+ - 
+1
+(1 - 1)
+Round 21
+19.08. 19:00
+Paysandu PA
+Parana
+0
+ - 
+0
+(0 - 0)
+19.08. 16:30
+ABC
+Internacional
+0
+ - 
+3
+(0 - 2)
+19.08. 16:30
+Boa
+Ceara
+4
+ - 
+1
+(1 - 0)
+19.08. 16:30
+CRB
+Luverdense
+2
+ - 
+2
+(2 - 1)
+19.08. 16:30
+Guarani
+Santa Cruz
+2
+ - 
+0
+(2 - 0)
+18.08. 21:30
+Goias
+America MG
+1
+ - 
+1
+(1 - 1)
+18.08. 20:30
+Criciuma
+Oeste
+1
+ - 
+1
+(0 - 0)
+18.08. 19:15
+Juventude
+Vila Nova FC
+1
+ - 
+0
+(0 - 0)
+15.08. 21:30
+Nautico
+Figueirense
+2
+ - 
+0
+(2 - 0)
+15.08. 19:15
+Londrina
+Brasil de Pelotas
+4
+ - 
+1
+(2 - 1)
+Round 20
+12.08. 19:00
+Figueirense
+Goias
+1
+ - 
+1
+(0 - 0)
+12.08. 19:00
+Oeste
+Paysandu PA
+1
+ - 
+3
+(0 - 2)
+12.08. 16:30
+Ceara
+CRB
+1
+ - 
+0
+(0 - 0)
+12.08. 16:30
+Internacional
+Londrina
+3
+ - 
+1
+(0 - 0)
+12.08. 16:30
+Parana
+ABC
+1
+ - 
+0
+(1 - 0)
+11.08. 21:30
+America MG
+Nautico
+1
+ - 
+0
+(1 - 0)
+11.08. 20:30
+Vila Nova FC
+Boa
+1
+ - 
+0
+(0 - 0)
+11.08. 19:15
+Brasil de Pelotas
+Guarani
+1
+ - 
+0
+(0 - 0)
+08.08. 21:30
+Luverdense
+Juventude
+1
+ - 
+0
+(1 - 0)
+08.08. 19:15
+Santa Cruz
+Criciuma
+1
+ - 
+2
+(1 - 0)
+Round 19
+07.08. 20:00
+Londrina
+Vila Nova FC
+0
+ - 
+1
+(0 - 0)
+05.08. 19:00
+Boa
+Parana
+2
+ - 
+1
+(1 - 0)
+05.08. 19:00
+Paysandu PA
+Figueirense
+0
+ - 
+1
+(0 - 1)
+05.08. 16:30
+ABC
+Ceara
+0
+ - 
+1
+(0 - 0)
+05.08. 16:30
+Guarani
+Internacional
+0
+ - 
+2
+(0 - 1)
+05.08. 16:30
+Juventude
+Santa Cruz
+2
+ - 
+1
+(0 - 0)
+04.08. 21:30
+CRB
+America MG
+2
+ - 
+1
+(2 - 0)
+04.08. 20:30
+Goias
+Oeste
+0
+ - 
+2
+(0 - 1)
+04.08. 20:30
+Nautico
+Luverdense
+1
+ - 
+0
+(0 - 0)
+04.08. 19:15
+Criciuma
+Brasil de Pelotas
+1
+ - 
+2
+(0 - 1)
+Round 18
+01.08. 21:30
+Ceara
+Criciuma
+3
+ - 
+1
+(3 - 0)
+01.08. 21:30
+Internacional
+Goias
+3
+ - 
+0
+(0 - 0)
+01.08. 21:30
+Luverdense
+Guarani
+1
+ - 
+0
+(0 - 0)
+01.08. 20:30
+America MG
+Londrina
+3
+ - 
+2
+(1 - 1)
+01.08. 20:30
+Oeste
+ABC
+1
+ - 
+1
+(0 - 0)
+01.08. 20:30
+Santa Cruz
+Paysandu PA
+1
+ - 
+2
+(1 - 0)
+01.08. 20:30
+Vila Nova FC
+Nautico
+0
+ - 
+1
+(0 - 1)
+01.08. 19:15
+Brasil de Pelotas
+Boa
+0
+ - 
+0
+(0 - 0)
+01.08. 19:15
+Figueirense
+Juventude
+2
+ - 
+2
+(1 - 0)
+01.08. 19:15
+Parana
+CRB
+4
+ - 
+1
+(1 - 1)
+Round 17
+29.07. 19:00
+Boa
+Luverdense
+1
+ - 
+0
+(0 - 0)
+29.07. 19:00
+Nautico
+Criciuma
+1
+ - 
+2
+(0 - 1)
+29.07. 16:30
+Figueirense
+Vila Nova FC
+0
+ - 
+1
+(0 - 0)
+29.07. 16:30
+Goias
+CRB
+3
+ - 
+0
+(2 - 0)
+29.07. 16:30
+Guarani
+Londrina
+2
+ - 
+3
+(2 - 1)
+29.07. 16:30
+Parana
+Santa Cruz
+4
+ - 
+0
+(2 - 0)
+28.07. 21:30
+Paysandu PA
+Ceara
+1
+ - 
+2
+(0 - 1)
+28.07. 19:15
+Juventude
+America MG
+0
+ - 
+1
+(0 - 1)
+25.07. 21:30
+Internacional
+Oeste
+2
+ - 
+0
+(1 - 0)
+25.07. 19:15
+ABC
+Brasil de Pelotas
+1
+ - 
+0
+(1 - 0)
+Round 16
+22.07. 19:00
+Brasil de Pelotas
+Paysandu PA
+2
+ - 
+1
+(1 - 0)
+22.07. 19:00
+CRB
+Guarani
+1
+ - 
+1
+(0 - 0)
+22.07. 19:00
+Oeste
+Juventude
+3
+ - 
+0
+(2 - 0)
+22.07. 16:30
+Criciuma
+ABC
+2
+ - 
+1
+(1 - 0)
+22.07. 16:30
+Londrina
+Nautico
+0
+ - 
+0
+(0 - 0)
+22.07. 16:30
+Vila Nova FC
+Internacional
+2
+ - 
+1
+(0 - 0)
+21.07. 21:30
+Ceara
+Goias
+0
+ - 
+1
+(0 - 0)
+21.07. 20:30
+Luverdense
+Parana
+1
+ - 
+1
+(1 - 0)
+21.07. 20:30
+Santa Cruz
+Boa
+1
+ - 
+1
+(1 - 0)
+21.07. 19:15
+America MG
+Figueirense
+4
+ - 
+2
+(3 - 0)
+Round 15
+18.07. 21:30
+Boa
+Criciuma
+2
+ - 
+0
+(1 - 0)
+18.07. 21:30
+Internacional
+Luverdense
+1
+ - 
+0
+(0 - 0)
+18.07. 20:30
+ABC
+America MG
+0
+ - 
+1
+(0 - 0)
+18.07. 20:30
+Goias
+Londrina
+0
+ - 
+1
+(0 - 0)
+18.07. 20:30
+Guarani
+Ceara
+2
+ - 
+2
+(2 - 1)
+18.07. 20:30
+Santa Cruz
+Vila Nova FC
+1
+ - 
+0
+(0 - 0)
+18.07. 19:15
+Figueirense
+Oeste
+0
+ - 
+0
+(0 - 0)
+18.07. 19:15
+Juventude
+CRB
+1
+ - 
+1
+(1 - 1)
+18.07. 19:15
+Parana
+Brasil de Pelotas
+4
+ - 
+1
+(1 - 1)
+18.07. 19:15
+Paysandu PA
+Nautico
+1
+ - 
+0
+(0 - 0)
+Round 14
+15.07. 21:00
+Luverdense
+ABC
+1
+ - 
+0
+(0 - 0)
+15.07. 19:00
+Ceara
+Juventude
+2
+ - 
+0
+(2 - 0)
+15.07. 19:00
+Londrina
+Boa
+2
+ - 
+2
+(1 - 1)
+15.07. 16:30
+America MG
+Guarani
+0
+ - 
+0
+(0 - 0)
+15.07. 16:30
+CRB
+Internacional
+2
+ - 
+0
+(1 - 0)
+15.07. 16:30
+Nautico
+Santa Cruz
+0
+ - 
+0
+(0 - 0)
+15.07. 16:30
+Vila Nova FC
+Paysandu PA
+1
+ - 
+2
+(1 - 0)
+14.07. 21:30
+Criciuma
+Goias
+1
+ - 
+0
+(0 - 0)
+14.07. 20:30
+Oeste
+Parana
+2
+ - 
+0
+(2 - 0)
+14.07. 19:15
+Brasil de Pelotas
+Figueirense
+1
+ - 
+2
+(1 - 2)
+Round 13
+11.07. 21:30
+CRB
+Figueirense
+2
+ - 
+1
+(2 - 0)
+11.07. 21:30
+Luverdense
+Santa Cruz
+2
+ - 
+2
+(1 - 0)
+11.07. 21:30
+Nautico
+Juventude
+1
+ - 
+1
+(1 - 0)
+11.07. 20:30
+America MG
+Boa
+2
+ - 
+0
+(1 - 0)
+11.07. 20:30
+Ceara
+Internacional
+0
+ - 
+2
+(0 - 2)
+11.07. 20:30
+Guarani
+Goias
+1
+ - 
+0
+(0 - 0)
+11.07. 20:30
+Vila Nova FC
+Parana
+3
+ - 
+2
+(2 - 0)
+11.07. 19:15
+Brasil de Pelotas
+Oeste
+3
+ - 
+1
+(1 - 1)
+11.07. 19:15
+Criciuma
+Paysandu PA
+1
+ - 
+1
+(0 - 0)
+11.07. 19:15
+Londrina
+ABC
+3
+ - 
+1
+(3 - 1)
+Round 12
+08.07. 19:00
+Boa
+CRB
+0
+ - 
+0
+(0 - 0)
+08.07. 19:00
+Juventude
+Guarani
+2
+ - 
+0
+(1 - 0)
+08.07. 19:00
+Oeste
+Vila Nova FC
+2
+ - 
+2
+(1 - 0)
+08.07. 16:30
+Figueirense
+Ceara
+0
+ - 
+2
+(0 - 1)
+08.07. 16:30
+Internacional
+Criciuma
+1
+ - 
+1
+(0 - 1)
+07.07. 21:30
+Parana
+America MG
+1
+ - 
+1
+(0 - 1)
+07.07. 20:30
+Goias
+Luverdense
+3
+ - 
+1
+(1 - 0)
+07.07. 19:15
+Santa Cruz
+Brasil de Pelotas
+3
+ - 
+0
+(2 - 0)
+04.07. 21:30
+ABC
+Nautico
+0
+ - 
+1
+(0 - 0)
+04.07. 19:15
+Paysandu PA
+Londrina
+1
+ - 
+2
+(0 - 1)
+Round 11
+01.07. 19:00
+ABC
+Guarani
+0
+ - 
+1
+(0 - 0)
+01.07. 19:00
+America MG
+Brasil de Pelotas
+3
+ - 
+0
+(1 - 0)
+01.07. 16:30
+Internacional
+Boa
+0
+ - 
+1
+(0 - 0)
+01.07. 16:30
+Oeste
+Santa Cruz
+2
+ - 
+0
+(1 - 0)
+01.07. 16:30
+Parana
+Ceara
+1
+ - 
+0
+(0 - 0)
+30.06. 21:30
+Nautico
+CRB
+0
+ - 
+1
+(0 - 0)
+30.06. 20:30
+Vila Nova FC
+Criciuma
+0
+ - 
+0
+(0 - 0)
+30.06. 19:15
+Paysandu PA
+Luverdense
+1
+ - 
+1
+(1 - 0)
+27.06. 21:30
+Figueirense
+Londrina
+3
+ - 
+1
+(1 - 0)
+27.06. 19:15
+Juventude
+Goias
+3
+ - 
+0
+(2 - 0)
+Round 10
+24.06. 19:00
+Guarani
+Nautico
+2
+ - 
+1
+(2 - 1)
+24.06. 16:30
+Brasil de Pelotas
+Internacional
+0
+ - 
+1
+(0 - 1)
+24.06. 16:30
+Ceara
+Oeste
+3
+ - 
+0
+(3 - 0)
+24.06. 16:30
+Goias
+Vila Nova FC
+0
+ - 
+2
+(0 - 2)
+24.06. 16:30
+Londrina
+Juventude
+2
+ - 
+2
+(0 - 0)
+24.06. 16:30
+Santa Cruz
+Figueirense
+1
+ - 
+1
+(0 - 1)
+23.06. 21:30
+Criciuma
+Parana
+2
+ - 
+1
+(1 - 0)
+23.06. 21:30
+Luverdense
+America MG
+0
+ - 
+3
+(0 - 2)
+23.06. 20:30
+Boa
+ABC
+2
+ - 
+1
+(1 - 1)
+23.06. 19:15
+CRB
+Paysandu PA
+2
+ - 
+1
+(0 - 1)
+Round 9
+20.06. 21:30
+Guarani
+Oeste
+0
+ - 
+0
+(0 - 0)
+20.06. 21:30
+Internacional
+Parana
+0
+ - 
+0
+(0 - 0)
+20.06. 21:30
+Vila Nova FC
+Ceara
+1
+ - 
+1
+(1 - 0)
+20.06. 20:30
+ABC
+CRB
+1
+ - 
+3
+(0 - 1)
+20.06. 20:30
+Figueirense
+Luverdense
+2
+ - 
+3
+(2 - 3)
+20.06. 20:30
+Londrina
+Criciuma
+0
+ - 
+1
+(0 - 0)
+20.06. 20:30
+Paysandu PA
+Boa
+0
+ - 
+0
+(0 - 0)
+20.06. 19:15
+America MG
+Santa Cruz
+1
+ - 
+0
+(0 - 0)
+20.06. 19:15
+Juventude
+Brasil de Pelotas
+1
+ - 
+2
+(0 - 1)
+20.06. 19:15
+Nautico
+Goias
+2
+ - 
+3
+(1 - 1)
+Round 8
+17.06. 21:00
+Oeste
+America MG
+0
+ - 
+0
+(0 - 0)
+17.06. 19:00
+Brasil de Pelotas
+Vila Nova FC
+3
+ - 
+0
+(1 - 0)
+17.06. 16:30
+Boa
+Nautico
+2
+ - 
+1
+(2 - 1)
+17.06. 16:30
+CRB
+Londrina
+0
+ - 
+3
+(0 - 3)
+17.06. 16:30
+Paysandu PA
+Juventude
+0
+ - 
+0
+(0 - 0)
+17.06. 16:30
+Santa Cruz
+Internacional
+0
+ - 
+0
+(0 - 0)
+16.06. 21:30
+Goias
+ABC
+1
+ - 
+2
+(1 - 1)
+16.06. 20:30
+Ceara
+Luverdense
+1
+ - 
+1
+(1 - 0)
+16.06. 20:30
+Parana
+Figueirense
+1
+ - 
+0
+(0 - 0)
+16.06. 19:15
+Criciuma
+Guarani
+3
+ - 
+2
+(2 - 1)
+Round 7
+13.06. 21:30
+America MG
+Internacional
+1
+ - 
+1
+(0 - 1)
+13.06. 21:30
+Ceara
+Santa Cruz
+1
+ - 
+3
+(1 - 0)
+13.06. 21:30
+Luverdense
+Brasil de Pelotas
+4
+ - 
+0
+(0 - 0)
+13.06. 20:30
+CRB
+Vila Nova FC
+1
+ - 
+2
+(0 - 1)
+13.06. 20:30
+Figueirense
+Criciuma
+2
+ - 
+2
+(0 - 1)
+13.06. 20:30
+Goias
+Boa
+4
+ - 
+1
+(3 - 1)
+13.06. 20:30
+Juventude
+ABC
+3
+ - 
+0
+(3 - 0)
+13.06. 19:15
+Guarani
+Paysandu PA
+2
+ - 
+0
+(1 - 0)
+13.06. 19:15
+Londrina
+Oeste
+1
+ - 
+1
+(1 - 0)
+13.06. 19:15
+Nautico
+Parana
+1
+ - 
+2
+(1 - 1)
+Round 6
+10.06. 21:00
+Oeste
+Luverdense
+0
+ - 
+0
+(0 - 0)
+10.06. 19:00
+ABC
+Figueirense
+2
+ - 
+2
+(1 - 2)
+10.06. 16:30
+Boa
+Juventude
+0
+ - 
+2
+(0 - 0)
+10.06. 16:30
+Brasil de Pelotas
+Ceara
+2
+ - 
+3
+(0 - 1)
+10.06. 16:30
+Internacional
+Nautico
+4
+ - 
+2
+(1 - 1)
+10.06. 16:30
+Parana
+Guarani
+0
+ - 
+1
+(0 - 0)
+09.06. 21:30
+Paysandu PA
+Goias
+0
+ - 
+1
+(0 - 0)
+09.06. 20:30
+Santa Cruz
+Londrina
+1
+ - 
+3
+(0 - 1)
+09.06. 20:30
+Vila Nova FC
+America MG
+2
+ - 
+0
+(1 - 0)
+09.06. 19:15
+Criciuma
+CRB
+1
+ - 
+0
+(1 - 0)
+Round 5
+06.06. 21:30
+America MG
+Ceara
+1
+ - 
+0
+(1 - 0)
+06.06. 21:30
+CRB
+Brasil de Pelotas
+0
+ - 
+1
+(0 - 0)
+06.06. 21:30
+Luverdense
+Vila Nova FC
+1
+ - 
+1
+(0 - 0)
+06.06. 20:30
+Figueirense
+Internacional
+1
+ - 
+2
+(1 - 1)
+06.06. 20:30
+Goias
+Santa Cruz
+2
+ - 
+1
+(1 - 1)
+06.06. 20:30
+Londrina
+Parana
+1
+ - 
+1
+(0 - 1)
+06.06. 20:30
+Nautico
+Oeste
+1
+ - 
+1
+(0 - 0)
+06.06. 19:15
+ABC
+Paysandu PA
+2
+ - 
+1
+(2 - 1)
+06.06. 19:15
+Guarani
+Boa
+2
+ - 
+1
+(1 - 0)
+06.06. 19:15
+Juventude
+Criciuma
+1
+ - 
+0
+(0 - 0)
+Round 4
+03.06. 19:00
+Internacional
+Juventude
+1
+ - 
+1
+(0 - 0)
+03.06. 16:30
+Luverdense
+Criciuma
+0
+ - 
+0
+(0 - 0)
+03.06. 16:30
+Santa Cruz
+ABC
+2
+ - 
+1
+(1 - 1)
+03.06. 16:30
+Vila Nova FC
+Guarani
+3
+ - 
+1
+(2 - 0)
+02.06. 21:30
+Ceara
+Londrina
+1
+ - 
+0
+(0 - 0)
+02.06. 20:30
+Oeste
+CRB
+2
+ - 
+0
+(1 - 0)
+02.06. 19:15
+America MG
+Paysandu PA
+0
+ - 
+2
+(0 - 1)
+30.05. 21:30
+Brasil de Pelotas
+Nautico
+2
+ - 
+0
+(1 - 0)
+30.05. 19:15
+Figueirense
+Boa
+0
+ - 
+2
+(0 - 2)
+Round 3
+27.05. 19:00
+Juventude
+Parana
+2
+ - 
+1
+(0 - 0)
+27.05. 16:30
+ABC
+Vila Nova FC
+1
+ - 
+0
+(1 - 0)
+27.05. 16:30
+Londrina
+Luverdense
+3
+ - 
+1
+(1 - 0)
+27.05. 16:30
+Nautico
+Ceara
+0
+ - 
+2
+(0 - 0)
+27.05. 16:30
+Paysandu PA
+Internacional
+1
+ - 
+0
+(0 - 0)
+26.05. 21:30
+Goias
+Brasil de Pelotas
+1
+ - 
+1
+(1 - 1)
+26.05. 20:30
+Boa
+Oeste
+1
+ - 
+1
+(1 - 0)
+26.05. 19:15
+Criciuma
+America MG
+1
+ - 
+3
+(0 - 0)
+23.05. 21:30
+Guarani
+Figueirense
+2
+ - 
+0
+(1 - 0)
+23.05. 19:15
+CRB
+Santa Cruz
+1
+ - 
+0
+(0 - 0)
+Round 2
+20.05. 19:00
+Internacional
+ABC
+1
+ - 
+1
+(1 - 0)
+20.05. 16:30
+Figueirense
+Nautico
+3
+ - 
+0
+(2 - 0)
+20.05. 16:30
+Luverdense
+CRB
+1
+ - 
+1
+(1 - 1)
+20.05. 16:30
+Oeste
+Criciuma
+1
+ - 
+0
+(0 - 0)
+20.05. 16:30
+Santa Cruz
+Guarani
+2
+ - 
+1
+(1 - 0)
+19.05. 21:30
+America MG
+Goias
+1
+ - 
+1
+(0 - 0)
+19.05. 20:30
+Vila Nova FC
+Juventude
+0
+ - 
+0
+(0 - 0)
+19.05. 19:15
+Parana
+Paysandu PA
+0
+ - 
+0
+(0 - 0)
+16.05. 21:30
+Ceara
+Boa
+0
+ - 
+0
+(0 - 0)
+Round 4
+16.05. 21:30
+Parana
+Goias
+2
+ - 
+0
+(1 - 0)
+Round 2
+16.05. 19:15
+Brasil de Pelotas
+Londrina
+1
+ - 
+1
+(1 - 0)
+Round 1
+13.05. 21:00
+Paysandu PA
+Oeste
+2
+ - 
+0
+(0 - 0)
+13.05. 19:00
+Goias
+Figueirense
+0
+ - 
+1
+(0 - 1)
+13.05. 16:30
+ABC
+Parana
+0
+ - 
+0
+(0 - 0)
+13.05. 16:30
+Boa
+Vila Nova FC
+0
+ - 
+1
+(0 - 1)
+13.05. 16:30
+Criciuma
+Santa Cruz
+1
+ - 
+2
+(1 - 0)
+13.05. 16:30
+Londrina
+Internacional
+0
+ - 
+3
+(0 - 2)
+12.05. 21:30
+Nautico
+America MG
+0
+ - 
+0
+(0 - 0)
+12.05. 20:30
+Guarani
+Brasil de Pelotas
+2
+ - 
+0
+(1 - 0)
+12.05. 20:30
+Juventude
+Luverdense
+2
+ - 
+1
+(0 - 0)
+12.05. 19:15
+CRB
+Ceara
+1
+ - 
+0
+(1 - 0)

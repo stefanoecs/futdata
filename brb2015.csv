@@ -1,0 +1,380 @@
+38,28.11,Bahia,Atletico GO,1,0,1,0
+38,28.11,Botafogo RJ,America MG,0,0,0,0
+38,28.11,Bragantino,Nautico,0,1,0,2
+38,28.11,Ceara,Macae,1,0,1,0
+38,28.11,Oeste,Paysandu PA,0,0,0,0
+38,28.11,Sampaio Correa,Parana,0,1,1,1
+38,28.11,Santa Cruz,Vitoria,1,0,3,1
+38,27.11,Luverdense,Mogi Mirim,0,0,2,0
+38,27.11,Criciuma,CRB,2,0,2,1
+38,24.11,Boa,ABC,1,0,2,0
+37,21.11,America MG,Ceara,1,1,1,1
+37,21.11,CRB,Sampaio Correa,0,0,2,1
+37,21.11,Mogi Mirim,Santa Cruz,0,0,0,3
+37,21.11,Nautico,Bahia,1,0,1,0
+37,21.11,Parana,Bragantino,0,1,0,2
+37,21.11,Paysandu PA,Criciuma,0,0,1,0
+37,21.11,Vitoria,Luverdense,0,0,3,0
+37,20.11,ABC,Botafogo RJ,1,2,1,2
+37,20.11,Macae,Boa,0,1,1,1
+37,20.11,Atletico GO,Oeste,1,1,3,1
+36,14.11,Atletico GO,Macae,1,1,3,4
+36,14.11,Parana,America MG,1,0,1,0
+36,14.11,Boa,Bahia,1,0,3,0
+36,14.11,Botafogo RJ,Santa Cruz,0,0,0,3
+36,14.11,Bragantino,Sampaio Correa,0,0,3,0
+36,14.11,Nautico,CRB,1,1,1,1
+36,14.11,Vitoria,Ceara,1,0,1,0
+36,13.11,ABC,Mogi Mirim,1,0,3,1
+36,13.11,Oeste,Criciuma,1,0,1,1
+36,13.11,Paysandu PA,Luverdense,2,1,3,2
+35,10.11,Bahia,ABC,2,2,2,2
+35,10.11,Ceara,Bragantino,1,0,3,0
+35,10.11,CRB,Parana,1,0,2,0
+35,10.11,Luverdense,Botafogo RJ,0,1,0,1
+35,10.11,Sampaio Correa,Atletico GO,1,0,2,0
+35,10.11,Santa Cruz,Oeste,2,0,3,1
+35,10.11,America MG,Vitoria,2,0,4,0
+35,10.11,Criciuma,Boa,3,0,3,0
+35,10.11,Macae,Nautico,1,1,1,1
+35,10.11,Mogi Mirim,Paysandu PA,0,1,1,1
+34,07.11,CRB,Atletico GO,1,0,4,1
+34,07.11,Sampaio Correa,Oeste,1,0,1,1
+34,07.11,Bahia,Santa Cruz,0,0,1,2
+34,07.11,Criciuma,Botafogo RJ,0,0,1,0
+34,07.11,Macae,Vitoria,0,1,0,2
+34,07.11,Nautico,Parana,2,0,2,0
+34,06.11,Ceara,ABC,2,0,3,0
+34,06.11,Luverdense,Boa,2,0,2,0
+34,03.11,America MG,Paysandu PA,1,0,3,1
+34,03.11,Bragantino,Mogi Mirim,1,1,3,1
+33,31.10,ABC,Sampaio Correa,0,1,2,3
+33,31.10,Mogi Mirim,Ceara,0,0,0,2
+33,31.10,Paysandu PA,CRB,1,1,5,1
+33,31.10,Botafogo RJ,Bahia,0,0,1,0
+33,31.10,Vitoria,Nautico,1,0,2,3
+33,30.10,Atletico GO,Bragantino,0,1,0,1
+33,30.10,Parana,Macae,0,0,3,0
+33,27.10,Santa Cruz,Criciuma,1,0,2,0
+33,27.10,Oeste,Luverdense,1,0,1,0
+32,27.10,Parana,ABC,0,0,0,0
+33,27.10,Boa,America MG,1,1,1,2
+32,24.10,Bragantino,Luverdense,1,0,3,2
+32,24.10,Ceara,Boa,2,1,2,1
+32,24.10,Atletico GO,Santa Cruz,0,0,0,0
+32,24.10,CRB,Vitoria,0,0,0,0
+32,24.10,Nautico,Botafogo RJ,0,1,1,4
+32,24.10,Sampaio Correa,Paysandu PA,1,0,2,0
+32,23.10,America MG,Oeste,0,0,2,1
+32,23.10,Macae,Mogi Mirim,1,0,1,0
+32,20.10,Bahia,Criciuma,0,0,1,0
+30,20.10,Botafogo RJ,Ceara,0,0,0,1
+31,17.10,Luverdense,CRB,0,0,2,0
+31,17.10,Paysandu PA,Macae,1,0,1,1
+31,17.10,ABC,America MG,2,1,4,2
+31,17.10,Criciuma,Ceara,2,0,3,0
+31,17.10,Mogi Mirim,Atletico GO,0,1,0,2
+31,17.10,Oeste,Bahia,0,1,0,1
+31,17.10,Santa Cruz,Nautico,1,1,1,3
+31,17.10,Botafogo RJ,Bragantino,1,0,4,0
+31,16.10,Vitoria,Parana,1,0,1,1
+31,16.10,Boa,Sampaio Correa,2,0,2,2
+30,10.10,Vitoria,Boa,1,0,2,1
+30,06.10,Luverdense,Sampaio Correa,0,0,2,1
+30,06.10,Paysandu PA,Bahia,0,0,0,0
+30,06.10,ABC,Atletico GO,0,1,1,1
+30,06.10,America MG,Macae,1,0,1,0
+30,06.10,CRB,Santa Cruz,1,1,3,2
+30,06.10,Nautico,Mogi Mirim,1,0,1,0
+30,06.10,Parana,Oeste,1,0,1,1
+30,06.10,Bragantino,Criciuma,1,0,2,0
+29,03.10,Mogi Mirim,America MG,1,0,1,2
+29,03.10,Atletico GO,Paysandu PA,1,0,2,1
+29,03.10,Bahia,Vitoria,1,1,1,3
+29,03.10,Boa,CRB,0,2,1,3
+29,03.10,Macae,ABC,0,1,3,1
+29,03.10,Oeste,Nautico,1,0,2,0
+29,02.10,Sampaio Correa,Botafogo RJ,0,1,2,2
+29,02.10,Criciuma,Parana,0,0,0,0
+29,29.09,Ceara,Luverdense,0,0,0,1
+29,29.09,Santa Cruz,Bragantino,1,0,3,1
+28,26.09,Luverdense,Bahia,0,1,2,2
+28,26.09,Parana,Atletico GO,1,2,1,2
+28,26.09,Ceara,Oeste,1,1,1,1
+28,26.09,CRB,Mogi Mirim,0,0,2,1
+28,26.09,Nautico,ABC,0,0,3,0
+28,26.09,Sampaio Correa,Santa Cruz,0,0,0,0
+28,26.09,Vitoria,Paysandu PA,1,0,3,1
+28,25.09,America MG,Criciuma,1,1,2,1
+28,22.09,Bragantino,Boa,1,0,2,1
+23,22.09,Atletico GO,Criciuma,0,0,0,0
+28,22.09,Botafogo RJ,Macae,2,1,2,1
+27,19.09,Criciuma,Luverdense,0,0,0,1
+27,19.09,Macae,CRB,0,0,0,0
+27,19.09,Bahia,Sampaio Correa,1,0,1,1
+27,19.09,Mogi Mirim,Parana,0,0,1,2
+27,19.09,Oeste,Bragantino,0,0,1,1
+27,19.09,Paysandu PA,Nautico,0,0,0,1
+27,19.09,Santa Cruz,Ceara,0,0,2,1
+27,18.09,Boa,Botafogo RJ,0,1,0,1
+27,18.09,Atletico GO,America MG,0,0,1,1
+27,18.09,ABC,Vitoria,0,0,0,0
+26,15.09,Boa,Santa Cruz,0,1,1,3
+26,15.09,Botafogo RJ,Oeste,0,0,1,1
+26,15.09,CRB,America MG,0,0,1,0
+26,15.09,Criciuma,Sampaio Correa,0,1,1,1
+26,15.09,Luverdense,Parana,0,0,2,0
+26,15.09,Nautico,Atletico GO,0,0,1,1
+26,15.09,Paysandu PA,ABC,2,1,3,2
+26,15.09,Vitoria,Mogi Mirim,2,0,4,1
+26,15.09,Bragantino,Macae,1,0,2,2
+26,15.09,Ceara,Bahia,1,1,2,2
+25,12.09,Macae,Criciuma,1,0,1,1
+25,12.09,ABC,CRB,0,0,0,0
+25,12.09,America MG,Nautico,1,0,2,1
+25,12.09,Atletico GO,Vitoria,0,0,0,0
+25,12.09,Sampaio Correa,Ceara,1,0,1,0
+25,12.09,Santa Cruz,Luverdense,1,0,2,0
+25,11.09,Mogi Mirim,Botafogo RJ,0,1,0,3
+25,11.09,Oeste,Boa,1,1,2,1
+25,11.09,Parana,Paysandu PA,1,0,1,1
+25,11.09,Bahia,Bragantino,1,1,3,2
+24,08.09,Luverdense,Atletico GO,1,0,1,1
+24,08.09,Bahia,Macae,0,0,1,0
+24,08.09,Boa,Mogi Mirim,0,1,0,1
+24,08.09,Botafogo RJ,Parana,0,1,2,1
+24,08.09,Bragantino,ABC,1,0,3,1
+24,08.09,Criciuma,Vitoria,0,2,2,3
+24,08.09,Santa Cruz,Paysandu PA,0,1,1,2
+24,08.09,Sampaio Correa,America MG,0,1,0,2
+24,07.09,Ceara,Nautico,0,0,1,0
+24,07.09,Oeste,CRB,0,0,0,0
+23,05.09,America MG,Bragantino,1,1,1,2
+23,05.09,Paysandu PA,Boa,0,0,3,0
+23,05.09,Vitoria,Botafogo RJ,0,0,1,2
+23,04.09,Macae,Luverdense,1,1,1,3
+23,04.09,Parana,Bahia,1,0,1,0
+23,04.09,ABC,Santa Cruz,1,1,1,1
+23,04.09,CRB,Ceara,0,1,1,3
+23,04.09,Mogi Mirim,Oeste,0,0,0,0
+23,04.09,Nautico,Sampaio Correa,1,1,1,1
+22,01.09,Botafogo RJ,Atletico GO,2,0,4,0
+22,01.09,Oeste,Macae,0,2,1,2
+22,01.09,Bahia,CRB,1,0,3,2
+22,01.09,Boa,Parana,1,0,1,2
+22,01.09,Bragantino,Vitoria,0,1,2,1
+22,01.09,Luverdense,ABC,0,0,1,1
+22,01.09,Sampaio Correa,Mogi Mirim,1,0,3,1
+22,01.09,Santa Cruz,America MG,1,0,2,1
+22,01.09,Ceara,Paysandu PA,0,0,0,0
+22,01.09,Criciuma,Nautico,1,0,1,0
+21,29.08,Mogi Mirim,Bahia,0,0,1,1
+21,29.08,Atletico GO,Ceara,1,1,3,2
+21,29.08,Macae,Sampaio Correa,1,1,1,1
+21,29.08,Nautico,Boa,0,0,1,0
+21,29.08,Parana,Santa Cruz,1,1,3,2
+21,29.08,Paysandu PA,Bragantino,0,0,2,0
+21,28.08,CRB,Botafogo RJ,2,1,2,1
+21,28.08,America MG,Luverdense,0,1,1,2
+21,25.08,ABC,Criciuma,1,0,2,2
+21,25.08,Vitoria,Oeste,0,0,1,1
+20,23.08,Ceara,Parana,2,1,4,3
+20,23.08,Botafogo RJ,Paysandu PA,0,2,2,3
+20,22.08,Bahia,America MG,1,0,1,1
+20,22.08,Boa,Atletico GO,2,1,2,2
+20,22.08,Bragantino,CRB,0,1,2,1
+20,22.08,Luverdense,Nautico,2,0,5,1
+20,22.08,Oeste,ABC,0,1,1,1
+20,22.08,Sampaio Correa,Vitoria,1,0,1,0
+20,21.08,Santa Cruz,Macae,0,0,1,0
+20,21.08,Criciuma,Mogi Mirim,0,0,0,0
+19,15.08,Macae,Ceara,1,1,1,2
+19,15.08,Mogi Mirim,Luverdense,0,1,1,1
+19,15.08,ABC,Boa,0,0,0,1
+19,15.08,America MG,Botafogo RJ,1,1,1,2
+19,15.08,CRB,Criciuma,1,1,3,1
+19,15.08,Nautico,Bragantino,1,0,3,1
+19,15.08,Paysandu PA,Oeste,1,0,3,1
+19,14.08,Atletico GO,Bahia,0,1,1,1
+19,14.08,Parana,Sampaio Correa,1,0,1,0
+19,14.08,Vitoria,Santa Cruz,2,0,2,1
+18,11.08,Boa,Macae,0,0,2,1
+18,11.08,Botafogo RJ,ABC,2,1,3,1
+18,11.08,Bragantino,Parana,1,0,2,1
+18,11.08,Luverdense,Vitoria,0,0,0,2
+18,11.08,Bahia,Nautico,0,1,1,1
+18,11.08,Ceara,America MG,0,0,0,2
+18,11.08,Criciuma,Paysandu PA,0,0,1,0
+18,11.08,Oeste,Atletico GO,0,0,0,0
+18,11.08,Sampaio Correa,CRB,0,0,1,0
+18,11.08,Santa Cruz,Mogi Mirim,2,1,2,1
+17,08.08,Mogi Mirim,ABC,1,1,2,2
+17,08.08,Ceara,Vitoria,0,2,1,2
+17,08.08,CRB,Nautico,0,0,1,0
+17,08.08,Macae,Atletico GO,0,0,0,1
+17,08.08,Santa Cruz,Botafogo RJ,0,0,1,0
+17,07.08,Bahia,Boa,3,1,4,1
+17,07.08,Luverdense,Paysandu PA,1,0,1,0
+17,07.08,Criciuma,Oeste,2,0,3,2
+17,04.08,America MG,Parana,2,0,2,0
+17,04.08,Sampaio Correa,Bragantino,1,0,2,0
+16,01.08,Bragantino,Ceara,0,0,3,0
+16,01.08,Atletico GO,Sampaio Correa,3,0,3,1
+16,01.08,Botafogo RJ,Luverdense,0,0,0,0
+16,01.08,Nautico,Macae,1,0,1,1
+16,01.08,Oeste,Santa Cruz,0,0,1,0
+16,01.08,Parana,CRB,0,0,0,0
+16,01.08,Vitoria,America MG,0,0,1,1
+16,31.07,ABC,Bahia,0,2,0,3
+16,31.07,Paysandu PA,Mogi Mirim,1,1,1,1
+16,31.07,Boa,Criciuma,1,0,1,1
+15,28.07,Atletico GO,CRB,0,0,1,0
+15,28.07,Botafogo RJ,Criciuma,0,0,0,0
+15,28.07,ABC,Ceara,0,0,0,1
+15,28.07,Boa,Luverdense,0,0,2,1
+15,28.07,Mogi Mirim,Bragantino,0,1,2,3
+15,28.07,Oeste,Sampaio Correa,0,0,1,0
+15,28.07,Parana,Nautico,2,0,2,0
+15,28.07,Paysandu PA,America MG,1,0,2,0
+15,28.07,Santa Cruz,Bahia,1,1,3,1
+15,28.07,Vitoria,Macae,0,0,0,0
+14,25.07,Ceara,Mogi Mirim,0,1,2,3
+14,25.07,Luverdense,Oeste,0,0,1,1
+14,25.07,Bahia,Botafogo RJ,0,1,1,1
+14,25.07,CRB,Paysandu PA,2,0,3,0
+14,25.07,Criciuma,Santa Cruz,0,0,0,0
+14,25.07,Nautico,Vitoria,0,1,2,1
+14,25.07,Sampaio Correa,ABC,1,1,3,2
+14,24.07,Bragantino,Atletico GO,0,0,0,1
+14,24.07,America MG,Boa,1,0,2,0
+14,21.07,Macae,Parana,0,0,0,0
+13,18.07,Boa,Ceara,0,0,0,0
+13,18.07,Oeste,America MG,1,1,3,1
+13,18.07,Botafogo RJ,Nautico,0,0,1,0
+13,18.07,Criciuma,Bahia,1,0,2,1
+13,18.07,Paysandu PA,Sampaio Correa,0,0,1,1
+13,18.07,Santa Cruz,Atletico GO,1,0,3,0
+13,17.07,Luverdense,Bragantino,0,0,2,1
+13,17.07,Vitoria,CRB,3,0,3,1
+13,14.07,ABC,Parana,1,0,1,4
+13,14.07,Mogi Mirim,Macae,3,0,3,1
+12,11.07,Bahia,Oeste,1,0,1,0
+12,11.07,America MG,ABC,0,1,2,1
+12,11.07,CRB,Luverdense,0,0,0,0
+12,11.07,Nautico,Santa Cruz,0,0,2,1
+12,11.07,Parana,Vitoria,0,0,0,1
+12,11.07,Sampaio Correa,Boa,0,0,3,0
+12,10.07,Bragantino,Botafogo RJ,1,0,1,0
+12,10.07,Atletico GO,Mogi Mirim,0,0,1,1
+12,10.07,Ceara,Criciuma,1,1,1,1
+12,10.07,Macae,Paysandu PA,0,1,2,1
+11,07.07,Ceara,Botafogo RJ,0,0,0,0
+11,07.07,Santa Cruz,CRB,0,1,2,1
+11,07.07,Atletico GO,ABC,1,1,1,2
+11,07.07,Bahia,Paysandu PA,1,0,2,0
+11,07.07,Boa,Vitoria,0,0,0,0
+11,07.07,Criciuma,Bragantino,1,0,1,0
+11,07.07,Macae,America MG,1,0,1,1
+11,07.07,Mogi Mirim,Nautico,0,1,2,1
+11,07.07,Oeste,Parana,0,0,1,0
+11,07.07,Sampaio Correa,Luverdense,1,0,3,1
+10,04.07,America MG,Mogi Mirim,1,1,3,1
+10,04.07,CRB,Boa,0,0,1,1
+10,04.07,ABC,Macae,0,1,1,1
+10,04.07,Bragantino,Santa Cruz,0,0,1,2
+10,04.07,Nautico,Oeste,0,0,2,1
+10,04.07,Vitoria,Bahia,1,0,4,1
+10,03.07,Botafogo RJ,Sampaio Correa,3,0,5,0
+10,03.07,Parana,Criciuma,0,0,0,0
+10,30.06,Luverdense,Ceara,1,0,3,0
+10,30.06,Paysandu PA,Atletico GO,1,0,2,0
+9,27.06,Boa,Bragantino,1,0,3,0
+9,27.06,ABC,Nautico,1,2,3,3
+9,27.06,Bahia,Luverdense,0,0,1,0
+9,27.06,Macae,Botafogo RJ,3,0,4,2
+9,27.06,Mogi Mirim,CRB,0,0,0,1
+9,27.06,Santa Cruz,Sampaio Correa,0,0,1,0
+9,26.06,Atletico GO,Parana,1,1,1,1
+9,26.06,Oeste,Ceara,0,0,2,0
+9,23.06,Paysandu PA,Vitoria,0,0,1,0
+9,23.06,Criciuma,America MG,2,1,2,2
+8,20.06,Bragantino,Oeste,2,0,3,1
+8,20.06,CRB,Macae,2,0,3,1
+8,20.06,America MG,Atletico GO,1,0,1,0
+8,20.06,Ceara,Santa Cruz,1,1,3,3
+8,20.06,Vitoria,ABC,2,0,2,0
+8,19.06,Botafogo RJ,Boa,1,1,1,1
+8,19.06,Parana,Mogi Mirim,0,1,3,1
+8,19.06,Sampaio Correa,Bahia,0,0,0,0
+8,16.06,Luverdense,Criciuma,0,1,0,1
+8,16.06,Nautico,Paysandu PA,1,0,1,1
+7,13.06,America MG,CRB,1,0,1,0
+7,13.06,Macae,Bragantino,1,1,2,5
+7,13.06,Atletico GO,Nautico,1,0,2,0
+7,13.06,Bahia,Ceara,0,0,1,0
+7,13.06,Mogi Mirim,Vitoria,0,1,1,1
+7,12.06,Santa Cruz,Boa,0,0,0,0
+7,12.06,ABC,Paysandu PA,0,2,0,2
+7,12.06,Sampaio Correa,Criciuma,1,1,3,1
+7,09.06,Oeste,Botafogo RJ,0,0,0,1
+7,09.06,Parana,Luverdense,0,0,1,0
+6,06.06,Boa,Oeste,1,1,1,2
+6,06.06,CRB,ABC,0,0,0,1
+6,06.06,Paysandu PA,Parana,0,0,2,1
+6,06.06,Bragantino,Bahia,1,0,2,0
+6,06.06,Ceara,Sampaio Correa,1,1,1,3
+6,06.06,Criciuma,Macae,0,0,0,3
+6,06.06,Luverdense,Santa Cruz,2,1,2,2
+6,05.06,Botafogo RJ,Mogi Mirim,1,0,3,0
+6,05.06,Nautico,America MG,1,0,2,1
+6,05.06,Vitoria,Atletico GO,1,1,3,1
+5,02.06,Atletico GO,Luverdense,0,0,0,1
+5,02.06,CRB,Oeste,1,0,3,0
+5,02.06,Macae,Bahia,0,0,0,0
+5,02.06,Parana,Botafogo RJ,1,1,1,2
+5,02.06,ABC,Bragantino,1,0,1,1
+5,02.06,America MG,Sampaio Correa,0,0,1,0
+5,02.06,Mogi Mirim,Boa,0,1,0,2
+5,02.06,Nautico,Ceara,1,0,2,0
+5,02.06,Paysandu PA,Santa Cruz,1,1,2,1
+5,02.06,Vitoria,Criciuma,1,0,2,1
+4,30.05,Luverdense,Macae,1,0,1,2
+4,30.05,Oeste,Mogi Mirim,0,0,0,0
+4,30.05,Boa,Paysandu PA,0,0,0,1
+4,30.05,Botafogo RJ,Vitoria,2,0,2,0
+4,30.05,Criciuma,Atletico GO,0,0,1,0
+4,30.05,Sampaio Correa,Nautico,0,0,1,1
+4,29.05,Bahia,Parana,1,0,1,0
+4,29.05,Bragantino,America MG,0,0,0,1
+4,29.05,Santa Cruz,ABC,0,1,0,1
+4,26.05,Ceara,CRB,1,1,1,1
+3,23.05,ABC,Luverdense,1,1,1,1
+3,23.05,CRB,Bahia,0,2,0,3
+3,23.05,America MG,Santa Cruz,4,1,4,1
+3,23.05,Atletico GO,Botafogo RJ,0,0,0,0
+3,23.05,Parana,Boa,0,0,1,1
+3,23.05,Paysandu PA,Ceara,1,0,2,1
+3,22.05,Mogi Mirim,Sampaio Correa,0,1,1,1
+3,22.05,Vitoria,Bragantino,1,0,4,1
+3,19.05,Nautico,Criciuma,2,0,2,0
+3,19.05,Macae,Oeste,4,0,4,2
+2,16.05,Ceara,Atletico GO,0,0,2,0
+2,16.05,Luverdense,America MG,1,0,1,0
+2,16.05,Boa,Nautico,0,0,0,1
+2,16.05,Botafogo RJ,CRB,1,0,4,1
+2,16.05,Bragantino,Paysandu PA,0,0,1,0
+2,16.05,Oeste,Vitoria,1,2,1,2
+2,15.05,Criciuma,ABC,0,0,0,2
+2,15.05,Bahia,Mogi Mirim,2,1,4,1
+2,15.05,Sampaio Correa,Macae,1,0,3,1
+2,15.05,Santa Cruz,Parana,1,1,4,1
+1,09.05,CRB,Bragantino,1,0,2,0
+1,09.05,Paysandu PA,Botafogo RJ,0,0,0,1
+1,09.05,America MG,Bahia,0,1,1,1
+1,09.05,Macae,Santa Cruz,1,0,2,0
+1,09.05,Nautico,Luverdense,1,0,1,0
+1,09.05,Vitoria,Sampaio Correa,0,1,0,2
+1,08.05,Mogi Mirim,Criciuma,0,0,1,2
+1,08.05,Parana,Ceara,1,0,1,0
+1,08.05,ABC,Oeste,0,0,0,1
+1,08.05,Atletico GO,Boa,0,0,1,0

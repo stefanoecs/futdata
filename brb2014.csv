@@ -1,0 +1,379 @@
+38,29.11,ABC,Bragantino,0,0,0,2
+38,29.11,America MG,Sampaio Correa,3,0,4,0
+38,29.11,Atletico GO,Santa Cruz,0,0,2,3
+38,29.11,Avai,Vasco,1,0,1,0
+38,29.11,Icasa,Boa,0,0,3,2
+38,29.11,Luverdense,Ceara,0,0,1,0
+38,29.11,Nautico,Ponte Preta,1,0,1,1
+38,29.11,Oeste,Joinville,0,0,1,0
+38,29.11,Parana,America RN,2,0,4,1
+38,28.11,Portuguesa,Vila Nova FC,1,2,2,3
+37,22.11,Ceara,Portuguesa,1,0,2,1
+37,22.11,Sampaio Correa,Atletico GO,1,0,1,2
+37,22.11,Santa Cruz,Avai,0,1,0,1
+37,22.11,Boa,Oeste,1,0,1,0
+37,22.11,Joinville,Luverdense,1,1,1,1
+37,22.11,Ponte Preta,America MG,0,0,0,1
+37,22.11,Vasco,Icasa,1,0,1,1
+37,21.11,Bragantino,Parana,0,0,1,1
+37,21.11,Vila Nova FC,ABC,1,3,3,5
+37,21.11,America RN,Nautico,1,0,1,0
+36,18.11,ABC,Ceara,0,0,1,0
+36,18.11,Boa,Joinville,0,0,1,0
+36,18.11,Luverdense,America MG,0,0,1,2
+36,18.11,Ponte Preta,America RN,1,1,2,2
+36,18.11,Santa Cruz,Sampaio Correa,0,0,0,2
+36,18.11,Vasco,Vila Nova FC,1,1,3,1
+36,18.11,Atletico GO,Bragantino,1,0,1,0
+36,18.11,Avai,Portuguesa,0,0,2,0
+36,18.11,Icasa,Parana,0,1,1,2
+36,18.11,Oeste,Nautico,1,0,2,0
+35,15.11,America RN,Icasa,2,0,2,0
+35,15.11,Sampaio Correa,Boa,2,0,3,0
+35,15.11,Bragantino,Santa Cruz,1,1,2,1
+35,15.11,Nautico,Luverdense,0,0,1,0
+35,15.11,Ceara,Vasco,2,0,2,0
+35,15.11,Joinville,Ponte Preta,0,0,3,1
+35,14.11,America MG,Avai,0,0,3,0
+35,14.11,Vila Nova FC,Oeste,0,0,0,1
+35,11.11,Parana,Atletico GO,1,0,2,0
+35,11.11,Portuguesa,ABC,0,0,0,0
+34,08.11,Portuguesa,Luverdense,0,0,1,0
+34,08.11,Vila Nova FC,Parana,1,0,2,0
+34,08.11,America MG,Icasa,1,0,1,1
+34,08.11,Nautico,Santa Cruz,0,0,0,0
+34,08.11,Bragantino,Ponte Preta,0,0,0,2
+34,08.11,Vasco,ABC,1,0,1,0
+34,07.11,Ceara,Atletico GO,0,0,0,0
+34,07.11,America RN,Boa,1,1,1,3
+34,04.11,Sampaio Correa,Joinville,0,2,1,2
+34,04.11,Avai,Oeste,0,0,0,0
+33,01.11,Boa,Ceara,2,0,3,1
+33,01.11,ABC,America MG,0,0,1,0
+33,01.11,Icasa,Nautico,1,1,3,1
+33,01.11,Santa Cruz,America RN,0,0,0,1
+33,01.11,Ponte Preta,Sampaio Correa,1,0,1,0
+33,31.10,Parana,Vasco,0,0,1,1
+33,31.10,Atletico GO,Vila Nova FC,2,1,3,1
+33,28.10,Joinville,Bragantino,1,0,1,0
+33,28.10,Luverdense,Avai,3,1,3,1
+33,28.10,Oeste,Portuguesa,1,0,3,0
+31,28.10,Santa Cruz,Vila Nova FC,3,0,5,1
+32,25.10,Luverdense,Oeste,0,0,1,0
+32,25.10,Vila Nova FC,Sampaio Correa,2,0,4,1
+32,25.10,Nautico,Atletico GO,0,1,1,2
+32,25.10,Bragantino,Boa,1,1,4,2
+32,25.10,Vasco,Ponte Preta,0,0,1,1
+32,24.10,ABC,Parana,0,0,2,1
+32,24.10,Ceara,Santa Cruz,0,1,0,2
+32,24.10,America MG,America RN,0,1,2,1
+32,24.10,Avai,Joinville,0,2,0,3
+32,24.10,Portuguesa,Icasa,1,2,1,2
+31,21.10,Atletico GO,Luverdense,3,0,3,0
+31,21.10,Boa,Nautico,1,0,1,0
+31,21.10,Joinville,ABC,1,0,3,0
+31,21.10,America RN,Vasco,0,0,2,0
+31,21.10,Icasa,Ceara,1,1,2,1
+31,21.10,Oeste,America MG,0,1,1,3
+31,21.10,Parana,Portuguesa,0,0,1,0
+31,21.10,Ponte Preta,Avai,1,1,3,1
+31,21.10,Sampaio Correa,Bragantino,1,0,3,0
+30,18.10,ABC,Luverdense,0,1,0,1
+30,18.10,Bragantino,America RN,1,0,2,1
+30,18.10,Joinville,Ceara,2,0,3,0
+30,18.10,Sampaio Correa,Nautico,1,0,1,1
+30,18.10,Santa Cruz,Vasco,0,0,1,0
+30,17.10,Parana,America MG,0,0,1,1
+30,17.10,Icasa,Oeste,0,0,0,0
+30,17.10,Portuguesa,Ponte Preta,0,0,0,3
+30,14.10,Atletico GO,Avai,0,0,2,0
+30,14.10,Boa,Vila Nova FC,1,0,3,0
+16,14.10,Santa Cruz,Bragantino,1,0,2,1
+29,11.10,Avai,Icasa,1,0,1,0
+29,11.10,Luverdense,Parana,0,1,0,2
+29,11.10,America RN,Sampaio Correa,1,0,2,2
+29,11.10,America MG,Portuguesa,2,0,3,1
+29,11.10,Nautico,ABC,1,0,2,1
+29,11.10,Ponte Preta,Santa Cruz,0,1,1,1
+29,10.10,Ceara,Bragantino,1,0,1,0
+29,10.10,Oeste,Atletico GO,0,1,1,2
+29,10.10,Vasco,Boa,0,0,2,0
+29,10.10,Vila Nova FC,Joinville,0,0,0,1
+28,07.10,ABC,Avai,1,1,2,1
+28,07.10,Joinville,Santa Cruz,0,0,1,1
+28,07.10,Luverdense,America RN,1,0,2,1
+28,07.10,Portuguesa,Vasco,0,1,0,1
+28,07.10,Atletico GO,Icasa,0,0,0,0
+28,07.10,Boa,Ponte Preta,0,0,0,1
+28,07.10,Bragantino,Vila Nova FC,0,1,1,2
+28,07.10,Ceara,Sampaio Correa,1,1,1,1
+28,07.10,Nautico,America MG,0,2,1,4
+28,07.10,Parana,Oeste,0,0,0,0
+27,04.10,America RN,Joinville,0,0,1,0
+27,04.10,Oeste,ABC,0,0,1,0
+27,04.10,Avai,Nautico,0,1,0,2
+27,03.10,Vasco,Bragantino,0,1,2,2
+27,03.10,America MG,Atletico GO,0,1,1,1
+27,03.10,Santa Cruz,Boa,3,0,3,0
+27,30.09,Ponte Preta,Parana,0,2,2,2
+27,30.09,Icasa,Luverdense,0,0,1,0
+27,30.09,Sampaio Correa,Portuguesa,0,0,0,0
+27,30.09,Vila Nova FC,Ceara,0,1,1,5
+26,27.09,Atletico GO,Portuguesa,1,1,2,1
+26,27.09,Icasa,ABC,1,0,1,0
+26,27.09,America MG,Santa Cruz,1,0,1,0
+26,27.09,Avai,Boa,1,0,2,0
+26,27.09,Oeste,Bragantino,1,1,4,1
+26,27.09,Ponte Preta,Ceara,2,0,3,1
+26,26.09,Vasco,Joinville,1,0,2,0
+26,26.09,America RN,Vila Nova FC,0,0,0,1
+26,26.09,Luverdense,Sampaio Correa,0,0,0,1
+26,26.09,Nautico,Parana,2,0,3,1
+25,23.09,Ceara,America RN,1,0,2,0
+25,23.09,Portuguesa,Nautico,0,0,0,0
+25,23.09,Sampaio Correa,Vasco,1,1,2,2
+25,23.09,Santa Cruz,Oeste,1,0,3,0
+25,23.09,ABC,Atletico GO,1,0,2,0
+25,23.09,Boa,Luverdense,1,1,2,1
+25,23.09,Bragantino,Icasa,0,1,2,1
+25,23.09,Joinville,America MG,0,1,1,1
+25,23.09,Parana,Avai,0,0,1,1
+25,23.09,Vila Nova FC,Ponte Preta,0,1,0,3
+24,20.09,Boa,Parana,1,0,1,0
+24,20.09,Bragantino,Luverdense,0,0,2,0
+24,20.09,Joinville,Atletico GO,1,0,2,0
+24,20.09,Ponte Preta,Oeste,4,1,5,1
+24,20.09,Sampaio Correa,ABC,1,1,2,1
+24,20.09,Santa Cruz,Icasa,1,1,1,1
+24,20.09,Vasco,Nautico,0,0,2,1
+24,20.09,Vila Nova FC,America MG,0,0,0,1
+24,19.09,Ceara,Avai,1,2,2,2
+24,19.09,America RN,Portuguesa,0,0,1,1
+23,16.09,ABC,Ponte Preta,0,1,0,2
+23,16.09,Icasa,Vila Nova FC,0,0,0,1
+23,16.09,Luverdense,Santa Cruz,0,1,2,1
+23,16.09,Oeste,Vasco,1,0,1,1
+23,16.09,America MG,Bragantino,0,1,0,2
+23,16.09,Atletico GO,America RN,1,0,2,0
+23,16.09,Avai,Sampaio Correa,1,1,3,2
+23,16.09,Nautico,Joinville,1,2,1,2
+23,16.09,Parana,Ceara,0,0,0,0
+23,16.09,Portuguesa,Boa,0,0,1,1
+22,13.09,Avai,Vila Nova FC,0,0,2,1
+22,13.09,Portuguesa,Bragantino,0,2,1,3
+22,13.09,ABC,America RN,0,0,0,0
+22,13.09,America MG,Boa,0,1,0,2
+22,13.09,Atletico GO,Vasco,0,1,1,1
+22,13.09,Parana,Santa Cruz,1,1,3,2
+22,12.09,Luverdense,Ponte Preta,0,1,0,1
+22,12.09,Icasa,Joinville,1,0,1,1
+22,12.09,Nautico,Ceara,2,0,2,1
+22,12.09,Oeste,Sampaio Correa,0,0,0,0
+21,09.09,America RN,Oeste,0,0,0,1
+21,09.09,Bragantino,Avai,0,3,1,4
+21,09.09,Ceara,America MG,3,2,5,2
+21,09.09,Sampaio Correa,Icasa,1,2,3,2
+21,09.09,Santa Cruz,Portuguesa,0,0,1,0
+21,09.09,Vasco,Luverdense,1,0,2,0
+21,09.09,Vila Nova FC,Nautico,0,1,0,1
+21,09.09,Boa,ABC,0,0,0,0
+21,09.09,Ponte Preta,Atletico GO,2,1,3,4
+21,08.09,Joinville,Parana,0,0,3,0
+20,06.09,Luverdense,Vila Nova FC,1,0,2,0
+20,06.09,Oeste,Ceara,1,1,3,1
+20,06.09,ABC,Santa Cruz,1,0,2,1
+20,06.09,America MG,Vasco,2,2,2,3
+20,06.09,Avai,America RN,0,0,0,0
+20,06.09,Nautico,Bragantino,0,0,0,0
+20,05.09,Icasa,Ponte Preta,0,1,0,1
+20,02.09,Portuguesa,Joinville,0,1,1,2
+20,02.09,Atletico GO,Boa,0,1,0,3
+20,02.09,Parana,Sampaio Correa,0,0,0,0
+19,30.08,Ceara,Luverdense,2,0,3,1
+19,30.08,America RN,Parana,1,2,2,3
+19,30.08,Bragantino,ABC,0,0,1,0
+19,30.08,Ponte Preta,Nautico,0,0,2,0
+19,30.08,Vasco,Avai,0,2,0,5
+19,29.08,Joinville,Oeste,1,1,2,1
+19,29.08,Sampaio Correa,America MG,0,0,0,0
+19,29.08,Santa Cruz,Atletico GO,1,0,2,0
+19,26.08,Vila Nova FC,Portuguesa,0,0,1,2
+19,26.08,Boa,Icasa,0,0,2,0
+18,23.08,ABC,Vila Nova FC,0,2,0,2
+18,23.08,Luverdense,Joinville,1,1,2,2
+18,23.08,Atletico GO,Sampaio Correa,1,3,2,4
+18,23.08,Avai,Santa Cruz,0,0,0,0
+18,23.08,Nautico,America RN,1,1,2,1
+18,23.08,Parana,Bragantino,1,0,1,0
+18,23.08,Portuguesa,Ceara,1,0,1,1
+18,22.08,Icasa,Vasco,0,1,1,1
+18,22.08,America MG,Ponte Preta,1,0,3,0
+18,22.08,Oeste,Boa,1,0,2,1
+17,19.08,America MG,Luverdense,1,0,2,0
+17,19.08,Bragantino,Atletico GO,1,1,2,1
+17,19.08,Portuguesa,Avai,0,0,1,3
+17,19.08,Vila Nova FC,Vasco,2,1,2,1
+17,19.08,America RN,Ponte Preta,0,0,0,2
+17,19.08,Ceara,ABC,1,1,1,2
+17,19.08,Joinville,Boa,1,1,2,1
+17,19.08,Nautico,Oeste,2,2,3,2
+17,19.08,Parana,Icasa,1,0,1,0
+17,19.08,Sampaio Correa,Santa Cruz,0,0,0,0
+16,16.08,Boa,Sampaio Correa,0,1,2,1
+16,16.08,Oeste,Vila Nova FC,1,2,1,3
+16,16.08,Icasa,America RN,0,1,0,2
+16,16.08,Luverdense,Nautico,0,1,0,2
+16,16.08,Vasco,Ceara,1,0,2,0
+16,15.08,Ponte Preta,Joinville,1,0,2,0
+16,15.08,Atletico GO,Parana,1,0,2,1
+16,12.08,Avai,America MG,1,0,2,0
+5,12.08,Nautico,Vasco,0,1,0,1
+16,12.08,ABC,Portuguesa,0,0,0,0
+15,09.08,Boa,America RN,2,0,3,2
+15,09.08,Oeste,Avai,0,0,0,0
+15,09.08,ABC,Vasco,0,1,1,2
+15,09.08,Parana,Vila Nova FC,1,1,3,1
+15,09.08,Santa Cruz,Nautico,0,0,3,0
+15,08.08,Ponte Preta,Bragantino,0,0,1,0
+15,08.08,Atletico GO,Ceara,0,0,0,2
+15,08.08,Icasa,America MG,0,0,2,0
+15,05.08,Joinville,Sampaio Correa,2,1,3,1
+15,05.08,Luverdense,Portuguesa,0,0,3,1
+14,02.08,Ceara,Boa,1,1,2,2
+14,02.08,America MG,ABC,0,0,1,0
+14,02.08,America RN,Santa Cruz,0,1,0,1
+14,02.08,Bragantino,Joinville,1,0,1,0
+14,02.08,Sampaio Correa,Ponte Preta,2,2,3,3
+14,02.08,Vasco,Parana,1,0,1,0
+14,01.08,Avai,Luverdense,0,1,1,2
+14,01.08,Vila Nova FC,Atletico GO,0,2,0,2
+14,29.07,Portuguesa,Oeste,0,0,0,0
+14,29.07,Nautico,Icasa,1,0,1,0
+13,26.07,Parana,ABC,0,0,1,0
+13,26.07,Sampaio Correa,Vila Nova FC,2,0,2,0
+13,26.07,Atletico GO,Nautico,0,0,2,0
+13,26.07,Joinville,Avai,0,0,0,1
+13,26.07,Ponte Preta,Vasco,0,0,0,0
+13,26.07,Santa Cruz,Ceara,2,3,2,3
+13,25.07,America RN,America MG,1,0,1,0
+13,25.07,Boa,Bragantino,0,0,2,1
+13,25.07,Oeste,Luverdense,0,1,2,1
+10,22.07,Atletico GO,Oeste,2,0,4,2
+13,22.07,Icasa,Portuguesa,0,0,2,0
+12,19.07,Bragantino,Sampaio Correa,0,0,0,1
+12,19.07,Nautico,Boa,0,2,1,3
+12,19.07,Ceara,Icasa,2,0,2,1
+12,19.07,Luverdense,Atletico GO,0,1,0,2
+12,19.07,Vasco,America RN,1,0,1,1
+12,19.07,Vila Nova FC,Santa Cruz,2,2,3,2
+12,18.07,Avai,Ponte Preta,0,0,1,0
+12,18.07,ABC,Joinville,0,1,2,1
+12,18.07,America MG,Oeste,3,0,3,0
+12,18.07,Portuguesa,Parana,0,1,1,1
+11,15.07,America RN,Bragantino,1,2,4,2
+11,15.07,Ceara,Joinville,0,3,1,3
+11,15.07,Luverdense,ABC,0,0,3,1
+11,15.07,Oeste,Icasa,0,0,0,0
+11,15.07,Vasco,Santa Cruz,2,1,4,1
+11,15.07,America MG,Parana,0,0,1,0
+11,15.07,Avai,Atletico GO,0,1,2,1
+11,15.07,Nautico,Sampaio Correa,1,0,1,0
+11,15.07,Ponte Preta,Portuguesa,0,0,0,0
+11,15.07,Vila Nova FC,Boa,0,2,0,2
+4,07.06,Sampaio Correa,Avai,1,0,1,1
+10,06.06,Joinville,Vila Nova FC,1,0,1,0
+10,06.06,Parana,Luverdense,0,1,0,2
+10,03.06,ABC,Nautico,1,0,1,1
+10,03.06,Boa,Vasco,0,0,0,2
+10,03.06,Icasa,Avai,0,0,0,2
+10,03.06,Bragantino,Ceara,1,1,1,2
+10,03.06,Portuguesa,America MG,1,0,2,1
+10,03.06,Sampaio Correa,America RN,0,0,3,0
+10,03.06,Santa Cruz,Ponte Preta,2,0,2,1
+9,31.05,Icasa,Atletico GO,0,0,1,0
+9,31.05,Vila Nova FC,Bragantino,0,1,1,1
+9,31.05,America MG,Nautico,0,2,1,3
+9,31.05,Ponte Preta,Boa,1,0,1,0
+9,31.05,Sampaio Correa,Ceara,2,2,2,2
+9,31.05,Vasco,Portuguesa,1,1,1,1
+9,30.05,Santa Cruz,Joinville,1,0,2,0
+9,30.05,America RN,Luverdense,0,0,2,0
+9,30.05,Avai,ABC,0,0,0,1
+9,30.05,Oeste,Parana,1,1,2,2
+8,27.05,Atletico GO,America MG,2,0,3,0
+8,27.05,Bragantino,Vasco,0,0,1,1
+8,27.05,Ceara,Vila Nova FC,2,0,4,0
+8,27.05,Luverdense,Icasa,0,0,1,0
+8,27.05,Nautico,Avai,0,1,0,1
+8,27.05,ABC,Oeste,0,0,0,1
+8,27.05,Boa,Santa Cruz,0,1,0,2
+8,27.05,Joinville,America RN,0,0,1,0
+8,27.05,Parana,Ponte Preta,0,0,1,2
+8,27.05,Portuguesa,Sampaio Correa,0,2,1,4
+7,24.05,ABC,Icasa,1,0,3,0
+7,24.05,Parana,Nautico,1,0,2,0
+7,24.05,Joinville,Vasco,0,0,0,0
+7,24.05,Portuguesa,Atletico GO,0,0,2,0
+7,24.05,Sampaio Correa,Luverdense,1,0,1,0
+7,24.05,Vila Nova FC,America RN,1,0,1,3
+7,23.05,Ceara,Ponte Preta,1,1,3,2
+7,23.05,Boa,Avai,0,0,2,0
+7,23.05,Bragantino,Oeste,1,0,3,0
+7,23.05,Santa Cruz,America MG,0,0,1,1
+6,20.05,America RN,Ceara,0,1,0,1
+6,20.05,Icasa,Bragantino,1,0,3,0
+6,20.05,Luverdense,Boa,0,1,4,2
+6,20.05,Nautico,Portuguesa,0,1,2,1
+6,20.05,Vasco,Sampaio Correa,0,0,1,1
+6,20.05,America MG,Joinville,1,0,3,1
+6,20.05,Atletico GO,ABC,2,0,2,0
+6,20.05,Avai,Parana,0,0,2,1
+6,20.05,Oeste,Santa Cruz,1,1,1,1
+6,20.05,Ponte Preta,Vila Nova FC,1,0,1,0
+5,17.05,Atletico GO,Joinville,0,0,0,0
+5,17.05,Luverdense,Bragantino,1,0,2,0
+5,17.05,ABC,Sampaio Correa,1,0,1,0
+5,17.05,America MG,Vila Nova FC,2,0,2,0
+5,17.05,Avai,Ceara,0,0,1,1
+5,17.05,Icasa,Santa Cruz,0,0,1,1
+5,17.05,Portuguesa,America RN,0,0,1,2
+5,16.05,Parana,Boa,0,0,0,0
+5,13.05,Oeste,Ponte Preta,0,0,1,1
+4,10.05,Bragantino,America MG,0,1,0,2
+4,10.05,Ceara,Parana,1,0,2,1
+4,10.05,America RN,Atletico GO,1,0,3,3
+4,10.05,Joinville,Nautico,0,0,1,0
+4,10.05,Ponte Preta,ABC,1,0,2,1
+4,10.05,Santa Cruz,Luverdense,0,0,0,0
+4,10.05,Vasco,Oeste,0,0,2,0
+4,09.05,Vila Nova FC,Icasa,0,1,0,1
+4,06.05,Boa,Portuguesa,1,0,2,1
+3,03.05,Sampaio Correa,Oeste,0,0,2,2
+3,03.05,Vila Nova FC,Avai,0,0,0,1
+3,03.05,America RN,ABC,0,0,0,2
+3,03.05,Boa,America MG,1,1,1,3
+3,03.05,Ceara,Nautico,0,1,2,2
+3,03.05,Ponte Preta,Luverdense,1,2,2,2
+3,03.05,Vasco,Atletico GO,1,0,3,0
+3,02.05,Santa Cruz,Parana,1,1,1,1
+3,02.05,Joinville,Icasa,2,0,2,1
+3,29.04,Bragantino,Portuguesa,0,0,2,2
+2,26.04,ABC,Boa,1,0,1,0
+2,26.04,America MG,Ceara,2,0,3,0
+2,26.04,Atletico GO,Ponte Preta,1,1,2,2
+2,26.04,Luverdense,Vasco,1,0,2,1
+2,26.04,Nautico,Vila Nova FC,1,0,2,0
+2,26.04,Oeste,America RN,0,0,2,1
+2,26.04,Portuguesa,Santa Cruz,0,0,1,1
+2,25.04,Parana,Joinville,2,2,2,3
+2,25.04,Icasa,Sampaio Correa,0,2,0,3
+2,22.04,Avai,Bragantino,1,1,1,2
+1,19.04,America RN,Avai,2,1,3,1
+1,19.04,Ceara,Oeste,1,0,1,0
+1,19.04,Boa,Atletico GO,1,1,1,1
+1,19.04,Bragantino,Nautico,1,0,2,2
+1,19.04,Santa Cruz,ABC,1,0,1,1
+1,19.04,Vasco,America MG,0,0,1,1
+1,18.04,Ponte Preta,Icasa,0,1,1,1
+1,18.04,Sampaio Correa,Parana,0,0,0,2
+1,18.04,Vila Nova FC,Luverdense,0,0,0,0

@@ -1,0 +1,380 @@
+38,29.01,America MG,Avai,2,0,2,1
+38,29.01,Brasil de Pelotas,Vitoria,0,0,0,1
+38,29.01,Chapecoense-SC,Confianca,1,0,3,1
+38,29.01,Guarani,Juventude,0,1,0,1
+38,29.01,Nautico,CSA,1,0,1,1
+38,29.01,Parana,Cruzeiro,0,0,0,0
+38,29.01,Botafogo SP,Operario,0,1,0,1
+38,29.01,CRB,Cuiaba,2,0,4,1
+38,29.01,Sampaio Correa,Oeste,0,0,1,0
+38,29.01,Figueirense,Ponte Preta,1,4,2,7
+37,26.01,Vitoria,Botafogo SP,0,0,1,0
+37,26.01,Oeste,Parana,0,0,1,0
+37,25.01,Operario,Chapecoense-SC,1,0,2,0
+37,24.01,Ponte Preta,CRB,2,0,3,1
+37,24.01,Cruzeiro,Nautico,0,0,0,0
+37,23.01,Avai,Guarani,1,0,2,1
+37,23.01,Confianca,America MG,0,0,0,0
+37,22.01,Cuiaba,Sampaio Correa,0,2,1,3
+37,22.01,CSA,Brasil de Pelotas,0,1,1,1
+37,22.01,Juventude,Figueirense,0,0,2,1
+36,21.01,Chapecoense-SC,Ponte Preta,0,0,1,0
+36,20.01,Cruzeiro,Operario,1,0,2,1
+36,20.01,Nautico,Oeste,3,0,4,1
+36,20.01,Guarani,Vitoria,1,1,1,2
+36,19.01,Parana,Cuiaba,0,1,0,2
+36,19.01,Avai,Juventude,4,2,5,2
+36,19.01,Botafogo SP,CSA,0,1,1,3
+36,19.01,Confianca,Sampaio Correa,0,0,0,1
+36,19.01,CRB,Figueirense,3,0,5,1
+36,19.01,Brasil de Pelotas,America MG,0,0,0,0
+35,17.01,Ponte Preta,Nautico,2,0,2,0
+35,17.01,Vitoria,Chapecoense-SC,0,0,0,0
+35,16.01,Oeste,Confianca,0,1,0,1
+35,16.01,Juventude,Cruzeiro,1,0,1,0
+35,16.01,CSA,Avai,1,0,1,1
+35,15.01,America MG,Botafogo SP,0,1,1,1
+35,15.01,Sampaio Correa,Parana,1,0,2,1
+35,15.01,Figueirense,Brasil de Pelotas,3,0,3,0
+35,14.01,Cuiaba,Guarani,2,0,4,0
+35,14.01,Operario,CRB,1,1,3,2
+34,13.01,Cruzeiro,Oeste,0,1,0,1
+34,13.01,Avai,Vitoria,1,0,2,2
+34,12.01,Chapecoense-SC,Figueirense,1,0,2,1
+34,12.01,Botafogo SP,Sampaio Correa,0,1,2,1
+34,12.01,Brasil de Pelotas,Juventude,2,1,2,1
+34,12.01,Nautico,America MG,0,0,0,0
+34,12.01,Parana,CSA,2,0,2,0
+34,11.01,Confianca,Operario,1,0,1,2
+34,11.01,CRB,Guarani,0,0,2,0
+34,11.01,Ponte Preta,Cuiaba,1,0,2,2
+33,09.01,Botafogo SP,Chapecoense-SC,2,0,3,0
+33,09.01,America MG,Vitoria,2,0,4,0
+33,08.01,Figueirense,CSA,0,0,0,0
+33,08.01,Sampaio Correa,Cruzeiro,0,1,0,1
+33,08.01,CRB,Confianca,0,0,2,0
+33,08.01,Nautico,Parana,1,1,2,1
+33,08.01,Operario,Oeste,0,0,2,0
+33,08.01,Brasil de Pelotas,Avai,0,0,0,1
+33,05.01,Cuiaba,Juventude,1,0,1,0
+33,05.01,Guarani,Ponte Preta,0,1,1,1
+32,04.01,Confianca,Nautico,0,0,2,0
+32,04.01,Parana,Botafogo SP,0,1,1,1
+32,03.01,Vitoria,Operario,1,1,1,1
+32,03.01,Chapecoense-SC,Brasil de Pelotas,0,0,0,0
+32,02.01,Guarani,America MG,0,1,0,1
+32,02.01,Oeste,Figueirense,2,0,2,1
+32,02.01,CSA,Sampaio Correa,0,0,2,1
+32,30.12,Juventude,Ponte Preta,0,0,2,1
+32,29.12,Cruzeiro,Cuiaba,0,0,0,0
+32,29.12,Avai,CRB,0,0,0,1
+31,28.12,Chapecoense-SC,Parana,2,0,2,0
+31,28.12,Brasil de Pelotas,Confianca,1,0,1,0
+31,26.12,America MG,CRB,1,0,1,0
+31,26.12,Figueirense,Avai,2,0,2,0
+31,23.12,Botafogo SP,Oeste,1,0,1,1
+31,23.12,Sampaio Correa,Guarani,0,0,0,1
+31,22.12,Nautico,Cuiaba,0,0,2,0
+31,22.12,Ponte Preta,Cruzeiro,0,1,2,1
+31,22.12,CSA,Vitoria,2,0,3,0
+31,22.12,Operario,Juventude,1,0,3,0
+30,21.12,Parana,Brasil de Pelotas,0,0,0,1
+30,20.12,CRB,Botafogo SP,0,0,1,0
+30,20.12,Guarani,Figueirense,2,1,2,2
+30,20.12,America MG,Chapecoense-SC,0,1,2,2
+30,19.12,Confianca,Ponte Preta,1,1,1,2
+30,19.12,Nautico,Sampaio Correa,0,0,1,0
+30,18.12,Cuiaba,Operario,1,0,2,0
+30,18.12,Avai,Cruzeiro,0,1,1,1
+30,18.12,Juventude,CSA,1,0,1,0
+30,18.12,Oeste,Vitoria,1,0,2,1
+29,17.12,CRB,Parana,0,1,0,2
+29,17.12,Figueirense,America MG,1,1,1,2
+29,16.12,Chapecoense-SC,Nautico,0,0,0,0
+29,16.12,Guarani,Confianca,1,0,1,0
+29,16.12,Brasil de Pelotas,Botafogo SP,0,0,0,0
+29,15.12,Cruzeiro,CSA,0,1,1,1
+29,15.12,Vitoria,Juventude,1,0,1,0
+29,15.12,Sampaio Correa,Avai,0,1,0,1
+29,15.12,Oeste,Cuiaba,0,1,0,2
+29,14.12,Operario,Ponte Preta,1,0,1,0
+28,13.12,Brasil de Pelotas,Guarani,1,0,3,1
+28,13.12,Botafogo SP,Nautico,1,0,1,1
+28,12.12,Chapecoense-SC,CRB,2,0,3,2
+28,12.12,Confianca,Juventude,0,1,0,1
+28,12.12,America MG,Parana,0,0,1,0
+28,12.12,Figueirense,Cuiaba,0,0,1,0
+28,11.12,Vitoria,Cruzeiro,0,1,0,1
+28,11.12,CSA,Oeste,2,0,2,1
+28,11.12,Ponte Preta,Avai,1,1,1,2
+28,11.12,Operario,Sampaio Correa,1,0,1,1
+27,10.12,Nautico,Brasil de Pelotas,1,0,1,0
+27,09.12,Parana,Figueirense,0,0,0,2
+27,08.12,Avai,Chapecoense-SC,0,1,0,2
+27,08.12,Confianca,CSA,1,2,1,5
+27,08.12,CRB,Cruzeiro,0,0,0,0
+27,08.12,Cuiaba,Vitoria,1,1,3,3
+27,08.12,America MG,Sampaio Correa,1,1,2,1
+27,08.12,Botafogo SP,Ponte Preta,1,0,2,1
+27,08.12,Guarani,Operario,3,0,3,0
+27,08.12,Juventude,Oeste,1,1,2,2
+26,06.12,Figueirense,Nautico,0,0,2,0
+26,05.12,Cuiaba,Botafogo SP,0,0,2,0
+26,05.12,Cruzeiro,Brasil de Pelotas,3,1,4,1
+26,05.12,Sampaio Correa,CRB,2,0,3,0
+26,05.12,CSA,America MG,0,1,0,1
+26,05.12,Juventude,Chapecoense-SC,0,0,1,1
+26,04.12,Ponte Preta,Parana,1,1,2,1
+26,04.12,Vitoria,Confianca,1,1,2,3
+26,04.12,Oeste,Guarani,0,0,0,1
+26,03.12,Operario,Avai,0,0,1,1
+25,02.12,America MG,Cruzeiro,0,1,1,2
+25,02.12,Botafogo SP,Juventude,0,0,1,1
+25,01.12,Parana,Vitoria,0,1,1,4
+25,01.12,Ponte Preta,Sampaio Correa,0,1,1,1
+25,01.12,Confianca,Figueirense,1,0,1,1
+25,01.12,CRB,CSA,0,0,0,0
+25,01.12,Nautico,Guarani,1,0,2,0
+25,01.12,Chapecoense-SC,Cuiaba,0,0,1,0
+25,30.11,Avai,Oeste,0,0,0,3
+25,30.11,Brasil de Pelotas,Operario,0,0,0,0
+24,28.11,Guarani,Chapecoense-SC,2,0,2,0
+24,28.11,Juventude,Nautico,0,0,1,0
+24,28.11,Vitoria,CRB,2,1,2,1
+24,28.11,CSA,Ponte Preta,0,1,2,1
+24,27.11,Cuiaba,Avai,1,0,2,1
+24,27.11,Cruzeiro,Confianca,0,2,1,2
+24,27.11,Oeste,America MG,1,1,1,1
+24,27.11,Operario,Parana,0,0,1,0
+24,27.11,Sampaio Correa,Brasil de Pelotas,0,0,0,1
+24,26.11,Figueirense,Botafogo SP,0,0,0,0
+23,25.11,Nautico,Vitoria,0,0,0,0
+23,24.11,America MG,Juventude,2,1,2,1
+23,24.11,Brasil de Pelotas,CRB,0,0,2,1
+23,24.11,Chapecoense-SC,Cruzeiro,0,0,0,1
+23,24.11,Confianca,Cuiaba,0,0,2,0
+23,24.11,CSA,Operario,0,0,1,0
+23,24.11,Ponte Preta,Oeste,0,0,1,0
+23,24.11,Parana,Guarani,0,1,1,2
+23,23.11,Botafogo SP,Avai,0,1,0,1
+23,23.11,Figueirense,Sampaio Correa,1,0,1,2
+22,21.11,CRB,Nautico,1,0,2,1
+22,21.11,Cuiaba,CSA,0,1,0,1
+22,21.11,Oeste,Brasil de Pelotas,2,0,2,1
+22,21.11,Operario,America MG,0,1,0,1
+22,20.11,Cruzeiro,Figueirense,1,1,1,1
+22,20.11,Guarani,Botafogo SP,1,1,2,1
+22,20.11,Juventude,Parana,3,0,5,0
+22,20.11,Sampaio Correa,Chapecoense-SC,1,1,1,3
+22,20.11,Avai,Confianca,1,0,1,0
+22,20.11,Vitoria,Ponte Preta,0,0,0,0
+11,17.11,Sampaio Correa,Nautico,0,0,2,1
+21,14.11,Cuiaba,America MG,0,0,0,0
+21,14.11,Juventude,Sampaio Correa,1,2,2,3
+21,13.11,Oeste,CRB,0,1,1,2
+21,13.11,Avai,Parana,1,1,2,1
+21,13.11,Operario,Nautico,1,0,3,1
+21,13.11,Ponte Preta,Brasil de Pelotas,1,1,1,1
+21,12.11,Vitoria,Figueirense,2,0,3,0
+21,10.11,Confianca,Botafogo SP,0,0,1,0
+21,10.11,CSA,Chapecoense-SC,0,0,0,1
+21,09.11,Cruzeiro,Guarani,2,2,3,3
+20,08.11,CRB,Juventude,0,0,0,1
+20,08.11,Sampaio Correa,Vitoria,0,1,2,1
+20,07.11,Chapecoense-SC,Oeste,0,0,0,0
+20,07.11,America MG,Ponte Preta,1,0,1,1
+20,07.11,Figueirense,Operario,0,0,0,1
+20,07.11,Brasil de Pelotas,Cuiaba,2,0,3,0
+20,06.11,Parana,Confianca,0,0,1,1
+20,06.11,Botafogo SP,Cruzeiro,0,0,0,1
+20,06.11,Guarani,CSA,1,1,2,1
+20,06.11,Nautico,Avai,0,1,2,2
+5,03.11,Brasil de Pelotas,Sampaio Correa,0,0,0,0
+19,02.11,Ponte Preta,Figueirense,0,1,2,1
+19,01.11,Juventude,Guarani,1,0,1,0
+19,31.10,Cuiaba,CRB,0,0,3,0
+19,31.10,CSA,Nautico,2,1,3,1
+19,31.10,Avai,America MG,0,0,1,0
+19,31.10,Operario,Botafogo SP,0,0,0,0
+19,31.10,Confianca,Chapecoense-SC,0,1,0,2
+19,31.10,Oeste,Sampaio Correa,0,2,0,3
+19,30.10,Cruzeiro,Parana,2,0,2,0
+19,30.10,Vitoria,Brasil de Pelotas,0,0,0,0
+2,27.10,Chapecoense-SC,CSA,0,0,0,0
+18,26.10,Parana,Oeste,1,0,4,0
+18,25.10,Botafogo SP,Vitoria,1,0,2,1
+18,25.10,Figueirense,Juventude,0,1,1,1
+18,25.10,Guarani,Avai,1,0,2,1
+18,25.10,Nautico,Cruzeiro,1,0,1,1
+18,24.10,America MG,Confianca,1,0,2,1
+18,24.10,Sampaio Correa,Cuiaba,2,0,3,0
+18,24.10,CRB,Ponte Preta,1,0,1,0
+18,23.10,Chapecoense-SC,Operario,0,0,1,0
+18,23.10,Brasil de Pelotas,CSA,1,1,1,1
+17,22.10,Vitoria,Guarani,1,0,1,1
+17,21.10,Cuiaba,Parana,1,1,3,3
+17,21.10,Sampaio Correa,Confianca,0,2,1,3
+17,21.10,Figueirense,CRB,1,0,2,0
+17,20.10,Operario,Cruzeiro,0,0,0,1
+17,20.10,Ponte Preta,Chapecoense-SC,0,2,0,5
+17,20.10,CSA,Botafogo SP,0,0,1,0
+17,20.10,Juventude,Avai,1,0,3,0
+17,20.10,Oeste,Nautico,0,0,0,1
+17,20.10,America MG,Brasil de Pelotas,2,1,3,1
+16,18.10,Parana,Sampaio Correa,0,0,0,0
+16,17.10,Brasil de Pelotas,Figueirense,0,0,0,0
+16,17.10,CRB,Operario,1,1,4,1
+16,17.10,Confianca,Oeste,3,1,3,1
+16,17.10,Chapecoense-SC,Vitoria,1,0,1,1
+16,16.10,Cruzeiro,Juventude,0,0,0,0
+16,16.10,Botafogo SP,America MG,0,0,1,2
+9,14.10,CRB,Chapecoense-SC,0,0,0,1
+4,14.10,Sampaio Correa,Figueirense,1,0,3,0
+16,13.10,Guarani,Cuiaba,1,0,1,0
+16,13.10,Avai,CSA,1,1,1,1
+16,12.10,Nautico,Ponte Preta,0,0,0,2
+15,11.10,Sampaio Correa,Botafogo SP,1,0,2,0
+15,11.10,Oeste,Cruzeiro,0,0,0,0
+15,10.10,CSA,Parana,3,0,4,0
+15,10.10,Guarani,CRB,2,1,3,1
+15,10.10,Vitoria,Avai,1,2,1,2
+15,10.10,Juventude,Brasil de Pelotas,0,2,1,2
+15,09.10,America MG,Nautico,1,0,2,0
+15,09.10,Cuiaba,Ponte Preta,1,0,2,1
+15,09.10,Operario,Confianca,1,1,1,1
+15,09.10,Figueirense,Chapecoense-SC,0,0,0,0
+14,08.10,Cruzeiro,Sampaio Correa,1,1,1,2
+14,06.10,Ponte Preta,Guarani,1,0,2,0
+14,06.10,Avai,Brasil de Pelotas,1,0,2,1
+14,06.10,CSA,Figueirense,2,0,3,0
+14,06.10,Juventude,Cuiaba,0,1,1,1
+14,06.10,Parana,Nautico,0,0,0,0
+14,06.10,Vitoria,America MG,0,2,1,2
+14,06.10,Chapecoense-SC,Botafogo SP,0,0,1,0
+14,06.10,Confianca,CRB,0,0,1,0
+14,05.10,Oeste,Operario,0,1,0,1
+13,03.10,Cuiaba,Cruzeiro,0,0,1,0
+13,03.10,Ponte Preta,Juventude,0,1,1,3
+13,03.10,Brasil de Pelotas,Chapecoense-SC,0,0,0,1
+13,03.10,Sampaio Correa,CSA,1,0,1,0
+13,03.10,Nautico,Confianca,0,1,0,1
+13,03.10,America MG,Guarani,0,0,0,0
+13,02.10,Botafogo SP,Parana,1,0,1,0
+13,02.10,CRB,Avai,1,0,3,1
+13,02.10,Operario,Vitoria,0,0,1,1
+13,02.10,Figueirense,Oeste,2,1,4,1
+12,30.09,Cruzeiro,Ponte Preta,2,0,3,0
+12,30.09,Confianca,Brasil de Pelotas,0,1,1,1
+12,29.09,Cuiaba,Nautico,0,0,1,0
+12,29.09,Guarani,Sampaio Correa,1,0,1,1
+12,29.09,Parana,Chapecoense-SC,0,0,1,1
+12,29.09,Oeste,Botafogo SP,0,0,0,1
+12,29.09,Avai,Figueirense,0,0,1,0
+12,29.09,Juventude,Operario,0,0,1,0
+12,29.09,Vitoria,CSA,0,1,0,1
+12,28.09,CRB,America MG,0,0,0,0
+11,27.09,Ponte Preta,Confianca,0,0,2,1
+11,26.09,Brasil de Pelotas,Parana,0,0,1,1
+11,26.09,Vitoria,Oeste,1,1,3,1
+11,26.09,CSA,Juventude,2,0,3,2
+11,26.09,Figueirense,Guarani,1,2,2,2
+11,25.09,Cruzeiro,Avai,0,0,0,1
+11,25.09,Botafogo SP,CRB,1,1,1,2
+11,25.09,Chapecoense-SC,America MG,0,0,0,0
+11,22.09,Operario,Cuiaba,1,0,1,1
+10,21.09,Botafogo SP,Brasil de Pelotas,0,0,0,1
+10,20.09,Avai,Sampaio Correa,1,3,2,5
+10,19.09,CSA,Cruzeiro,2,0,3,1
+10,19.09,Cuiaba,Oeste,2,0,3,0
+10,19.09,Ponte Preta,Operario,1,0,1,1
+10,19.09,America MG,Figueirense,0,0,0,1
+10,18.09,Nautico,Chapecoense-SC,0,0,1,1
+10,18.09,Confianca,Guarani,0,0,1,0
+3,16.09,CSA,Cuiaba,1,1,1,2
+3,15.09,Confianca,Avai,0,1,2,2
+10,14.09,Juventude,Vitoria,1,0,1,1
+10,14.09,Parana,CRB,1,0,2,0
+9,13.09,Oeste,CSA,1,1,2,1
+9,12.09,Nautico,Botafogo SP,3,0,3,1
+9,12.09,Sampaio Correa,Operario,0,0,0,1
+9,12.09,Guarani,Brasil de Pelotas,0,0,0,0
+9,11.09,Cruzeiro,Vitoria,0,0,1,0
+9,11.09,Avai,Ponte Preta,0,0,0,1
+9,09.09,Parana,America MG,0,0,0,1
+9,08.09,Cuiaba,Figueirense,0,0,0,0
+9,08.09,Juventude,Confianca,0,1,3,1
+8,07.09,Cruzeiro,CRB,1,0,1,1
+8,06.09,Chapecoense-SC,Avai,0,0,1,0
+8,05.09,Brasil de Pelotas,Nautico,1,0,2,1
+8,05.09,Operario,Guarani,1,1,1,2
+8,05.09,Sampaio Correa,America MG,0,0,1,0
+8,05.09,CSA,Confianca,1,0,1,1
+8,05.09,Vitoria,Cuiaba,2,1,4,2
+8,05.09,Oeste,Juventude,0,1,1,3
+8,04.09,Ponte Preta,Botafogo SP,0,0,1,0
+8,04.09,Figueirense,Parana,0,0,0,1
+7,02.09,Brasil de Pelotas,Cruzeiro,0,0,1,0
+7,02.09,CRB,Sampaio Correa,0,1,2,2
+7,02.09,America MG,CSA,1,0,2,1
+7,02.09,Avai,Operario,2,0,2,0
+7,01.09,Confianca,Vitoria,0,0,1,0
+7,01.09,Nautico,Figueirense,0,0,1,0
+7,01.09,Chapecoense-SC,Juventude,0,0,1,0
+7,01.09,Parana,Ponte Preta,1,1,2,1
+7,01.09,Botafogo SP,Cuiaba,0,1,1,1
+7,31.08,Guarani,Oeste,0,0,1,1
+6,30.08,CSA,CRB,0,2,0,2
+6,30.08,Operario,Brasil de Pelotas,1,1,2,1
+6,29.08,Sampaio Correa,Ponte Preta,0,2,1,2
+6,29.08,Cruzeiro,America MG,0,2,1,2
+6,29.08,Figueirense,Confianca,0,0,0,0
+6,29.08,Vitoria,Parana,0,0,1,0
+6,29.08,Juventude,Botafogo SP,0,0,0,0
+6,28.08,Guarani,Nautico,1,0,1,2
+6,28.08,Cuiaba,Chapecoense-SC,0,1,2,1
+6,28.08,Oeste,Avai,0,1,0,2
+5,24.08,Chapecoense-SC,Guarani,2,0,2,0
+5,23.08,Confianca,Cruzeiro,1,1,1,1
+5,23.08,Parana,Operario,0,0,0,0
+5,22.08,CRB,Vitoria,1,0,2,2
+5,22.08,Botafogo SP,Figueirense,0,0,0,1
+5,22.08,Nautico,Juventude,2,2,3,3
+5,22.08,Avai,Cuiaba,0,0,0,2
+5,21.08,Ponte Preta,CSA,1,1,2,1
+5,21.08,America MG,Oeste,1,1,2,1
+4,20.08,Cruzeiro,Chapecoense-SC,0,1,0,1
+4,19.08,Vitoria,Nautico,0,0,0,0
+4,18.08,CRB,Brasil de Pelotas,0,0,1,0
+4,18.08,Cuiaba,Confianca,0,0,1,0
+4,18.08,Guarani,Parana,1,0,1,2
+4,18.08,Oeste,Ponte Preta,1,1,1,3
+4,18.08,Avai,Botafogo SP,0,0,0,1
+4,18.08,Operario,CSA,0,0,3,0
+4,17.08,Juventude,America MG,0,0,0,0
+3,16.08,Figueirense,Cruzeiro,0,1,0,1
+3,16.08,Chapecoense-SC,Sampaio Correa,1,0,1,0
+3,15.08,Nautico,CRB,1,0,1,1
+3,15.08,Brasil de Pelotas,Oeste,0,0,1,1
+3,15.08,Botafogo SP,Guarani,0,1,0,1
+3,14.08,Parana,Juventude,2,1,3,1
+3,14.08,Ponte Preta,Vitoria,2,2,3,3
+3,14.08,America MG,Operario,1,0,1,1
+2,12.08,CRB,Oeste,0,0,1,0
+2,11.08,America MG,Cuiaba,0,0,0,1
+2,11.08,Figueirense,Vitoria,0,0,0,0
+2,11.08,Nautico,Operario,0,0,0,0
+2,11.08,Guarani,Cruzeiro,1,2,2,3
+2,11.08,Parana,Avai,0,0,1,0
+2,11.08,Botafogo SP,Confianca,1,0,2,0
+2,11.08,Brasil de Pelotas,Ponte Preta,0,0,1,1
+2,11.08,Sampaio Correa,Juventude,0,0,0,1
+1,09.08,Oeste,Chapecoense-SC,0,0,0,0
+1,08.08,CSA,Guarani,1,0,1,0
+1,08.08,Ponte Preta,America MG,0,1,0,1
+1,08.08,Avai,Nautico,2,0,3,1
+1,08.08,Cruzeiro,Botafogo SP,0,0,2,1
+1,08.08,Vitoria,Sampaio Correa,1,0,1,0
+1,08.08,Operario,Figueirense,1,0,3,1
+1,08.08,Juventude,CRB,1,1,2,1
+1,07.08,Confianca,Parana,0,1,2,2
+1,07.08,Cuiaba,Brasil de Pelotas,0,0,0,0
